@@ -1,0 +1,7 @@
+const MAPSTYLES = [
+    {
+        //featureType:
+        //elementType:
+
+    }
+]
