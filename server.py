@@ -1,13 +1,14 @@
 from flask import Flask, render_template, flash, jsonify, session, request, redirect
-from model import connect_to_db, db, User, User_Resources, Clinic
+from model import connect_to_db, db, User, Clinic
 import os
 from os import environ
 import crud 
 
-#enter all app.route() below:
 app = Flask(__name__) 
+app.secret_key = '1234' #change to longer string
+#GOOGLE_KEY = app.config['GOOGLE_KEY'] 
 
-GOOGLE_KEY = app.config['GOOGLE_KEY'] 
+#Enter all app.route() below:
 
 @app.route('/')
 def homepage():
@@ -22,10 +23,14 @@ def register_user():
     user_name = request.form.get('user_name')
     user_password = request.form.get('user_password')
 
-    user = crud.register_user(user_name, user_password)
-    db.session.add(user)
-    db.session.commit()
-    flash('Account created. Please log in.')
+    user = crud.get_user_name(user_name)
+    if user:
+        flash("Username already exists. Please log in.")
+    else:
+        user = crud.register_user(user_name, user_password)
+        db.session.add(user)
+        db.session.commit()
+        flash("Your account was created successfully.")
 
     return redirect('/')
 
@@ -37,10 +42,10 @@ def login():
     password = request.form.get('user_password')
 
     user = crud.get_user_name(username)
-    if not user.password or user != user:
+    if not user or user.user_password != password:
         flash("Incorrect credentials. Please try again.")
     else:
-        session['user_name'] = User.user_name
+        session['user_name'] = user.user_name
         flash("You are now logged in!")
 
     return redirect('/')
@@ -51,24 +56,24 @@ def view_map():
 
     return render_template('clinicMap.html')
 
-@app.route('/api/clinics')
-def clinic_info():
-    """JSON info about US clinics."""
+# @app.route('/api/clinics')
+# def clinic_info():
+#     """JSON info about US clinics."""
 
-    clinics = []
-    for clinic in clinic.query.limit(50):
-        clinic.append({
-            'Name': clinic.name,
-            'Link': clinic.link,
-            'Phone': clinic.phone,
-            'Address': clinic.address,
-            'Zipcode': clinic.zipcode,
-            'State': clinic.state,
-            'Lat': clinic.lat,
-            'Long': clinic.long,
-        })
+#     clinics = []
+#     for clinic in clinic.query.limit(50):
+#         clinic.append({
+#             'Name': clinic.name,
+#             'Link': clinic.link,
+#             'Phone': clinic.phone,
+#             'Address': clinic.address,
+#             'Zipcode': clinic.zipcode,
+#             'State': clinic.state,
+#             'Lat': clinic.lat,
+#             'Long': clinic.long,
+#         })
     
-    return jsonify(clinics)
+#     return jsonify(clinics)
 
 @app.route('/resources') #route to resource guide
 def show_resource():

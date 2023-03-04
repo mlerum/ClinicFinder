@@ -9,32 +9,30 @@ class User(db.Model):
     __tablename__ = 'users'
 
     user_id = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    user_zipcode = db.Column(db.String, nullable=False)
     user_name = db.Column(db.String(25), nullable=False)
     user_password = db.Column(db.String(25), nullable=False)
-    #user_state = db.Column(db.Integer)
 
-    maps = db.relationship('User_Resources', back_populates='user')
+    #maps = db.relationship('User_Resources', back_populates='user')
 
     def __repr__(self):
         """Show info about user."""
         return f'<User name={self.user_name}>' #need to edit
     
-class User_Resources(db.Model):
-    """User resources."""
+# class User_Resources(db.Model):
+#     """User resources."""
 
-    __tablename__ = 'maps'
+#     __tablename__ = 'maps'
 
-    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    user_id = db.Column(db.Integer, db.ForeignKey('User.user_id'))
-    clinic_id = db.Column(db.Integer, db.ForeignKey('Clinic.clinic_id'))
+#     id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+#     user_id = db.Column(db.Integer, db.ForeignKey('User.user_id'))
+#     clinic_id = db.Column(db.Integer, db.ForeignKey('Clinic.clinic_id'))
 
-    users = db.relationship('User', back_populates='maps')
-    clinics = db.relationship('Clinic', back_populates='maps')
+#     users = db.relationship('User', back_populates='maps')
+#     clinics = db.relationship('Clinic', back_populates='maps')
 
-    def __repr__(self):
-        """Show info about users resources."""
-        return f'<Id={self.id}>' #need to edit
+#     def __repr__(self):
+#         """Show info about users resources."""
+#         return f'<Id={self.id}>' #need to edit
     
 class Clinic(db.Model):
     """List of all clinics."""
@@ -51,7 +49,7 @@ class Clinic(db.Model):
     lat = db.Column(db.Float, nullable=True)
     lng = db.Column(db.Float, nullable=True)
 
-    maps = db.relationship('User_Resources', back_populates='clinics')
+    #maps = db.relationship('User_Resources', back_populates='clinics')
 
     def __init__(self, clinic_id, name, link, phone, address, zipcode, state, lat, long):
         self.clinic_id, self.name, self.link, self.phone, self.address, self.zipcode, self.state, self.lat, self.long
