@@ -5,8 +5,8 @@
             "phone": "800-769-0045",
             "address": "1867 Airport Way, Suite 160b, Fairbanks, AK",
             "coords": {
-                "lat": 44.04514,//
-                "lng": -123.04082
+                "lat": 64.83581,
+                "lng": -147.75537
             }
         },
         {
@@ -14,8 +14,8 @@
             "phone": "800-769-0045",
             "address": "4001 Lake Otis Parkway #101, Anchorage, AK",
             "coords": {
-                "lat": 44.04514,//
-                "lng": -123.04082
+                "lat": 61.18430,
+                "lng": -149.83538
             }
         },
         {
@@ -23,8 +23,8 @@
             "phone": "800-769-0045",
             "address": "3231 Glacier Hwy., Juneau, AK",
             "coords": {
-                "lat": 44.04514,//
-                "lng": -123.04082
+                "lat": 58.33034,
+                "lng": -134.47137
             }
         },
         {
@@ -32,8 +32,8 @@
             "phone": "602-279-2337",
             "address": "4141 North 32nd Street, Suite 105, Phoenix, AZ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.49692,
+                "lng": -112.01106
             }
         },
         {
@@ -41,8 +41,8 @@
             "phone": "602-462-5559",
             "address": "2023 W Bethany Home Rd, Phoenix, AZ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.52417,
+                "lng": -112.10124
             }
         },
         {
@@ -50,8 +50,8 @@
             "phone": "480-447-8857",
             "address": "5501 North 19th Avenue, Suite 420, Phoenix, AZ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.51758,
+                "lng": -112.09803
             }
         },
         {
@@ -59,8 +59,8 @@
             "phone": "602-553-0440",
             "address": "1331 North 7th Street, Suite 225, Phoenix, AZ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.46389,
+                "lng": -12.06317
             }
         },
         {
@@ -68,8 +68,8 @@
             "phone": "602-277-7526",
             "address": "5771 West Eugie, Glendale, AZ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.60879,
+                "lng": -112.18226
             }
         },
         {
@@ -77,8 +77,8 @@
             "phone": "520-210-8330",
             "address": "5240 East Knight, Suite #112, Tucson, AZ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 32.24891,
+                "lng": -110.87894
             }
         },
         {
@@ -86,8 +86,8 @@
             "phone": "520-408-7526",
             "address": "2255 North Wyatt Drive, Tucson, AZ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 32.24839,
+                "lng": -110.88040
             }
         },
         {
@@ -95,8 +95,8 @@
             "phone": "530-351-7100",
             "address": "2935 Bechelli Lane, Suite A & C, Redding, CA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 40.56492,
+                "lng": -122.36084
             }
         },
         {
@@ -104,8 +104,8 @@
             "phone": "530-221-0193",
             "address": "1901 Victor Avenue, Redding, CA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 40.58127,
+                "lng": -122.32882
             }
         },
         {
@@ -113,8 +113,8 @@
             "phone": "559-446-1515",
             "address": "6095 N. 1st Street, Fresno, CA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 36.82552,
+                "lng": -119.77212
             }
         },
         {
@@ -122,8 +122,8 @@
             "phone": "559-675-1133",
             "address": "500 E. Almond, Suite 1, Madera, CA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 36.94580,
+                "lng": -120.05037
             }
         },
         {
@@ -131,8 +131,8 @@
             "phone": "661-634-1000",
             "address": "2633 16th Street, Bakersfield, CA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.37240,
+                "lng": -119.03101
             }
         },
         {
@@ -140,8 +140,8 @@
             "phone": "408-847-1739",
             "address": "760 Renz Lane, Gilroy, CA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 37.00436,
+                "lng": -121.55431
             }
         },
         {
@@ -149,8 +149,8 @@
             "phone": "408-729-7600",
             "address": "3131 Alum Rock Ave, San Jose, CA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 37.36665,
+                "lng": -121.82590
             }
         },
         {
@@ -158,8 +158,8 @@
             "phone": "831-426-5550",
             "address": "11119 Pacific Avenue, Suite 200, Santa Crux, CA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 36.97261,
+                "lng": -122.02453
             }
         },
         {
@@ -167,8 +167,8 @@
             "phone": "970-926-6340",
             "address": "108 S Frontage Rd, W, Vail, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.64383,
+                "lng": -106.37978
             }
         },
         {
@@ -176,8 +176,8 @@
             "phone": "970-926-6340",
             "address": "50 Buck Creek Road, Suite 200, Avon, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.63991,
+                "lng": -106.52103
             }
         },
         {
@@ -185,8 +185,8 @@
             "phone": "303-425-6624",
             "address": "7735 Wadsworth Boulevard, #d, Arvada, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.83748,
+                "lng": -105.08241
             }
         },
         {
@@ -194,8 +194,8 @@
             "phone": "303-447-1361",
             "address": "1130 Alpine Avenue, Boulder, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.02571,
+                "lng": -105.28153
             }
         },
         {
@@ -203,8 +203,8 @@
             "phone": "303-798-0963",
             "address": "131 West County Line Road, Littleton, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.56776,
+                "lng": -104.98820
             }
         },
         {
@@ -212,17 +212,17 @@
             "phone": "303-447-1040",
             "address": "2525 Arapahoe Avenue, Suite C-200, Boulder, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.01576,
+                "lng": -105.26122
             }
         },
         {
-            "name": "Healthy Futures",
+            "name": "Healthy Futures for Women",
             "phone": "303-991-7700",
             "address": "330 East Hampden Avenue, Suite 201, Englewood, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.65327,
+                "lng": -104.98242
             }
         },
         {
@@ -230,8 +230,8 @@
             "phone": "303-442-5160",
             "address": "2855 Valmont Road, Boulder, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.03002,
+                "lng": -105.25534
             }
         },
         {
@@ -239,8 +239,8 @@
             "phone": "303-388-4631",
             "address": "4545 E 9th Ave, Suite 502, Denver, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.73735,
+                "lng": -104.90887
             }
         },
         {
@@ -248,17 +248,17 @@
             "phone": "303-399-3315",
             "address": "4500 East 9th Avenue, Suite 700, Denver, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.73115,
+                "lng": -104.93364
             }
         },
         {
-            "name": "Planned Parenthood - Park Hill of Denver Health Center",
+            "name": "Planned Parenthood - Park Hill",
             "phone": "303-321-2458",
             "address": "7155 East 38th Avenue, Denver, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.77001,
+                "lng": -104.90432
             }
         },
         {
@@ -266,8 +266,8 @@
             "phone": "303-671-7526",
             "address": "1284 South Abilene Street, Aurora, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.69329,
+                "lng": -104.82611
             }
         },
         {
@@ -275,8 +275,8 @@
             "phone": "970-925-9480",
             "address": "401 Castle Creek Road, Suite 2400B, Aspen, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.19082,
+                "lng": -106.83758
             }
         },
         {
@@ -284,8 +284,8 @@
             "phone": "719-475-7162",
             "address": "3480 Centennial Boulevard, Colorado Springs, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.88097,
+                "lng": -104.84779
             }
         },
         {
@@ -293,8 +293,8 @@
             "phone": "970-493-0281",
             "address": "825 South Shields Street, Fort Collins, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.57554,
+                "lng": -105.09487
             }
         },
         {
@@ -302,8 +302,8 @@
             "phone": "970-352-4762",
             "address": "3487B West 10th Street, Greeley, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.42388,
+                "lng": -104.73342
             }
         },
         {
@@ -311,8 +311,8 @@
             "phone": "970-945-8631",
             "address": "50923 Highway 6, Glenwood Springs, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.56211,
+                "lng": -107.36365
             }
         },
         {
@@ -320,8 +320,8 @@
             "phone": "719-884-4070",
             "address": "1930 E Orman Avenue, Pueblo, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.23391,
+                "lng": -104.61865
             }
         },
         {
@@ -329,8 +329,8 @@
             "phone": "970-247-3002",
             "address": "46 Suttle Street, Durango, CO",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 37.24736,
+                "lng": -107.87482
             }
         },
         {
@@ -338,8 +338,8 @@
             "phone": "203-753-2119",
             "address": "969 W Main Street, Waterbury, CT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.56887,
+                "lng": -73.05977
             }
         },
         {
@@ -347,8 +347,8 @@
             "phone": "860-489-5500",
             "address": "249 Winsted Road, Torrington, CT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.82373,
+                "lng": -73.11620
             }
         },
         {
@@ -356,17 +356,8 @@
             "phone": "203-238-0542",
             "address": "26 Women's Way, Meriden, CT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-        {
-            "name": "UConn Health - Women's Center",
-            "phone": "860-679-2792",
-            "address": "263 Farmington Avenue, Farmington, CT",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.54304,
+                "lng": -72.79786
             }
         },
         {
@@ -374,8 +365,8 @@
             "phone": "860-953-6201",
             "address": "1030 New Britain Ave, West Hartford, CT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.73067,
+                "lng": -72.72227
             }
         },
         {
@@ -383,8 +374,8 @@
             "phone": "202-844-2004",
             "address": "1120 19th Street NW, Washington, DC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.90487,
+                "lng": -77.04290
             }
         },
         {
@@ -392,8 +383,8 @@
             "phone": "202-780-3539",
             "address": "2112 F Street NW, Suite 400, Washington, DC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.89763,
+                "lng": -77.04547
             }
         },
         {
@@ -401,8 +392,8 @@
             "phone": "202-347-8512",
             "address": "1225 4th Street NE, Washington, DC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.90653,
+                "lng": -76.99909
             }
         },
         {
@@ -410,8 +401,8 @@
             "phone": "202-877-7479",
             "address": "106 Irving Street, Suite 4700N, Washington, DC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.92983,
+                "lng": -77.01242
             }
         },
         {
@@ -419,8 +410,8 @@
             "phone": "302-678-5200",
             "address": "805 South Governors Avenue, Dover, DE",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.14870,
+                "lng": -75.52341
             }
         },
         {
@@ -428,8 +419,8 @@
             "phone": "800-230-7526",
             "address": "800 Health Services Drive, Seaford, DE",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.66045,
+                "lng": -75.60094
             }
         },
         {
@@ -437,8 +428,8 @@
             "phone": "302-623-4174",
             "address": "4735 Ogletown-Stanton Road, Suite 1109, Newark, DE",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.68605,
+                "lng": -75.67155
             }
         },
         {
@@ -446,8 +437,8 @@
             "phone": "8302-655-7293",
             "address": "625 North Shipley Street, Wilmington, DE",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.74318,
+                "lng": -75.54882
             }
         },
         {
@@ -455,8 +446,8 @@
             "phone": "863-644-7541",
             "address": "4444 South Florida Avenue, Lakeland, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 27.98638,
+                "lng": -81.94379
             }
         },
         {
@@ -464,8 +455,8 @@
             "phone": "407-246-1788",
             "address": "610 Oak Commons Boulevard, Kissimmee, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 28.30177,
+                "lng": -81.40901
             }
         },
         {
@@ -473,8 +464,8 @@
             "phone": "813-978-1919",
             "address": "14498 University Cove Place, Tampa, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 28.07773,
+                "lng": -82.42378
             }
         },
         {
@@ -482,8 +473,8 @@
             "phone": "813-977-6176",
             "address": "2010 East Fletcher Avenue, Tampa, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 28.06986,
+                "lng": -82.43477
             }
         },
         {
@@ -491,8 +482,8 @@
             "phone": "813-874-0505",
             "address": "3330 West Kennedy Boulevard, Tampa, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 27.94476,
+                "lng": -82.49733
             }
         },
         {
@@ -500,8 +491,8 @@
             "phone": "813-443-9794",
             "address": "236 East Bearss Avenue, Tampa, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 28.08970,
+                "lng": -82.45636
             }
         },
         {
@@ -509,8 +500,8 @@
             "phone": "941-953-4060",
             "address": "4736 Central Avenue, Sarasota, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 27.34320,
+                "lng": -82.54098
             }
         },
         {
@@ -518,8 +509,8 @@
             "phone": "941-366-7066",
             "address": "2700 South Tamiami Trail, Suite 5, Sarasota, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 27.30994,
+                "lng": -82.52872
             }
         },
         {
@@ -527,8 +518,8 @@
             "phone": "407-246-1788",
             "address": "11500 University Boulevard, Orlando, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 28.59763,
+                "lng": -81.21900
             }
         },
         {
@@ -536,8 +527,8 @@
             "phone": "407-335-4934",
             "address": "1800 Pembrook Drive, Suite 300, Orlando, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 28.63254,
+                "lng": -81.40003
             }
         },
         {
@@ -545,8 +536,8 @@
             "phone": "407-834-2262",
             "address": "431 Maitland Avenue, Altamonte Springs, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 28.65605,
+                "lng": -81.36394
             }
         },
         {
@@ -554,8 +545,8 @@
             "phone": "727-327-3300",
             "address": "4131 Central Avenue, St. Petersburg, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 27.77169,
+                "lng": -82.68790
             }
         },
         {
@@ -563,8 +554,8 @@
             "phone": "772-460-1506",
             "address": "503 South 12th Street, Ft. Pierce, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 27.44324,
+                "lng": -80.33425
             }
         },
         {
@@ -572,8 +563,8 @@
             "phone": "727-381-6620",
             "address": "3401 66th Street North, St. Petersburg, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 27.80397,
+                "lng": -82.72675
             }
         },
         {
@@ -581,8 +572,8 @@
             "phone": "727-785-2525",
             "address": "28960 US Highway 19 North, Suite 110, Clearwater, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 28.03597,
+                "lng": -82.73637
             }
         },
         {
@@ -590,8 +581,8 @@
             "phone": "772-692-2023",
             "address": "1696 SE Hillmoor Drive, Port St. Lucie, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 27.28867,
+                "lng": -80.29554
             }
         },
         {
@@ -599,8 +590,8 @@
             "phone": "727-446-2690",
             "address": "1560 South Highland Avenue, Clearwater, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 27.94018,
+                "lng": -82.77353
             }
         },
         {
@@ -608,8 +599,8 @@
             "phone": "239-481-9999",
             "address": "6418 Commerce Park Drive, Ft. Myers, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 26.54865,
+                "lng": -81.84819
             }
         },
         {
@@ -617,8 +608,8 @@
             "phone": "561-686-3859",
             "address": "100 Northpoint Parkway, West Palm Beach, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 26.76065,
+                "lng": -80.09811
             }
         },
         {
@@ -626,8 +617,8 @@
             "phone": "561-296-4919",
             "address": "2300 N Florida Mango Road, West Palm Beach, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 26.69430,
+                "lng": -80.07672
             }
         },
         {
@@ -635,8 +626,8 @@
             "phone": "561-226-4116",
             "address": "8177 Glades Road, Bay 25, Boco Raton, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 26.36974,
+                "lng": -80.17032
             }
         },
         {
@@ -644,8 +635,8 @@
             "phone": "954-720-7777",
             "address": "7777 North University Boulevard, Suite 102, Ft. Lauderdale, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 26.21837,
+                "lng": -80.25274
             }
         },
         {
@@ -653,8 +644,8 @@
             "phone": "954-772-6200",
             "address": "962 East Cypress Creek Road, Fort Lauderdale, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 26.20353,
+                "lng": -80.13238
             }
         },
         {
@@ -662,8 +653,8 @@
             "phone": "954-792-9198",
             "address": "10 Southwest 44th Avenue, Plantation, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 26.12069,
+                "lng": -80.20486
             }
         },
         {
@@ -671,8 +662,8 @@
             "phone": "954-989-5747",
             "address": "263 North University Drive, Pembroke Pines, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 26.01204,
+                "lng": -80.24514
             }
         },
         {
@@ -680,8 +671,8 @@
             "phone": "904-731-2755",
             "address": "1545 Huffingham Road, Jacksonville, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 30.29414,
+                "lng": -81.59878
             }
         },
         {
@@ -689,8 +680,8 @@
             "phone": "904-448-8877",
             "address": "4131 University Boulevard South, Building 2, Jacksonville, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 30.28192,
+                "lng": -81.60043
             }
         },
         {
@@ -698,8 +689,8 @@
             "phone": "904-399-2800",
             "address": "5978 Powers Avenue, Jacksonville, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 30.26279,
+                "lng": -81.61982
             }
         },
         {
@@ -707,8 +698,8 @@
             "phone": "352-378-9191",
             "address": "1135 N. W. 23rd Avenue, Suite N, Gainesville, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 29.67405,
+                "lng": -82.33506
             }
         },
         {
@@ -716,8 +707,8 @@
             "phone": "352-372-1664",
             "address": "1233 NW 10th Street, Gainesville, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 29.66158,
+                "lng": -82.33654
             }
         },
         {
@@ -725,8 +716,8 @@
             "phone": "850-877-3183",
             "address": "2412 West Plaza Drive, Tallahassee, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 30.45777,
+                "lng": -84.23855
             }
         },
         {
@@ -734,8 +725,8 @@
             "phone": "850-574-7455",
             "address": "2618 Tennessee Street, Tallahassee, FL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 30.45224,
+                "lng": -84.33301
             }
         },
         {
@@ -743,8 +734,8 @@
             "phone": "888-562-7415",
             "address": "2903 Professional Parkway, Augusta, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.49995,
+                "lng": -82.07901
             }
         },
         {
@@ -752,17 +743,17 @@
             "phone": "912-351-0116",
             "address": "720 East 71st St, Savannah, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 32.02746,
+                "lng": -81.09490
             }
         },
         {
             "name": "Columbus Women's Health",
             "phone": "706-323-8363",
-            "address": "3850 Rosemond Drive, Columbus, GA",
+            "address": "3850 Rosemont Drive, Columbus, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 32.50178,
+                "lng": -84.95730
             }
         },
         {
@@ -770,8 +761,8 @@
             "phone": "404-288-0746",
             "address": "44150 Snapfinger Woods Drive, Decatur, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.71544,
+                "lng": -84.21925
             }
         },
         {
@@ -779,8 +770,8 @@
             "phone": "404-758-9900",
             "address": "519 Forest Parkway, Suite 100, Forest Park, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.62156,
+                "lng": -84.37104
             }
         },
         {
@@ -788,8 +779,8 @@
             "phone": "770-991-7552",
             "address": "6210 Old National Highway, College Park, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.58623,
+                "lng": -84.46683
             }
         },
         {
@@ -797,8 +788,8 @@
             "phone": "404-688-9300",
             "address": "440 Moreland Avenue SE, Atlanta, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.74255,
+                "lng": -84.34729
             }
         },
         {
@@ -806,8 +797,8 @@
             "phone": "404-688-9300",
             "address": "355 Philip Blvd, Lawrenceville, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.96640,
+                "lng": -84.02263
             }
         },
         {
@@ -815,8 +806,8 @@
             "phone": "404-607-0042",
             "address": "1874 Piedmont Avenue NE, Suite 500E, Atlanta, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.80831,
+                "lng": -84.36485
             }
         },
         {
@@ -824,8 +815,8 @@
             "phone": "770-212-9660",
             "address": "1874 Piedmont Avenue NE, Suite 570E, Atlanta, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.80783,
+                "lng": -84.36580
             }
         },
         {
@@ -833,8 +824,8 @@
             "phone": "404-728-7990",
             "address": "1924 Cliff Valley Way NE, Atlanta, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.83598,
+                "lng": -84.32291
             }
         },
         {
@@ -842,8 +833,8 @@
             "phone": "855-729-2272",
             "address": "1800 Peachtree Street NW, Suite 800, Atlanta, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.80407,
+                "lng": -84.39169
             }
         },
         {
@@ -851,8 +842,8 @@
             "phone": "404-257-0057",
             "address": "235 West Wieuca Road, Atlanta, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.87658,
+                "lng": -84.37793
             }
         },
         {
@@ -860,8 +851,8 @@
             "phone": "404-688-9300",
             "address": "220 Cobb Parkway North, Suite 500, Marietta, GA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 33.95593,
+                "lng": -84.52061
             }
         },
         {
@@ -869,8 +860,8 @@
             "phone": "877-811-7526",
             "address": "4409 Stone Avenue, Sioux City, IA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 42.47999,
+                "lng": -96.34843
             }
         },
         {
@@ -878,8 +869,8 @@
             "phone": "877-849-0771",
             "address": "11604 2nd Avenue, Council Bluffs, IA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.26017,
+                "lng": -95.86795
             }
         },
         {
@@ -887,8 +878,8 @@
             "phone": "877-849-0763",
             "address": "2530 Chamberlain Street, Ames, IA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 42.02141,
+                "lng": -93.65010
             }
         },
         {
@@ -896,8 +887,8 @@
             "phone": "877-811-7526",
             "address": "1000 East Army Post Road, Des Moines, IA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.52810,
+                "lng": -93.60112
             }
         },
         {
@@ -905,8 +896,8 @@
             "phone": "877-811-7526",
             "address": "850 Orchard Street, Iowa City, IA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.64973,
+                "lng": -91.53997
             }
         },
         {
@@ -914,8 +905,8 @@
             "phone": "319-337-2111",
             "address": "227 North Dubuque Street, Iowa City, IA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.66474,
+                "lng": -91.53186
             }
         },
         {
@@ -923,8 +914,8 @@
             "phone": "309-827-4014",
             "address": "1319 N. Veterans Parkway, Suite 3-a, Bloomington, IL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.49610,
+                "lng": -88.95100
             }
         },
         {
@@ -932,8 +923,8 @@
             "phone": "217-877-6474",
             "address": "3021 N Oakland Ave, Decatur, IL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.87761,
+                "lng": -88.97175
             }
         },
         {
@@ -941,8 +932,8 @@
             "phone": "815-433-4111",
             "address": "612 Court Street, Ottawa, IL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.34659,
+                "lng": -88.84066
             }
         },
         {
@@ -950,8 +941,8 @@
             "phone": "217-546-1060",
             "address": "601 N. Bruns, Springfield, IL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.84945,
+                "lng": -89.69162
             }
         },
         {
@@ -959,8 +950,8 @@
             "phone": "224-350-2991",
             "address": "2111 W. Park Ct., Champaign, IL",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.11774,
+                "lng": -88.28291
             }
         },
         {
@@ -968,8 +959,8 @@
             "phone": "317-955-2641",
             "address": "3607 West 16th Street, Suite B-2, Indianapolis, IN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.78767,
+                "lng": -86.21992
             }
         },
         {
@@ -977,8 +968,8 @@
             "phone": "317-353-9371",
             "address": "1201 North Arlington Avenue, Indianapolis, IN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.78467,
+                "lng": -86.06250
             }
         },
         {
@@ -986,8 +977,8 @@
             "phone": "765-446-8078",
             "address": "964 Mezzanine Dr., Lafeyette, IN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.40495,
+                "lng": -86.83139
             }
         },
         {
@@ -995,8 +986,8 @@
             "phone": "812-336-0219",
             "address": "421 S College Ave, Bloomington, IN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.16248,
+                "lng": -86.53305
             }
         },
         {
@@ -1004,8 +995,8 @@
             "phone": "219-769-3500",
             "address": "8645 Connecticut Street, Merrillville, IN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.46178,
+                "lng": -87.33237
             }
         },
 
@@ -1014,8 +1005,8 @@
             "phone": "316-263-7575",
             "address": "2226 E Central, Wichita, KS",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 37.69410,
+                "lng": -97.30805
             }
         },
         {
@@ -1023,8 +1014,8 @@
             "phone": "316-260-6934",
             "address": "5107 East Kellogg Drive, Wichita, KS",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 37.67922,
+                "lng": -97.27551
             }
         },
         {
@@ -1032,8 +1023,8 @@
             "phone": "800-230-7526",
             "address": "6013 Leavenworth Rd, Kansas City, KS",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.14327,
+                "lng": -94.71706
             }
         },
         {
@@ -1041,8 +1032,8 @@
             "phone": "913-491-6878",
             "address": "4840 College Boulevard, Overland Park, KS",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.92871,
+                "lng": -94.64021
             }
         },
         {
@@ -1050,8 +1041,8 @@
             "phone": "913-345-1400",
             "address": "4401 W 109th Street, #100, Overland Park, KS",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 438.93137,
+                "lng": -94.63474
             }
         },
         {
@@ -1059,8 +1050,8 @@
             "phone": "508-222-7555",
             "address": "150 Emory Street, Attleboro, MA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.94298,
+                "lng": -71.26868
             }
         },
         {
@@ -1068,8 +1059,8 @@
             "phone": "617-575-5570",
             "address": "2067 Massachusetts Avenue, Cambridge, MA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 42.39274,
+                "lng": -71.11871
             }
         },
         {
@@ -1077,8 +1068,8 @@
             "phone": "800-258-4448",
             "address": "1055 Commonwealth Ave, Boston, MA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 42.35290,
+                "lng": -71.12076
             }
         },
         {
@@ -1086,8 +1077,8 @@
             "phone": "617-277-0009",
             "address": "111 Harvard Street, Brookline, MA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 42.33709,
+                "lng": -71.11942
             }
         },
         {
@@ -1095,27 +1086,17 @@
             "phone": "617-277-0090",
             "address": "1180 Beacon Street, Unit 5B, Brookline, MA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 42.34480,
+                "lng": -71.11485
             }
         },
-        {
-            "name": "Cambridge Health Alliance - Reproductive Health Clinic",
-            "phone": "617-591-6746",
-            "address": "1493 Cambridge St, 3rd Floor, Cambridge, MA",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-
         {
             "name": "Planned Parenthood - Easton Health Center, MD",
             "phone": "410-576-1414",
             "address": "8579 Commerce Drive #102, Easton, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.78445,
+                "lng": -76.08081
             }
         },
         {
@@ -1123,8 +1104,8 @@
             "phone": "410-576-1414",
             "address": "929 West Street, Suite 200, Annapolis, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.97675,
+                "lng": -76.50898
             }
         },
         {
@@ -1132,8 +1113,8 @@
             "phone": "410-391-1000",
             "address": "17 Fontana Lane, Suite 201, Rosedale, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.33938,
+                "lng": -76.48851
             }
         },
         {
@@ -1141,8 +1122,8 @@
             "phone": "410-550-9840",
             "address": "4940 Eastern Ave, Baltimore, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.29076,
+                "lng": -76.54577
             }
         },
         {
@@ -1150,17 +1131,8 @@
             "phone": "410-661-2900",
             "address": "7648 Belair Road, Baltimore, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-        {
-            "name": "The Johns Hopkins Outpatient Center",
-            "phone": "410-550-9840",
-            "address": "601 North Caroline Street, Baltimore, MD",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.36776,
+                "lng": -76.51942
             }
         },
         {
@@ -1168,8 +1140,8 @@
             "phone": "410-576-1414",
             "address": "330 North Howard Street, Baltimore, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.29406,
+                "lng": -76.61879
             }
         },
         {
@@ -1177,8 +1149,8 @@
             "phone": "410-328-5925",
             "address": "22 South Greene Street, Baltimore, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.28827,
+                "lng": -76.62496
             }
         },
         {
@@ -1186,8 +1158,8 @@
             "phone": "410-576-1414",
             "address": "8501 LaSalle Road, Loch Ridge Shopping Center, Towson, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.39388,
+                "lng": -76.57487
             }
         },
         {
@@ -1195,17 +1167,8 @@
             "phone": "301-474-5300",
             "address": "5915 Greenbelt Road, College Park, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-        {
-            "name": "Potomac Family Planning Center - Catonsville",
-            "phone": "410-788-4400",
-            "address": "5602 Baltimore National Pike, Suite 600, Catonsville, MD",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.99810,
+                "lng": -76.91113
             }
         },
         {
@@ -1213,8 +1176,8 @@
             "phone": "410-576-1414",
             "address": "1866 Reisterstown Road, Pikesville, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.39034,
+                "lng": -76.74018
             }
         },
         {
@@ -1222,8 +1185,8 @@
             "phone": "301-423-3313",
             "address": "5625 Allentown Road, Suite 203, Camp Springs, MD",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.81058,
+                "lng": -76.89514
             }
         },
         {
@@ -1231,8 +1194,8 @@
             "phone": "207-922-3222",
             "address": "311 Corinna Road, Dexter, ME",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.99515,
+                "lng": -69.27887
             }
         },
         {
@@ -1240,8 +1203,8 @@
             "phone": "207-922-3222",
             "address": "188 Madison Avenue, Skowhegan, ME",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.77435,
+                "lng": -69.72256
             }
         },
         {
@@ -1249,8 +1212,8 @@
             "phone": "207-922-3222",
             "address": "68 Mt. Hope Avenue, Bangor, ME",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.81357,
+                "lng": -68.76188
             }
         },
         {
@@ -1258,8 +1221,8 @@
             "phone": "207-947-5337",
             "address": "700 Mount Hope Avenue, Suite 420, Bangor, ME",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.82600,
+                "lng": -68.73451
             }
         },
         {
@@ -1267,8 +1230,8 @@
             "phone": "207-922-3222",
             "address": "18 Silver Street, Waterville, ME",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.54887,
+                "lng": -69.62930
             }
         },
         {
@@ -1276,8 +1239,8 @@
             "phone": "231-929-1844",
             "address": "1135 E. Eighth St., Traverse City, MI",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.75926,
+                "lng": -85.59180
             }
         },
         {
@@ -1285,8 +1248,8 @@
             "phone": "231-347-9692",
             "address": "1003 Spring St., Petoskey, MI",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 45.36444,
+                "lng": -84.96862
             }
         },
         {
@@ -1294,8 +1257,8 @@
             "phone": "616-458-3694",
             "address": "320 East Fulton Street, Grand Rapids, MI",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 42.96321,
+                "lng": -85.65955
             }
         },
         {
@@ -1303,8 +1266,8 @@
             "phone": "7616-459-3101",
             "address": "425 Cherry St. Se, Grand Rapids, MI",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 42.96020,
+                "lng": -85.65619
             }
         },
         {
@@ -1312,17 +1275,17 @@
             "phone": "989-790-1040",
             "address": "3141 South Cabaret Trail, Suite 100, Saginaw, MI",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 43.46306,
+                "lng": -83.97693
             }
         },
         {
             "name": "Planned Parenthood - Rochester Clinic",
             "phone": "507-288-5186",
-            "address": "21212 7th St. NW, Rochester, MN",
+            "address": "1212 7th St. NW, Rochester, MN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.03126,
+                "lng": -92.47959
             }
         },
         {
@@ -1330,8 +1293,8 @@
             "phone": "218-477-3191",
             "address": "302 Highway 75 N, Suite 108, Moorhead, MN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 46.87871,
+                "lng": -96.74129
             }
         },
         {
@@ -1339,8 +1302,8 @@
             "phone": "218-727-3352",
             "address": "32 East 1st Street, Suite 300, Duluth, MN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 46.78858,
+                "lng": -92.09666
             }
         },
         {
@@ -1348,8 +1311,8 @@
             "phone": "763-560-3050",
             "address": "7532 Brooklyn Boulevard, Brooklyn Park, MN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 45.09218,
+                "lng": -93.35100
             }
         },
         {
@@ -1357,17 +1320,8 @@
             "phone": "763-533-2534",
             "address": "3819 West Broadway Avenue, Minneapolis, MN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-        {
-            "name": "Robbinsdale Clinic",
-            "phone": "763-533-2534",
-            "address": "3819 West Broadway Avenue, Minneapolis, MN",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 45.02519,
+                "lng": -93.33089
             }
         },
         {
@@ -1375,8 +1329,8 @@
             "phone": "612-823-6300",
             "address": "1200 Lagoon Ave, Minneapolis, MN",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.94981,
+                "lng": -93.29346
             }
         },
         {
@@ -1384,8 +1338,8 @@
             "phone": "405-443-7676",
             "address": "1500 Cannon St, Helena, MT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 46.60293,
+                "lng": -112.05563
             }
         },
         {
@@ -1393,8 +1347,8 @@
             "phone": "406-656-9980",
             "address": "1844 Broadwater, Suite 4, Billings, MT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 45.77654,
+                "lng": -108.56195
             }
         },
         {
@@ -1402,8 +1356,8 @@
             "phone": "406-721-1646",
             "address": "610 North Carolina Street, Missoula, MT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 46.87766,
+                "lng": -114.01171
             }
         },
         {
@@ -1411,8 +1365,8 @@
             "phone": "406-730-8682",
             "address": "737 Spokane Avenue, PO Box 4027, Whitefish, MT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 48.40473,
+                "lng": -114.33326
             }
         },
         {
@@ -1420,8 +1374,8 @@
             "phone": "877-811-7526",
             "address": "5631 S. 48th Street, Suite 100, Lincoln, NE",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.75653,
+                "lng": -96.65288
             }
         },
         {
@@ -1429,8 +1383,8 @@
             "phone": "877-811-7526",
             "address": "3105 N. 93rd St, Omaha, NE",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.28756,
+                "lng": -96.05331
             }
         },
         {
@@ -1438,8 +1392,8 @@
             "phone": "402-281-4797",
             "address": "1002 West Mission Avenue, Bellevue, NE",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.13723,
+                "lng": -95.90434
             }
         },
         {
@@ -1447,8 +1401,8 @@
             "phone": "704-367-2255",
             "address": "421 North Wendover Road, Charlotte, NC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.19050,
+                "lng": -80.80397
             }
         },
         {
@@ -1456,8 +1410,8 @@
             "phone": "866-942-7762",
             "address": "4551 Yadkin Road, Fayetteville, NC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.07960,
+                "lng": -78.95789
             }
         },
         {
@@ -1465,8 +1419,8 @@
             "phone": "704-665-4120",
             "address": "3220 Latrobe Drive, Charlotte, NC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.19941,
+                "lng": -80.80223
             }
         },
         {
@@ -1474,8 +1428,8 @@
             "phone": "704-536-7233",
             "address": "700 South Torrance Street, Charlotte, NC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.20883,
+                "lng": -80.83377
             }
         },
         {
@@ -1483,8 +1437,8 @@
             "phone": "828-252-7928",
             "address": "68 Mcdowell Street, Asheville, NC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.58250,
+                "lng": -82.55262
             }
         },
         {
@@ -1492,8 +1446,8 @@
             "phone": "603-225-2739",
             "address": "38 South Main Street, Concord, NH",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 43.20206,
+                "lng": -71.53372
             }
         },
         {
@@ -1501,8 +1455,8 @@
             "phone": "603-669-7321",
             "address": "24 Pennacook Street, Manchester, NH",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 43.00219,
+                "lng": -71.46130
             }
         },
         {
@@ -1510,8 +1464,8 @@
             "phone": "603-622-3162",
             "address": "150 Tarrytown Road, Manchester, NH",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 42.98431,
+                "lng": -71.43433
             }
         },
         {
@@ -1519,8 +1473,8 @@
             "phone": "603-436-7588",
             "address": "559 Portsmouth Avenue, Greenland, NH",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 43.03672,
+                "lng": -70.83622
             }
         },
         {
@@ -1528,8 +1482,8 @@
             "phone": "212-965-7000",
             "address": "26 Bleecker Street, New York, NY",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.72588,
+                "lng": -73.99186
             }
         },
         {
@@ -1537,8 +1491,8 @@
             "phone": "212-965-7000",
             "address": "44 Court Street, 6th Floor, Brooklyn, NY",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.69306,
+                "lng": -73.98979
             }
         },
         {
@@ -1546,8 +1500,8 @@
             "phone": "212-965-7000",
             "address": "21-41 45th Rd, Queens, NY",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.74699,
+                "lng": -73.94622
             }
         },
         {
@@ -1555,17 +1509,8 @@
             "phone": "212-965-7000",
             "address": "23 Hyatt Street, Staten Island, NY",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-        {
-            "name": "Women's Services - Queens",
-            "phone": "718-429-8777",
-            "address": "37-54 75th Street, Jackson Heights, NY",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.64228,
+                "lng": -74.07585
             }
         },
         {
@@ -1573,8 +1518,8 @@
             "phone": "718-334-5063",
             "address": "79-01 Broadway, H2104, Elmhurt, NY",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.74484,
+                "lng": -73.88499
             }
         },
         {
@@ -1582,8 +1527,8 @@
             "phone": "614-927-0500",
             "address": "6721 Karl Road, Columbus, OH",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.10445,
+                "lng": -82.97401
             }
         },
         {
@@ -1591,8 +1536,8 @@
             "phone": "614-222-3531",
             "address": "3255 East Main Street, Columbus, OH",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.95658,
+                "lng": -82.90952
             }
         },
         {
@@ -1600,8 +1545,8 @@
             "phone": "800-672-6810",
             "address": "1401 East Stroop Road, Dayton, OH",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.68952,
+                "lng": -84.13873
             }
         },
         {
@@ -1609,8 +1554,8 @@
             "phone": "330-923-4009",
             "address": "2127 State Road, Cuyahoga Falls, OH",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.13659,
+                "lng": -81.50697
             }
         },
         {
@@ -1618,8 +1563,8 @@
             "phone": "419-478-6801",
             "address": "1160 West Sylvania Avenue, Toledo, OH",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.69294,
+                "lng": -83.56708
             }
         },
         {
@@ -1627,8 +1572,8 @@
             "phone": "732-367-6200",
             "address": "102 Candlewood Commons, Howell, NJ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.14782,
+                "lng": -74.22443
             }
         },
         {
@@ -1636,8 +1581,8 @@
             "phone": "609-599-4881",
             "address": "2279 State Highway 33, Golden Crest Corporate Center, Suite 510, Hamilton Square, NJ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.22127,
+                "lng": -74.63557
             }
         },
         {
@@ -1645,8 +1590,8 @@
             "phone": "609-599-4881",
             "address": "437 East State Street, Trenton, NJ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.22116,
+                "lng": -74.75472
             }
         },
         {
@@ -1654,8 +1599,8 @@
             "phone": "732-238-4500",
             "address": "5 Cornwall Court, Unit B 4, East Brunswich, NJ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.41314,
+                "lng": -74.41952
             }
         },
         {
@@ -1663,8 +1608,8 @@
             "phone": "609-356-1043",
             "address": "601 Ewing Street, Suite A3, Princeton, NJ",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.37151,
+                "lng": -74.65570
             }
         },
       
@@ -1673,8 +1618,8 @@
             "phone": "505-982-3684",
             "address": "730 St. Michael's Drive, Suite 4B, Santa Fe, NM",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.65919,
+                "lng": -105.95941
             }
         },
         {
@@ -1682,17 +1627,17 @@
             "phone": "800-821-7237",
             "address": "10151 Montgomery Blvd NE, Building 3, Unit B, Albuquerque, NM",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.13194,
+                "lng": -106.52631
             }
         },
         {
             "name": "Planned Parenthood - San Mateo Health Center",
             "phone": "505-265-9511",
-            "address": "701 San Mateo NE, Albuquerque, NM",
+            "address": "701 San Mateo Blvd NE, Albuquerque, NM",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.08510,
+                "lng": -106.58415
             }
         },
         {
@@ -1700,8 +1645,8 @@
             "phone": "505-242-7512",
             "address": "522 Lomas Boulevard NE, Albuquerque, NM",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.09012,
+                "lng": -106.63668
             }
         },
         {
@@ -1709,8 +1654,8 @@
             "phone": "505-925-4455",
             "address": "2301 Yale Boulevard SE, Building E, Albuquerque, NM",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 35.05536,
+                "lng": -106.62192
             }
         },
         {
@@ -1718,8 +1663,8 @@
             "phone": "775-827-0616",
             "address": "5915 Tyrone Road, Reno, NV",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.47327,
+                "lng": -119.77164
             }
         },
         {
@@ -1727,17 +1672,8 @@
             "phone": "775-688-5555",
             "address": "455 W. 5th Street, Reno, NV",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-        {
-            "name": "A-All Women Care",
-            "phone": "702-531-5400",
-            "address": "7908 West Sahara Avenue, Las Vegas, NV",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.53178,
+                "lng": -119.81509
             }
         },
         {
@@ -1745,8 +1681,8 @@
             "phone": "702-878-7776",
             "address": "3220 W Charleston Blvd., Las Vegas, NV",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 36.16085,
+                "lng": -115.18300
             }
         },
         {
@@ -1754,8 +1690,8 @@
             "phone": "702-733-7889",
             "address": "872 East Sahara Avenue, Las Vegas, NV",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 36.14652,
+                "lng": -115.14008
             }
         },
 
@@ -1764,8 +1700,8 @@
             "phone": "518-561-4430",
             "address": "66 Brinkerhoff Street, Plattsburgh, NY",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.69778,
+                "lng": -73.45534
             }
         },
         {
@@ -1773,8 +1709,8 @@
             "phone": "541-344-9411",
             "address": "3579 Franklin Blvd, Eugene, OR 97403",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082
+                "lat": 44.04556,
+                "lng": -123.03870
             }
         },
         {
@@ -1782,8 +1718,8 @@
             "phone": "541-463-9731",
             "address": "793 N. Danebo Avenue, Eugene, OR",
             "coords": {
-                "lat": 44.06936,
-                "lng": -123.17579
+                "lat": 44.06971,
+                "lng": -123.17570
             }
         },
         {
@@ -1791,8 +1727,8 @@
             "phone": "541-754-1150",
             "address": "3680 NW Samaritan Drive, Corvallis, OR",
             "coords": {
-                "lat": 44.60221,
-                "lng": -123.25479
+                "lat": 44.60269,
+                "lng": -123.25303
             }
         },
         {
@@ -1800,8 +1736,8 @@
             "phone": "888-875-7820",
             "address": "3825 Wolverine St., NE, Salem, OR",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 44.95874,
+                "lng": -122.98454
             }
         },
         {
@@ -1809,8 +1745,8 @@
             "phone": "888-875-7820",
             "address": "14411 SE Mcloughlin Blvd, Milwaukie, OR",
             "coords": {
-                "lat": 44.95870,///
-                "lng": -122.98575
+                "lat": 45.41967,
+                "lng": -122.63135
             }
         },
         {
@@ -1827,8 +1763,8 @@
             "phone": "541-482-8700",
             "address": "1532 Siskiyou Blvd., Ashland, OR",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 42.18407,
+                "lng": -122.68642
             }
         },
         {
@@ -1836,8 +1772,8 @@
             "phone": "503-418-4500",
             "address": "808 S.W. Campus Drive, Kohler Pavilion, 7th Floor, Portland, OR",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 45.50046,
+                "lng": -122.68196
             }
         },
         {
@@ -1845,17 +1781,8 @@
             "phone": "503-221-1870",
             "address": "511 SW 10th Avenue, Suite 904, Portland, OR",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
-            }
-        },
-        {
-            "name": "Planned Parenthood - Salem Health Center",
-            "phone": "888-875-7820",
-            "address": "3825 Wolverine St., NE, Salem, OR",
-            "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 45.52158,
+                "lng": -122.68075
             }
         },
         {
@@ -1863,8 +1790,8 @@
             "phone": "888-875-7820",
             "address": "3727 NE Martin Luther King Jr. Blvd., Portland, OR",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 45.55090,
+                "lng": -122.66176
             }
         }, 
         {
@@ -1872,8 +1799,8 @@
             "phone": "888-875-7820",
             "address": "12220 SW First St., Suite 200, Beaverton, OR",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 45.48648,
+                "lng": -122.80231
             }
         },
         {
@@ -1881,26 +1808,17 @@
             "phone": "888-875-7820",
             "address": "160 NW Franklin Blvd., Grants Pass, OR",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 42.45781,
+                "lng": -123.32452
             }
         }, 
-        {
-            "name": "Planned Parenthood - Salem Health Center",
-            "phone": "888-875-7820",
-            "address": "3825 Wolverine St., NE, Salem, OR",
-            "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
-            }
-        },
         {
             "name": "Delaware County Women's Center",
             "phone": "610-874-4361",
             "address": "1 Medical Center Boulevard, POB 2 Suite 224, Chester, PA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.85537,
+                "lng": -75.37130
             }
         },
         {
@@ -1908,8 +1826,8 @@
             "phone": "215-574-3590",
             "address": "777 Appletree Street, 7th Floor, Philadelphia, PA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.95395,
+                "lng": -75.15270
             }
         },
         {
@@ -1917,8 +1835,8 @@
             "phone": "610-692-1770",
             "address": "8 S Wayne Street, West Chester, PA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.95727,
+                "lng": -75.61027
             }
         },
         {
@@ -1926,44 +1844,17 @@
             "phone": "215-351-5550",
             "address": "1144 Locust Street, Philadelphia, PA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.94833,
+                "lng": -75.16061
             }
         },
         {
-            "name": "Peace Family Planning",
-            "phone": "215-829-2345",
-            "address": "800 Walnut Street, 10th Floor, Philadelphia, PA",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-        {
-            "name": "PEACE Family Planning",
-            "phone": "215-829-2345",
+            "name": "Penn Family Planning and Pregnancy Loss Center",
+            "phone": "215-316-5151",
             "address": "3737 Market Street, Suite 1210, Philadelphia, PA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-        {
-            "name": "Jefferson Health Family Planning Services",
-            "phone": "215-298-4378",
-            "address": "833 Chestnut Street, Philadelphia, PA",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-        {
-            "name": "Women & Infants - Early Options Clinic",
-            "phone": "401-274-1122",
-            "address": "2 Dudley Street, 5th Floor, Providence, RI",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 39.95757,
+                "lng": -75.19736
             }
         },
         {
@@ -1971,8 +1862,8 @@
             "phone": "401-421-9620",
             "address": "175 Broad Street, Providence, RI",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.81802,
+                "lng": -71.41778
             }
         },
         {
@@ -1980,8 +1871,8 @@
             "phone": "803-256-4908",
             "address": "2712 Middleburg Drive, Suite 107, Columbia, SC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 34.01598,
+                "lng": -81.00271
             }
         },
         {
@@ -1989,8 +1880,8 @@
             "phone": "843-628-4380",
             "address": "1312 Ashley River Road, Charleston, SC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 32.79873,
+                "lng": -79.99914
             }
         },
         {
@@ -1998,8 +1889,8 @@
             "phone": "864-232-1584",
             "address": "1142 Grove Road, Greenville, SC",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 34.80968,
+                "lng": -82.42162
             }
         },
         {
@@ -2007,8 +1898,8 @@
             "phone": "801-263-2111",
             "address": "715 East 3900 South, Suite 203, Salt Lake City",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.68786,
+                "lng": -111.87098
             }
         },
         {
@@ -2016,8 +1907,8 @@
             "phone": "801-322-5571",
             "address": "654 South 900 East, Salt Lake City, UT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.75579,
+                "lng": -111.86547
             }
         },
         {
@@ -2025,8 +1916,8 @@
             "phone": "801-257-6789",
             "address": "160 South 1000 East, Suite 120, Salt Lake City, UT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 40.76644,
+                "lng": -111.86287
             }
         },
         {
@@ -2034,8 +1925,8 @@
             "phone": "435-753-0724",
             "address": "550 North Main #17, Clock Tower Plaza, Logan, UT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 41.74251,
+                "lng": -111.83400
             }
         },
         {
@@ -2043,8 +1934,8 @@
             "phone": "4343-973-4888",
             "address": "2321 Commonwealth Drive, Charlottesville, VA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.07434,
+                "lng": -78.48773
             }
         },
         {
@@ -2052,8 +1943,8 @@
             "phone": "434-296-1000",
             "address": "2964 Hydraulic Road, Charlottesville, VA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 38.08212,
+                "lng": -78.49213
             }
         },
         {
@@ -2061,26 +1952,17 @@
             "phone": "804-754-1928",
             "address": "1511 Starling Drive, Richmond, VA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
-            }
-        },
-        {
-            "name": "Planned Parenthood - Hamilton Health Center",
-            "phone": "804-355-4358",
-            "address": "201 N. Hamilton Street, Richmond, VA",
-            "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 37.60590,
+                "lng": -77.56820
             }
         },
         {
             "name": "Richmond Medical Center for Women",
             "phone": "804-359-5066",
-            "address": "1118 N Boulevard, Richmond, VA",
+            "address": "118 N Arthur Ashe Blvd, Richmond, VA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 37.55494,
+                "lng": -77.47492
             }
         },
 
@@ -2089,8 +1971,8 @@
             "phone": "802-476-6696",
             "address": "90 Washington Street, Barre, VT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.19584,
+                "lng": -72.49654
             }
         },
         {
@@ -2098,8 +1980,8 @@
             "phone": "802-879-4800",
             "address": "75 Talcott Road, Suite 10, Williston, VT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.44842,
+                "lng": -73.10478
             }
         },
         {
@@ -2107,8 +1989,8 @@
             "phone": "802-863-6326",
             "address": "173 Saint Paul Street, Burlington, VT",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 44.47492,
+                "lng": -73.21419
             }
         },
         {
@@ -2116,8 +1998,8 @@
             "phone": "888-875-7820",
             "address": "11516 SE Mill Plain Blvd, Suite 2-E, Vancouver, WA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 45.62221,
+                "lng": -122.55358
             }
         },
         {
@@ -2125,8 +2007,8 @@
             "phone": "886-904-7721",
             "address": "7426 W. Bonnie Place, Kennewick, WA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 46.23214,
+                "lng": -119.22189
             }
         },
         {
@@ -2134,8 +2016,8 @@
             "phone": "866-904-7721",
             "address": "828 S. First Avenue, Walla Walla, WA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 46.06371,
+                "lng": -118.34097
             }
         }, 
         {
@@ -2143,8 +2025,8 @@
             "phone": "866-904-7721",
             "address": "1117 Tieton Drive, Yakima, WA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 46.59354,
+                "lng": -120.52375
             }
         }, 
         {
@@ -2152,8 +2034,8 @@
             "phone": "800-572-4223",
             "address": "106 East E Street, Yakima, WA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 46.60932,
+                "lng": -120.50829
             }
         },
         {
@@ -2161,17 +2043,8 @@
             "phone": "800-769-0045",
             "address": "1020 W Main Street, Centralia, WA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
-            }
-        },
-        {
-            "name": "Planned Parenthood - Yakima Health Center",
-            "phone": "866-904-7721",
-            "address": "1117 Tieton Drive, Yakima, WA",
-            "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 46.71934,
+                "lng": -122.96652
             }
         },
         {
@@ -2179,8 +2052,8 @@
             "phone": "800-769-0045",
             "address": "702-30th Ave SW, Puyallup, WA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 47.16343,
+                "lng": -122.30137
             }
         },
         {
@@ -2188,8 +2061,8 @@
             "phone": "866-904-7721",
             "address": "900 Ferry Street, Wenatchee, WA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 47.41221,
+                "lng": -120.31288
             }
         },
         {
@@ -2197,8 +2070,8 @@
             "phone": "800-769-0045",
             "address": "1509 32nd St., Everett, WA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 47.97558,
+                "lng": -122.20957
             }
         },
         {
@@ -2206,8 +2079,8 @@
             "phone": "800-769-0045",
             "address": "10210 State Ave., Marysville, WA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 48.08851,
+                "lng": -122.17406
             }
         },
         {
@@ -2215,8 +2088,8 @@
             "phone": "800-572-4223",
             "address": "263 Rainier Avenue South, Suite 200, Renton, WA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 47.48144,
+                "lng": -122.21853
             }
         },
         {
@@ -2224,8 +2097,8 @@
             "phone": "800-769-0045",
             "address": "2001 E Madison, Seattle, WA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 47.61803,
+                "lng": -122.30502
             }
         },
         {
@@ -2233,8 +2106,8 @@
             "phone": "206-598-5500",
             "address": "4245 Roosevelt Way, NE, 4th FL, Seattle, WA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 47.65956,
+                "lng": -122.31819
             }
         },
         {
@@ -2242,8 +2115,8 @@
             "phone": "206-528-8000",
             "address": "314 NE Thornton Place, Seattle, WA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 47.70315,
+                "lng": -122.32512
             }
         },
         {
@@ -2251,8 +2124,8 @@
             "phone": "800-769-0045",
             "address": "19505 76th Ave W. 200, Lynnwood, WA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 47.82270,
+                "lng": -1122.33532
             }
         },
         {
@@ -2260,8 +2133,8 @@
             "phone": "800-769-0045",
             "address": "11105 S 348th Street #b103, Federal Way, WA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 47.28962,
+                "lng": -122.31989
             }
         },
         {
@@ -2269,8 +2142,8 @@
             "phone": "800-769-0045",
             "address": "14730 NE 8th St., Bellevue, WA",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 47.61837,
+                "lng": -122.14427
             }
         },
         {
@@ -2278,8 +2151,8 @@
             "phone": "800-769-0045",
             "address": "402 Legion Way, Suite 201, Olympia, WA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 47.04404,
+                "lng": -122.89747
             }
         },
         {
@@ -2287,8 +2160,8 @@
             "phone": "253-471-3464",
             "address": "3711 Pacific Avenue, Suite 200, Tacoma, WA",
             "coords": {
-                "lat": 44.95870,
-                "lng": -122.98575
+                "lat": 47.22484,
+                "lng": -122.43348
             }
         },
         {
@@ -2296,8 +2169,8 @@
             "phone": "307-734-1313",
             "address": "555 East Broadway, Jackson, WY",
             "coords": {
-                "lat": 44.04514,
-                "lng": -123.04082//
+                "lat": 43.48083,
+                "lng": -110.75117
             }
         }
     ]
