@@ -1,12 +1,2303 @@
-[
-    {
-        "name": "Planned Parenthood - Bend Health Center",
-        "link": "x",
-        "phone": "888-975-7820",
-        "address": "2330 NE Division St Suite 7",
-        "zipcode": "97703",
-        "state": "OR",
-        "lat": "44.07340",
-        "long": "-121.30238"
-    }
-]
+
+    [
+        {
+            "name": "Planned Parenthood - Fairbanks Health Center",
+            "phone": "800-769-0045",
+            "address": "1867 Airport Way, Suite 160b, Fairbanks, AK",
+            "coords": {
+                "lat": 44.04514,//
+                "lng": -123.04082
+            }
+        },
+        {
+            "name": "Planned Parenthood - Anchorage Health Center",
+            "phone": "800-769-0045",
+            "address": "4001 Lake Otis Parkway #101, Anchorage, AK",
+            "coords": {
+                "lat": 44.04514,//
+                "lng": -123.04082
+            }
+        },
+        {
+            "name": "Planned Parenthood - Juneau Health Center",
+            "phone": "800-769-0045",
+            "address": "3231 Glacier Hwy., Juneau, AK",
+            "coords": {
+                "lat": 44.04514,//
+                "lng": -123.04082
+            }
+        },
+        {
+            "name": "Camelback Family Planning",
+            "phone": "602-279-2337",
+            "address": "4141 North 32nd Street, Suite 105, Phoenix, AZ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Acacia Women's Center",
+            "phone": "602-462-5559",
+            "address": "2023 W Bethany Home Rd, Phoenix, AZ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Desert Star Family Planning",
+            "phone": "480-447-8857",
+            "address": "5501 North 19th Avenue, Suite 420, Phoenix, AZ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Family Planning Associates Medical Group of Phoenix",
+            "phone": "602-553-0440",
+            "address": "1331 North 7th Street, Suite 225, Phoenix, AZ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Glendale Health Center",
+            "phone": "602-277-7526",
+            "address": "5771 West Eugie, Glendale, AZ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Choices Women's Center",
+            "phone": "520-210-8330",
+            "address": "5240 East Knight, Suite #112, Tucson, AZ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Southern Arizona Regional Health Center",
+            "phone": "520-408-7526",
+            "address": "2255 North Wyatt Drive, Tucson, AZ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Redding Health Center",
+            "phone": "530-351-7100",
+            "address": "2935 Bechelli Lane, Suite A & C, Redding, CA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Women's Health Specialists - Redding Clinic",
+            "phone": "530-221-0193",
+            "address": "1901 Victor Avenue, Redding, CA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Family First Health Center",
+            "phone": "559-446-1515",
+            "address": "6095 N. 1st Street, Fresno, CA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Madera Health Center",
+            "phone": "559-675-1133",
+            "address": "500 E. Almond, Suite 1, Madera, CA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Bakersfield Health Center",
+            "phone": "661-634-1000",
+            "address": "2633 16th Street, Bakersfield, CA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Gilroy Health Center",
+            "phone": "408-847-1739",
+            "address": "760 Renz Lane, Gilroy, CA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Eastside Health Center",
+            "phone": "408-729-7600",
+            "address": "3131 Alum Rock Ave, San Jose, CA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Westside Health Center",
+            "phone": "831-426-5550",
+            "address": "11119 Pacific Avenue, Suite 200, Santa Crux, CA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Colorado Mountain Medical - Vail",
+            "phone": "970-926-6340",
+            "address": "108 S Frontage Rd, W, Vail, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Colorado Mountain Medical - Avon",
+            "phone": "970-926-6340",
+            "address": "50 Buck Creek Road, Suite 200, Avon, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Arvada Health Center",
+            "phone": "303-425-6624",
+            "address": "7735 Wadsworth Boulevard, #d, Arvada, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Boulder Abortion Clinic",
+            "phone": "303-447-1361",
+            "address": "1130 Alpine Avenue, Boulder, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Littleton Health Center",
+            "phone": "303-798-0963",
+            "address": "131 West County Line Road, Littleton, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Boulder Health Center",
+            "phone": "303-447-1040",
+            "address": "2525 Arapahoe Avenue, Suite C-200, Boulder, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Healthy Futures",
+            "phone": "303-991-7700",
+            "address": "330 East Hampden Avenue, Suite 201, Englewood, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Boulder Valley Women's Health Center",
+            "phone": "303-442-5160",
+            "address": "2855 Valmont Road, Boulder, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Mile High Ob-Gyn Associates - Denver",
+            "phone": "303-388-4631",
+            "address": "4545 E 9th Ave, Suite 502, Denver, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Partners in Women's Health Center",
+            "phone": "303-399-3315",
+            "address": "4500 East 9th Avenue, Suite 700, Denver, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Park Hill of Denver Health Center",
+            "phone": "303-321-2458",
+            "address": "7155 East 38th Avenue, Denver, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Aurora Health Center",
+            "phone": "303-671-7526",
+            "address": "1284 South Abilene Street, Aurora, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Valley Women",
+            "phone": "970-925-9480",
+            "address": "401 Castle Creek Road, Suite 2400B, Aspen, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Colorado Springs Westside Health Center",
+            "phone": "719-475-7162",
+            "address": "3480 Centennial Boulevard, Colorado Springs, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Fort Collins Health Center",
+            "phone": "970-493-0281",
+            "address": "825 South Shields Street, Fort Collins, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Greeley Health Center",
+            "phone": "970-352-4762",
+            "address": "3487B West 10th Street, Greeley, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Glenwood Springs Health Center",
+            "phone": "970-945-8631",
+            "address": "50923 Highway 6, Glenwood Springs, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "CARE Colorado - Clinics for Abortion and Reproductive Excellence",
+            "phone": "719-884-4070",
+            "address": "1930 E Orman Avenue, Pueblo, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Durango Health Center",
+            "phone": "970-247-3002",
+            "address": "46 Suttle Street, Durango, CO",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Waterbury Center",
+            "phone": "203-753-2119",
+            "address": "969 W Main Street, Waterbury, CT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Torrington Center",
+            "phone": "860-489-5500",
+            "address": "249 Winsted Road, Torrington, CT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Meriden Center",
+            "phone": "203-238-0542",
+            "address": "26 Women's Way, Meriden, CT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "UConn Health - Women's Center",
+            "phone": "860-679-2792",
+            "address": "263 Farmington Avenue, Farmington, CT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - West Hartford Center",
+            "phone": "860-953-6201",
+            "address": "1030 New Britain Ave, West Hartford, CT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "DuPont Clinic",
+            "phone": "202-844-2004",
+            "address": "1120 19th Street NW, Washington, DC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Washington Surgi-Clinic",
+            "phone": "202-780-3539",
+            "address": "2112 F Street NW, Suite 400, Washington, DC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Carol Whitehill Moses Center",
+            "phone": "202-347-8512",
+            "address": "1225 4th Street NE, Washington, DC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Medstar Family Planning and Preventative Services, Women, Infant and Adolescent Services",
+            "phone": "202-877-7479",
+            "address": "106 Irving Street, Suite 4700N, Washington, DC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Dover Center",
+            "phone": "302-678-5200",
+            "address": "805 South Governors Avenue, Dover, DE",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Seaford Center",
+            "phone": "800-230-7526",
+            "address": "800 Health Services Drive, Seaford, DE",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "ChristianaCare - Center for Women's Obstetric, Gynecologic and Reproductive Health",
+            "phone": "302-623-4174",
+            "address": "4735 Ogletown-Stanton Road, Suite 1109, Newark, DE",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Wilmington Center (DE)",
+            "phone": "8302-655-7293",
+            "address": "625 North Shipley Street, Wilmington, DE",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Lakeland Women's Health Center",
+            "phone": "863-644-7541",
+            "address": "4444 South Florida Avenue, Lakeland, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Kissimmee Health Center",
+            "phone": "407-246-1788",
+            "address": "610 Oak Commons Boulevard, Kissimmee, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Women's Health Center of North Tampa",
+            "phone": "813-978-1919",
+            "address": "14498 University Cove Place, Tampa, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Tampa Women's Health Center",
+            "phone": "813-977-6176",
+            "address": "2010 East Fletcher Avenue, Tampa, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Women's Health Center of Tampa, Inc.",
+            "phone": "813-874-0505",
+            "address": "3330 West Kennedy Boulevard, Tampa, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - North Tampa Health Center",
+            "phone": "813-443-9794",
+            "address": "236 East Bearss Avenue, Tampa, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Sarasota Health Center",
+            "phone": "941-953-4060",
+            "address": "4736 Central Avenue, Sarasota, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Women's Health Center of Sarasota, Inc.",
+            "phone": "941-366-7066",
+            "address": "2700 South Tamiami Trail, Suite 5, Sarasota, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - East Orlando Health Center",
+            "phone": "407-246-1788",
+            "address": "11500 University Boulevard, Orlando, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Women's Health Center of Orlando",
+            "phone": "407-335-4934",
+            "address": "1800 Pembrook Drive, Suite 300, Orlando, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Women's Health Center of Orlando, Inc. Altamonte Springs",
+            "phone": "407-834-2262",
+            "address": "431 Maitland Avenue, Altamonte Springs, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Women's Health Center of St. Petersburg",
+            "phone": "727-327-3300",
+            "address": "4131 Central Avenue, St. Petersburg, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "A Woman's World Medical Center",
+            "phone": "772-460-1506",
+            "address": "503 South 12th Street, Ft. Pierce, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "St. Petersburg Woman's Health Center",
+            "phone": "727-381-6620",
+            "address": "3401 66th Street North, St. Petersburg, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Women's Health Center - Clearwater",
+            "phone": "727-785-2525",
+            "address": "28960 US Highway 19 North, Suite 110, Clearwater, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Treasure Coast Health",
+            "phone": "772-692-2023",
+            "address": "1696 SE Hillmoor Drive, Port St. Lucie, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Bread and Roses Women's Health - Clearwater",
+            "phone": "727-446-2690",
+            "address": "1560 South Highland Avenue, Clearwater, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Fort Myers Health Center",
+            "phone": "239-481-9999",
+            "address": "6418 Commerce Park Drive, Ft. Myers, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Presidential Women's Center",
+            "phone": "561-686-3859",
+            "address": "100 Northpoint Parkway, West Palm Beach, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Florida Mango Health Center",
+            "phone": "561-296-4919",
+            "address": "2300 N Florida Mango Road, West Palm Beach, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Boco Raton Health Center",
+            "phone": "561-226-4116",
+            "address": "8177 Glades Road, Bay 25, Boco Raton, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Michael Benjamin, MD BSSI Abortion Services",
+            "phone": "954-720-7777",
+            "address": "7777 North University Boulevard, Suite 102, Ft. Lauderdale, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "East Cypress Women's Center",
+            "phone": "954-772-6200",
+            "address": "962 East Cypress Creek Road, Fort Lauderdale, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Aastra Women's Center",
+            "phone": "954-792-9198",
+            "address": "10 Southwest 44th Avenue, Plantation, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Pembroke Pines Health Center",
+            "phone": "954-989-5747",
+            "address": "263 North University Drive, Pembroke Pines, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Women's Health Center of Jacksonville",
+            "phone": "904-731-2755",
+            "address": "1545 Huffingham Road, Jacksonville, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "A Woman's Choice of Jacksonville",
+            "phone": "904-448-8877",
+            "address": "4131 University Boulevard South, Building 2, Jacksonville, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Jacksonville Health Center",
+            "phone": "904-399-2800",
+            "address": "5978 Powers Avenue, Jacksonville, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Women's Health Center of Gainesville, Inc.",
+            "phone": "352-378-9191",
+            "address": "1135 N. W. 23rd Avenue, Suite N, Gainesville, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Bread and Roses Women's Health - Gainesville Woman Care",
+            "phone": "352-372-1664",
+            "address": "1233 NW 10th Street, Gainesville, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "North Florida Women's Health Services",
+            "phone": "850-877-3183",
+            "address": "2412 West Plaza Drive, Tallahassee, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Tallahassee Health Center",
+            "phone": "850-574-7455",
+            "address": "2618 Tennessee Street, Tallahassee, FL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "A Preferred Women's Health Center - Augusta",
+            "phone": "888-562-7415",
+            "address": "2903 Professional Parkway, Augusta, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Savannah Center",
+            "phone": "912-351-0116",
+            "address": "720 East 71st St, Savannah, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Columbus Women's Health",
+            "phone": "706-323-8363",
+            "address": "3850 Rosemond Drive, Columbus, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Southeast Dekalb Gyn LLC",
+            "phone": "404-288-0746",
+            "address": "44150 Snapfinger Woods Drive, Decatur, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "A Preferred Women's Health Center - Forest Park",
+            "phone": "404-758-9900",
+            "address": "519 Forest Parkway, Suite 100, Forest Park, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Atlanta Center for Women's Choice",
+            "phone": "770-991-7552",
+            "address": "6210 Old National Highway, College Park, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - East Atlanta Health Center",
+            "phone": "404-688-9300",
+            "address": "440 Moreland Avenue SE, Atlanta, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Gwinnett Center",
+            "phone": "404-688-9300",
+            "address": "355 Philip Blvd, Lawrenceville, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Summit Medical Associates",
+            "phone": "404-607-0042",
+            "address": "1874 Piedmont Avenue NE, Suite 500E, Atlanta, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Atlanta Comprehensive Wellness Clinic",
+            "phone": "770-212-9660",
+            "address": "1874 Piedmont Avenue NE, Suite 570E, Atlanta, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Feminist Women's Health Clinic",
+            "phone": "404-728-7990",
+            "address": "1924 Cliff Valley Way NE, Atlanta, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "carafem - Atlanta Health Center",
+            "phone": "855-729-2272",
+            "address": "1800 Peachtree Street NW, Suite 800, Atlanta, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Atlanta Women's Center",
+            "phone": "404-257-0057",
+            "address": "235 West Wieuca Road, Atlanta, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Cobb Health Center",
+            "phone": "404-688-9300",
+            "address": "220 Cobb Parkway North, Suite 500, Marietta, GA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Sioux City Center",
+            "phone": "877-811-7526",
+            "address": "4409 Stone Avenue, Sioux City, IA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Council Bluffs Health Center",
+            "phone": "877-849-0771",
+            "address": "11604 2nd Avenue, Council Bluffs, IA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Ames Center",
+            "phone": "877-849-0763",
+            "address": "2530 Chamberlain Street, Ames, IA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Rosenfield Center",
+            "phone": "877-811-7526",
+            "address": "1000 East Army Post Road, Des Moines, IA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Iowa City Health Center",
+            "phone": "877-811-7526",
+            "address": "850 Orchard Street, Iowa City, IA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Emma Goldman Clinic for Women",
+            "phone": "319-337-2111",
+            "address": "227 North Dubuque Street, Iowa City, IA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Bloomington Health Center",
+            "phone": "309-827-4014",
+            "address": "1319 N. Veterans Parkway, Suite 3-a, Bloomington, IL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Decatur Health Center",
+            "phone": "217-877-6474",
+            "address": "3021 N Oakland Ave, Decatur, IL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Ottawa Health Center",
+            "phone": "815-433-4111",
+            "address": "612 Court Street, Ottawa, IL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Springfield Health Center",
+            "phone": "217-546-1060",
+            "address": "601 N. Bruns, Springfield, IL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Equity Clinic",
+            "phone": "224-350-2991",
+            "address": "2111 W. Park Ct., Champaign, IL",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Clinic for Women",
+            "phone": "317-955-2641",
+            "address": "3607 West 16th Street, Suite B-2, Indianapolis, IN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Women's Med Indianapolis",
+            "phone": "317-353-9371",
+            "address": "1201 North Arlington Avenue, Indianapolis, IN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Lafayette Health Center",
+            "phone": "765-446-8078",
+            "address": "964 Mezzanine Dr., Lafeyette, IN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Bloomington Health Center",
+            "phone": "812-336-0219",
+            "address": "421 S College Ave, Bloomington, IN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Merrillville Health Center",
+            "phone": "219-769-3500",
+            "address": "8645 Connecticut Street, Merrillville, IN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+
+        {
+            "name": "Planned Parenthood - Wichita Health Center",
+            "phone": "316-263-7575",
+            "address": "2226 E Central, Wichita, KS",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Trust Women Wichita",
+            "phone": "316-260-6934",
+            "address": "5107 East Kellogg Drive, Wichita, KS",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Wyandotte Health Center",
+            "phone": "800-230-7526",
+            "address": "6013 Leavenworth Rd, Kansas City, KS",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Center for Women's Health",
+            "phone": "913-491-6878",
+            "address": "4840 College Boulevard, Overland Park, KS",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Comprehensive Health Services",
+            "phone": "913-345-1400",
+            "address": "4401 W 109th Street, #100, Overland Park, KS",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Four Women Health Services",
+            "phone": "508-222-7555",
+            "address": "150 Emory Street, Attleboro, MA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Cambridge Health Alliance - Family Health North",
+            "phone": "617-575-5570",
+            "address": "2067 Massachusetts Avenue, Cambridge, MA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood Greater Boston Health Center",
+            "phone": "800-258-4448",
+            "address": "1055 Commonwealth Ave, Boston, MA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Women's Health Services",
+            "phone": "617-277-0009",
+            "address": "111 Harvard Street, Brookline, MA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Office of Boris Orkin",
+            "phone": "617-277-0090",
+            "address": "1180 Beacon Street, Unit 5B, Brookline, MA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Cambridge Health Alliance - Reproductive Health Clinic",
+            "phone": "617-591-6746",
+            "address": "1493 Cambridge St, 3rd Floor, Cambridge, MA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+
+        {
+            "name": "Planned Parenthood - Easton Health Center, MD",
+            "phone": "410-576-1414",
+            "address": "8579 Commerce Drive #102, Easton, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Annapolis Health Center",
+            "phone": "410-576-1414",
+            "address": "929 West Street, Suite 200, Annapolis, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Gynemed Surgi-center",
+            "phone": "410-391-1000",
+            "address": "17 Fontana Lane, Suite 201, Rosedale, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Bayview Center for Family Planning",
+            "phone": "410-550-9840",
+            "address": "4940 Eastern Ave, Baltimore, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Whole Woman's Health of Baltimore",
+            "phone": "410-661-2900",
+            "address": "7648 Belair Road, Baltimore, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "The Johns Hopkins Outpatient Center",
+            "phone": "410-550-9840",
+            "address": "601 North Caroline Street, Baltimore, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Baltimore City Health Center",
+            "phone": "410-576-1414",
+            "address": "330 North Howard Street, Baltimore, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "University of Maryland Reproductive Health",
+            "phone": "410-328-5925",
+            "address": "22 South Greene Street, Baltimore, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Towson Health Center",
+            "phone": "410-576-1414",
+            "address": "8501 LaSalle Road, Loch Ridge Shopping Center, Towson, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Metropolitan Family Planning Clinic - College Park",
+            "phone": "301-474-5300",
+            "address": "5915 Greenbelt Road, College Park, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Potomac Family Planning Center - Catonsville",
+            "phone": "410-788-4400",
+            "address": "5602 Baltimore National Pike, Suite 600, Catonsville, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Owings Mills Health Center",
+            "phone": "410-576-1414",
+            "address": "1866 Reisterstown Road, Pikesville, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Metropolitan Family Planning Clinic - Camp Springs",
+            "phone": "301-423-3313",
+            "address": "5625 Allentown Road, Suite 203, Camp Springs, MD",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Maine Family Planning - Dexter",
+            "phone": "207-922-3222",
+            "address": "311 Corinna Road, Dexter, ME",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Maine Family Planning - Skowhegan",
+            "phone": "207-922-3222",
+            "address": "188 Madison Avenue, Skowhegan, ME",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Maine Family Planning - Bangor",
+            "phone": "207-922-3222",
+            "address": "68 Mt. Hope Avenue, Bangor, ME",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Mabel Wadsworth Center",
+            "phone": "207-947-5337",
+            "address": "700 Mount Hope Avenue, Suite 420, Bangor, ME",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Maine Family Planning - Waterville",
+            "phone": "207-922-3222",
+            "address": "18 Silver Street, Waterville, ME",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Walker Health Center",
+            "phone": "231-929-1844",
+            "address": "1135 E. Eighth St., Traverse City, MI",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Petoskey Health Center",
+            "phone": "231-347-9692",
+            "address": "1003 Spring St., Petoskey, MI",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Heritage Clinic",
+            "phone": "616-458-3694",
+            "address": "320 East Fulton Street, Grand Rapids, MI",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Irwin/Martin Health Center",
+            "phone": "7616-459-3101",
+            "address": "425 Cherry St. Se, Grand Rapids, MI",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Women's Center of Saginaw and Flint",
+            "phone": "989-790-1040",
+            "address": "3141 South Cabaret Trail, Suite 100, Saginaw, MI",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Rochester Clinic",
+            "phone": "507-288-5186",
+            "address": "21212 7th St. NW, Rochester, MN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Red River Women's Clinic",
+            "phone": "218-477-3191",
+            "address": "302 Highway 75 N, Suite 108, Moorhead, MN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "WE Health Clinic",
+            "phone": "218-727-3352",
+            "address": "32 East 1st Street, Suite 300, Duluth, MN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Brooklyn Park Clinic",
+            "phone": "763-560-3050",
+            "address": "7532 Brooklyn Boulevard, Brooklyn Park, MN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Robbinsdale Clinic",
+            "phone": "763-533-2534",
+            "address": "3819 West Broadway Avenue, Minneapolis, MN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Robbinsdale Clinic",
+            "phone": "763-533-2534",
+            "address": "3819 West Broadway Avenue, Minneapolis, MN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Minneapolis Clinic",
+            "phone": "612-823-6300",
+            "address": "1200 Lagoon Ave, Minneapolis, MN",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood of Helena",
+            "phone": "405-443-7676",
+            "address": "1500 Cannon St, Helena, MT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood West of Billings",
+            "phone": "406-656-9980",
+            "address": "1844 Broadwater, Suite 4, Billings, MT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Blue Mountain Clinic",
+            "phone": "406-721-1646",
+            "address": "610 North Carolina Street, Missoula, MT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "All Families Healthcare",
+            "phone": "406-730-8682",
+            "address": "737 Spokane Avenue, PO Box 4027, Whitefish, MT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Lincoln South",
+            "phone": "877-811-7526",
+            "address": "5631 S. 48th Street, Suite 100, Lincoln, NE",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Northwest Center",
+            "phone": "877-811-7526",
+            "address": "3105 N. 93rd St, Omaha, NE",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "CARE - Clinics for Abortion and Reproductive Excellence",
+            "phone": "402-281-4797",
+            "address": "1002 West Mission Avenue, Bellevue, NE",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "A Woman's Choice of Charlotte",
+            "phone": "704-367-2255",
+            "address": "421 North Wendover Road, Charlotte, NC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Fayetteville Health Center",
+            "phone": "866-942-7762",
+            "address": "4551 Yadkin Road, Fayetteville, NC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "A Preferred Women's Health Center - Charlotte",
+            "phone": "704-665-4120",
+            "address": "3220 Latrobe Drive, Charlotte, NC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Charlotte Health Center",
+            "phone": "704-536-7233",
+            "address": "700 South Torrance Street, Charlotte, NC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Asheville Health Center",
+            "phone": "828-252-7928",
+            "address": "68 Mcdowell Street, Asheville, NC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Equality Health Center",
+            "phone": "603-225-2739",
+            "address": "38 South Main Street, Concord, NH",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Manchester Health Center",
+            "phone": "603-669-7321",
+            "address": "24 Pennacook Street, Manchester, NH",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Manchester OB/GYN Asociates - Manchester",
+            "phone": "603-622-3162",
+            "address": "150 Tarrytown Road, Manchester, NH",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Joan G. Lovering Health Center",
+            "phone": "603-436-7588",
+            "address": "559 Portsmouth Avenue, Greenland, NH",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Manhattan Health Center",
+            "phone": "212-965-7000",
+            "address": "26 Bleecker Street, New York, NY",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Joan Malin Brooklyn Health Center",
+            "phone": "212-965-7000",
+            "address": "44 Court Street, 6th Floor, Brooklyn, NY",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Diane L. Max Health Center",
+            "phone": "212-965-7000",
+            "address": "21-41 45th Rd, Queens, NY",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Staten Island Center",
+            "phone": "212-965-7000",
+            "address": "23 Hyatt Street, Staten Island, NY",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Women's Services - Queens",
+            "phone": "718-429-8777",
+            "address": "37-54 75th Street, Jackson Heights, NY",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "NYC Health + Hospitals - Elmhurst Hospital Center Family Planning",
+            "phone": "718-334-5063",
+            "address": "79-01 Broadway, H2104, Elmhurt, NY",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Your Choice Healthcare of Columbus",
+            "phone": "614-927-0500",
+            "address": "6721 Karl Road, Columbus, OH",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - East Columbus Surgical Center",
+            "phone": "614-222-3531",
+            "address": "3255 East Main Street, Columbus, OH",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Women's Med Center of Dayton",
+            "phone": "800-672-6810",
+            "address": "1401 East Stroop Road, Dayton, OH",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Northeast Ohio Women's Center - Cuyahoga Falls",
+            "phone": "330-923-4009",
+            "address": "2127 State Road, Cuyahoga Falls, OH",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Toledo Women's Center",
+            "phone": "419-478-6801",
+            "address": "1160 West Sylvania Avenue, Toledo, OH",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Options - Howell",
+            "phone": "732-367-6200",
+            "address": "102 Candlewood Commons, Howell, NJ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Hamilton Health Center",
+            "phone": "609-599-4881",
+            "address": "2279 State Highway 33, Golden Crest Corporate Center, Suite 510, Hamilton Square, NJ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Trenton Health Center",
+            "phone": "609-599-4881",
+            "address": "437 East State Street, Trenton, NJ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "East Brunswich Women's Center",
+            "phone": "732-238-4500",
+            "address": "5 Cornwall Court, Unit B 4, East Brunswich, NJ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Garden State Gynecology - Princeton",
+            "phone": "609-356-1043",
+            "address": "601 Ewing Street, Suite A3, Princeton, NJ",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+      
+        {
+            "name": "Planned Parenthood - Santa Fe Health Center",
+            "phone": "505-982-3684",
+            "address": "730 St. Michael's Drive, Suite 4B, Santa Fe, NM",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Alamo Women's Clinic of Albuquerque",
+            "phone": "800-821-7237",
+            "address": "10151 Montgomery Blvd NE, Building 3, Unit B, Albuquerque, NM",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - San Mateo Health Center",
+            "phone": "505-265-9511",
+            "address": "701 San Mateo NE, Albuquerque, NM",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Southwestern Women's Options",
+            "phone": "505-242-7512",
+            "address": "522 Lomas Boulevard NE, Albuquerque, NM",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "UNM Center for Reproductive Health",
+            "phone": "505-925-4455",
+            "address": "2301 Yale Boulevard SE, Building E, Albuquerque, NM",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "West End Women's Medical Group",
+            "phone": "775-827-0616",
+            "address": "5915 Tyrone Road, Reno, NV",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Fifth Street Health Center",
+            "phone": "775-688-5555",
+            "address": "455 W. 5th Street, Reno, NV",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "A-All Women Care",
+            "phone": "702-531-5400",
+            "address": "7908 West Sahara Avenue, Las Vegas, NV",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Las Vegas West Charleston Health Center",
+            "phone": "702-878-7776",
+            "address": "3220 W Charleston Blvd., Las Vegas, NV",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Birth Control Care Center",
+            "phone": "702-733-7889",
+            "address": "872 East Sahara Avenue, Las Vegas, NV",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+
+        {
+            "name": "Planned Parenthood - Plattsburgh Center",
+            "phone": "518-561-4430",
+            "address": "66 Brinkerhoff Street, Plattsburgh, NY",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Eugene-Springfield Health Center",
+            "phone": "541-344-9411",
+            "address": "3579 Franklin Blvd, Eugene, OR 97403",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082
+            }
+        },
+        {
+            "name": "Planned Parenthood - West Eugene Health Center",
+            "phone": "541-463-9731",
+            "address": "793 N. Danebo Avenue, Eugene, OR",
+            "coords": {
+                "lat": 44.06936,
+                "lng": -123.17579
+            }
+        },
+        {
+            "name": "Corvallis Clinic Ashbury Building",
+            "phone": "541-754-1150",
+            "address": "3680 NW Samaritan Drive, Corvallis, OR",
+            "coords": {
+                "lat": 44.60221,
+                "lng": -123.25479
+            }
+        },
+        {
+            "name": "Planned Parenthood - Salem Health Center",
+            "phone": "888-875-7820",
+            "address": "3825 Wolverine St., NE, Salem, OR",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Milwaukie-Oak Grove Center",
+            "phone": "888-875-7820",
+            "address": "14411 SE Mcloughlin Blvd, Milwaukie, OR",
+            "coords": {
+                "lat": 44.95870,///
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Hillman East Portland Center",
+            "phone": "888-875-7820",
+            "address": "14601 SE Division Street, Portland, OR",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Ashland Health Center",
+            "phone": "541-482-8700",
+            "address": "1532 Siskiyou Blvd., Ashland, OR",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "OHSU Center for Women's Health",
+            "phone": "503-418-4500",
+            "address": "808 S.W. Campus Drive, Kohler Pavilion, 7th Floor, Portland, OR",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Lilith Clinic",
+            "phone": "503-221-1870",
+            "address": "511 SW 10th Avenue, Suite 904, Portland, OR",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Salem Health Center",
+            "phone": "888-875-7820",
+            "address": "3825 Wolverine St., NE, Salem, OR",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - NE Portland Center",
+            "phone": "888-875-7820",
+            "address": "3727 NE Martin Luther King Jr. Blvd., Portland, OR",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        }, 
+        {
+            "name": "Planned Parenthood - Beaverton Center",
+            "phone": "888-875-7820",
+            "address": "12220 SW First St., Suite 200, Beaverton, OR",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Grants Pass Health Center",
+            "phone": "888-875-7820",
+            "address": "160 NW Franklin Blvd., Grants Pass, OR",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        }, 
+        {
+            "name": "Planned Parenthood - Salem Health Center",
+            "phone": "888-875-7820",
+            "address": "3825 Wolverine St., NE, Salem, OR",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Delaware County Women's Center",
+            "phone": "610-874-4361",
+            "address": "1 Medical Center Boulevard, POB 2 Suite 224, Chester, PA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Philadelphia Women's Center",
+            "phone": "215-574-3590",
+            "address": "777 Appletree Street, 7th Floor, Philadelphia, PA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - West Chester Surgical Center",
+            "phone": "610-692-1770",
+            "address": "8 S Wayne Street, West Chester, PA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Locust Street Surgical Center",
+            "phone": "215-351-5550",
+            "address": "1144 Locust Street, Philadelphia, PA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Peace Family Planning",
+            "phone": "215-829-2345",
+            "address": "800 Walnut Street, 10th Floor, Philadelphia, PA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "PEACE Family Planning",
+            "phone": "215-829-2345",
+            "address": "3737 Market Street, Suite 1210, Philadelphia, PA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Jefferson Health Family Planning Services",
+            "phone": "215-298-4378",
+            "address": "833 Chestnut Street, Philadelphia, PA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Women & Infants - Early Options Clinic",
+            "phone": "401-274-1122",
+            "address": "2 Dudley Street, 5th Floor, Providence, RI",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Providence Health Center",
+            "phone": "401-421-9620",
+            "address": "175 Broad Street, Providence, RI",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Columbia Health Center",
+            "phone": "803-256-4908",
+            "address": "2712 Middleburg Drive, Suite 107, Columbia, SC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Charleston Health Center",
+            "phone": "843-628-4380",
+            "address": "1312 Ashley River Road, Charleston, SC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Greenville Women's Clinic",
+            "phone": "864-232-1584",
+            "address": "1142 Grove Road, Greenville, SC",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Wasatch Women's Center",
+            "phone": "801-263-2111",
+            "address": "715 East 3900 South, Suite 203, Salt Lake City",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Salt Lake Health Center",
+            "phone": "801-322-5571",
+            "address": "654 South 900 East, Salt Lake City, UT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Metro Health Center",
+            "phone": "801-257-6789",
+            "address": "160 South 1000 East, Suite 120, Salt Lake City, UT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Logan Health Center",
+            "phone": "435-753-0724",
+            "address": "550 North Main #17, Clock Tower Plaza, Logan, UT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Whole Woman's Health of Charlottesville",
+            "phone": "4343-973-4888",
+            "address": "2321 Commonwealth Drive, Charlottesville, VA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Charlottesville Health Center",
+            "phone": "434-296-1000",
+            "address": "2964 Hydraulic Road, Charlottesville, VA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "A Capital Women's Health Clinic",
+            "phone": "804-754-1928",
+            "address": "1511 Starling Drive, Richmond, VA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Hamilton Health Center",
+            "phone": "804-355-4358",
+            "address": "201 N. Hamilton Street, Richmond, VA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Richmond Medical Center for Women",
+            "phone": "804-359-5066",
+            "address": "1118 N Boulevard, Richmond, VA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+
+        {
+            "name": "Planned Parenthood - Barre Health Center",
+            "phone": "802-476-6696",
+            "address": "90 Washington Street, Barre, VT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Williston Health Center",
+            "phone": "802-879-4800",
+            "address": "75 Talcott Road, Suite 10, Williston, VT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Burlington Health Center",
+            "phone": "802-863-6326",
+            "address": "173 Saint Paul Street, Burlington, VT",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Vancouver Center",
+            "phone": "888-875-7820",
+            "address": "11516 SE Mill Plain Blvd, Suite 2-E, Vancouver, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Kennewick Health Center",
+            "phone": "886-904-7721",
+            "address": "7426 W. Bonnie Place, Kennewick, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Walla Walla Health Center",
+            "phone": "866-904-7721",
+            "address": "828 S. First Avenue, Walla Walla, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        }, 
+        {
+            "name": "Planned Parenthood - Yakima Health Center",
+            "phone": "866-904-7721",
+            "address": "1117 Tieton Drive, Yakima, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        }, 
+        {
+            "name": "Cedar River Clinics - Yakima",
+            "phone": "800-572-4223",
+            "address": "106 East E Street, Yakima, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Centralia Health Center",
+            "phone": "800-769-0045",
+            "address": "1020 W Main Street, Centralia, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Yakima Health Center",
+            "phone": "866-904-7721",
+            "address": "1117 Tieton Drive, Yakima, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Puyallup Health Center",
+            "phone": "800-769-0045",
+            "address": "702-30th Ave SW, Puyallup, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Wenatche Health Center",
+            "phone": "866-904-7721",
+            "address": "900 Ferry Street, Wenatchee, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Planned Parenthood - Everett Health Center",
+            "phone": "800-769-0045",
+            "address": "1509 32nd St., Everett, WA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Marysville Center",
+            "phone": "800-769-0045",
+            "address": "10210 State Ave., Marysville, WA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Cedar River Clinics - Renton",
+            "phone": "800-572-4223",
+            "address": "263 Rainier Avenue South, Suite 200, Renton, WA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Central District Health Center",
+            "phone": "800-769-0045",
+            "address": "2001 E Madison, Seattle, WA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "University of Washington Family Planning Medical Center",
+            "phone": "206-598-5500",
+            "address": "4245 Roosevelt Way, NE, 4th FL, Seattle, WA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "UW Neighborhood Clinic - Northgate",
+            "phone": "206-528-8000",
+            "address": "314 NE Thornton Place, Seattle, WA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Lynnwood Health Center",
+            "phone": "800-769-0045",
+            "address": "19505 76th Ave W. 200, Lynnwood, WA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Federal Way Health Center",
+            "phone": "800-769-0045",
+            "address": "11105 S 348th Street #b103, Federal Way, WA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Eastside-Bellevue Health Center",
+            "phone": "800-769-0045",
+            "address": "14730 NE 8th St., Bellevue, WA",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        },
+        {
+            "name": "Planned Parenthood - Olympic Health Center",
+            "phone": "800-769-0045",
+            "address": "402 Legion Way, Suite 201, Olympia, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "All Women's Health",
+            "phone": "253-471-3464",
+            "address": "3711 Pacific Avenue, Suite 200, Tacoma, WA",
+            "coords": {
+                "lat": 44.95870,
+                "lng": -122.98575
+            }
+        },
+        {
+            "name": "Women's Health and Family Care",
+            "phone": "307-734-1313",
+            "address": "555 East Broadway, Jackson, WY",
+            "coords": {
+                "lat": 44.04514,
+                "lng": -123.04082//
+            }
+        }
+    ]

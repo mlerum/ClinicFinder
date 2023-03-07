@@ -56,24 +56,26 @@ def view_map():
 
     return render_template('clinicMap.html')
 
-# @app.route('/api/clinics')
-# def clinic_info():
-#     """JSON info about US clinics."""
+@app.route('/api/clinics')
+def clinic_info():
+    """JSON info about US clinics."""
 
-#     clinics = []
-#     for clinic in clinic.query.limit(50):
-#         clinic.append({
-#             'Name': clinic.name,
-#             'Link': clinic.link,
-#             'Phone': clinic.phone,
-#             'Address': clinic.address,
-#             'Zipcode': clinic.zipcode,
-#             'State': clinic.state,
-#             'Lat': clinic.lat,
-#             'Long': clinic.long,
-#         })
+    clinic = [
+        {
+            "id": clinic.clinic_id,
+            "name": clinic.name,
+            "link": clinic.link,
+            "phone": clinic.phone,
+            "address": clinic.address,
+            "zipcode": clinic.zipcode,
+            "state": clinic.state,
+            "lat": clinic.lat,
+            "lng": clinic.lng
+        }
+        for clinic in clinic.query.limit(100)
+    ]
     
-#     return jsonify(clinics)
+    return jsonify(clinic)
 
 @app.route('/resources') #route to resource guide
 def show_resource():

@@ -51,8 +51,17 @@ class Clinic(db.Model):
 
     #maps = db.relationship('User_Resources', back_populates='clinics')
 
-    def __init__(self, clinic_id, name, link, phone, address, zipcode, state, lat, long):
-        self.clinic_id, self.name, self.link, self.phone, self.address, self.zipcode, self.state, self.lat, self.long
+    def __init__(self, clinic_id, name, link, phone, address, zipcode, state, lat, lng):
+        self.clinic_id = clinic_id
+        self.name = name
+        self.link = link
+        self.phone = phone
+        self.address = address
+        self.zipcode = zipcode
+        self.state = state
+        self.lat = lat
+        self.lng = lng 
+
     def __repr__(self):
         """Show info about clinic."""
         return f'<Clinic name={self.clinic_name}: Link={self.link}>'
