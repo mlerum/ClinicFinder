@@ -22,8 +22,6 @@ with server.app.app_context():
             clinic['coords']['lng'],
         )
 
-
-
         clinic_in_db.append(crud.create_clinic(name, phone, address, lat, lng))
     
     model.db.session.add_all(clinic_in_db)
