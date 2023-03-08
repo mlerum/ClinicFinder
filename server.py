@@ -60,22 +60,19 @@ def view_map():
 def clinic_info():
     """JSON info about US clinics."""
 
-    clinic = [
-        {
+    clinic_info = []
+    clinics_all = Clinic.query.all()
+    for clinic in clinics_all:
+        clinic_info.append({
             "id": clinic.clinic_id,
             "name": clinic.name,
-            "link": clinic.link,
             "phone": clinic.phone,
             "address": clinic.address,
-            "zipcode": clinic.zipcode,
-            "state": clinic.state,
             "lat": clinic.lat,
             "lng": clinic.lng
-        }
-        for clinic in clinic.query.limit(100)
-    ]
-    
-    return jsonify(clinic)
+        })
+        
+    return jsonify(clinic_info)
 
 @app.route('/resources') #route to resource guide
 def show_resource():

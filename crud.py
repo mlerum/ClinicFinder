@@ -21,18 +21,15 @@ def get_user_name(user_name):
 
 #do I want a function to return user_id???
 
-def create_clinic(name, link, phone, address, zipcode, state, lat, long):
+def create_clinic(name, phone, address, lat, lng):
     """Create and return a new clinic."""
 
     clinic = Clinic(
         name=name,
-        link=link,
         phone=phone,
         address=address,
-        zipcode=zipcode,
-        state=state,
         lat=lat,
-        long=long
+        lng=lng
     )
 
     return clinic

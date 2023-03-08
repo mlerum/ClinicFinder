@@ -40,31 +40,24 @@ class Clinic(db.Model):
     __tablename__ = 'clinics'
 
     clinic_id = db.Column(db.Integer, primary_key=True, autoincrement=True)
-    name = db.Column(db.String(50), nullable=False)
-    link = db.Column(db.String(75), nullable=False)
+    name = db.Column(db.String(100), nullable=False)
     phone = db.Column(db.String(25))
-    address = db.Column(db.String(50))
-    zipcode = db.Column(db.String(5))
-    state = db.Column(db.String(2))
+    address = db.Column(db.String(100))
     lat = db.Column(db.Float, nullable=True)
     lng = db.Column(db.Float, nullable=True)
 
     #maps = db.relationship('User_Resources', back_populates='clinics')
 
-    def __init__(self, clinic_id, name, link, phone, address, zipcode, state, lat, lng):
-        self.clinic_id = clinic_id
+    def __init__(self, name, phone, address, lat, lng):
         self.name = name
-        self.link = link
         self.phone = phone
         self.address = address
-        self.zipcode = zipcode
-        self.state = state
         self.lat = lat
         self.lng = lng 
 
     def __repr__(self):
         """Show info about clinic."""
-        return f'<Clinic name={self.clinic_name}: Link={self.link}>'
+        return f'<Clinic name={self.clinic_name}>'
 
 ##need to set connect_to_db(app) function:
 def connect_to_db(flask_app, db_uri="postgresql:///ClinicFinder", echo=True):
