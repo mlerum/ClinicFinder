@@ -1,5 +1,7 @@
 {% extends 'base.html' %}
 
+{% block title %}Interactive Map{% endblock %}
+
 {% block head %}
     <link rel="stylesheet" href="/static/css/stylesheet.css">
     <link rel="stylesheet" href="/static/css/maps.css">
@@ -10,6 +12,15 @@
             <div id="map"></div>
         </section>
     <h1>Click on a marker to view information about a specific clinic.</h1>
+    <div class="search">
+        <form>
+            <input type="text"
+                placeholder="Enter zipcode">
+            <button>
+                <input type="submit">
+            </button>
+        </form>
+    </div>
     <script src="/static/js/maps.js"></script>
     <script
         async

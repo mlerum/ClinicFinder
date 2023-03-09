@@ -1,5 +1,5 @@
 from flask import Flask, render_template, flash, jsonify, session, request, redirect
-from model import connect_to_db, db, User, Clinic
+from model import connect_to_db, db, User, Clinic, Resource
 import os
 from os import environ
 import crud 
@@ -71,14 +71,38 @@ def clinic_info():
             "lat": clinic.lat,
             "lng": clinic.lng
         })
-        
+
     return jsonify(clinic_info)
 
-@app.route('/resources') #route to resource guide
-def show_resource():
+@app.route('/resources')
+def view_resource():
     """Show the resource guide."""
 
-    return render_template('resources.html')
+    resources = crud.get_resources()
+
+    return render_template('resources.html', resources=resources)
+
+@app.route('/api/resources')
+def resource_info():
+    """JSON info about resources."""
+
+    resource_info = []
+    resources_all = Resource.query.all()
+    for resource in resources_all:
+        resource_info.append({
+            "id": resource.resource_id,
+            "name": resource.name,
+            "summary": resource.summary,
+            "link": resource.link,
+        })
+    
+    return jsonify(resource_info)
+
+@app.route('/statebystate')
+def view_state_guide():
+    """Show state-by-state guide of current laws."""
+
+    return render_template('stateguide.html')
 
 if __name__ == '__main__':
     connect_to_db(app)

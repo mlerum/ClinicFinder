@@ -33,6 +33,19 @@ class User(db.Model):
 #     def __repr__(self):
 #         """Show info about users resources."""
 #         return f'<Id={self.id}>' #need to edit
+class Resource(db.Model):
+    """List of all resources."""
+
+    __tablename__ = 'resources'
+
+    resource_id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    name = db.Column(db.String(100), nullable=False)
+    summary = db.Column(db.String(300), nullable=False)
+    link = db.Column(db.String(200), nullable=False)
+
+    def __repr__(self):
+        """Show info about resource."""
+        return f'<Resource name={self.name}: link={self.link}>'
     
 class Clinic(db.Model):
     """List of all clinics."""

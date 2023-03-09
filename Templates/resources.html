@@ -1,14 +1,26 @@
 {% extends 'base.html' %}
+
+{% block title %}Resource Guide{% endblock %}
+
 {% block head %}
     <link rel="stylesheet" href="/static/css/stylesheet.css">
     <link rel="stylesheet" href="/static/css/maps.css">
 {% endblock %}
 
 {% block body %}
-    <nav>
         <section class="resources">
             <div id="resource"></div>
         </section>
-    </nav>
-    <h1>Below is a list of reproductive healthcare resources with links that will bring you to the appropriate website.</h1>
+    <h1>Below is a list of reproductive healthcare resources.</h1>
+    <ul>
+        {% for resource in resources %}
+            <li>
+                <a href="/resources/{{ resource.resource_id }}">
+                    {{ resource.name }} | {{ resource.summary }}
+                    <img src="static/images/rights.png">
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+    <script src="/static/js/resources.js"></script>
 {% endblock %}

@@ -1,34 +1,42 @@
 [
     {
-        "resource_name": "The Sexuality Information and Education Council of the United States",
+        "name": "The Sexuality Information and Education Council of the United States",
+        "summary": "National, nonprofit organization dedicated to advancing sex education through advocacy, policy, and coalition building.",
         "link": "https://siecus.org/"
     },
     {
-        "resource_name": "Reproductive Health Access Project",
+        "name": "Reproductive Health Access Project",
+        "summary": "Nonprofit organization that seeks to integrate abortion, contraception, and miscarriage care into mainstream medicine.",
         "link": "https://www.reproductiveaccess.org/resources/"
     },
     {
-        "resource_name": "National Coalition for Sexual Health",
+        "name": "National Coalition for Sexual Health",
+        "summary": "Coalition that envisions a nation where people feel comfortable talking about sexual health and have access to the information and services needed to support positive and healthy choices, without facing stigma or discrimination.",
         "link": "https://nationalcoalitionforsexualhealth.org/#"
     },
     {
-        "resource_name": "Population Services International",
+        "name": "Population Services International",
+        "summary": "Nonprofit global health organization with a mission to make it easier for all people to lead healthier lives and plan the families they desire.",
         "link": "https://www.psi.org/resources/"
     },
     {
-        "resource_name": "Ibis Reproductive Health",
+        "name": "Ibis Reproductive Health",
+        "summary": "Driving change through bold, rigorous research and principles partnerships that advance sexual and reproductive autonomy, choices, and health worldwide.",
         "link": "https://www.ibisreproductivehealth.org/"
     },
     {
-        "resource_name": "National Women's Health Network",
+        "name": "National Women's Health Network",
+        "summary": "Improving health by strategically shaping policy, expanding access, and providing accurate, unbiased information.",
         "link": "https://nwhn.org/"
     },
     {
-        "resource_name": "Planned Parenthood",
+        "name": "Planned Parenthood",
+        "summary": "Providing reproductive and sexual healthcare and education in the US and globally.",
         "link": "https://www.plannedparenthood.org/"
     },
     {
-        "resource_name": "Guttmacher Institute",
+        "name": "Guttmacher Institute",
+        "summary": "Research and policy NGO aiming to improve sexual health and expand reproductive rights worldwide.",
         "link": "https://www.guttmacher.org/"
     }
 ]

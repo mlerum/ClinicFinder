@@ -27,6 +27,24 @@ with server.app.app_context():
     model.db.session.add_all(clinic_in_db)
     model.db.session.commit()
 
+    """Load resource data from JSON file."""
+    with open('Data/resources.json') as r:
+        resource_info = json.loads(r.read())
+
+    #create resources, store them in list:
+    resource_in_db = []
+    for resource in resource_info:
+        name, summary, link = (
+            resource['name'],
+            resource['summary'],
+            resource['link'],
+        )
+
+        resource_in_db.append(crud.create_resource(name, summary, link))
+
+    model.db.session.add_all(resource_in_db)
+    model.db.session.commit()
+
 if __name__ == '__main__':
     from server import app
     #connect_to_db(app)

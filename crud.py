@@ -1,6 +1,6 @@
 """CRUD operations."""
 
-from model import db, User, Clinic, connect_to_db
+from model import db, User, Clinic, Resource, connect_to_db
 
 #Functions that create data:
 
@@ -29,10 +29,26 @@ def create_clinic(name, phone, address, lat, lng):
         phone=phone,
         address=address,
         lat=lat,
-        lng=lng
+        lng=lng,
     )
 
     return clinic
+
+def create_resource(name, summary, link):
+    """Create and return a new resource."""
+
+    resource = Resource(
+        name=name,
+        summary=summary,
+        link=link,
+    )
+
+    return resource
+
+def get_resources():
+    """Return all resources."""
+
+    return Resource.query.all()
 
 # def user_resource(user_id, clinic_id):
 #     """Create and return user's resource."""
