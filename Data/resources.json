@@ -38,5 +38,20 @@
         "name": "Guttmacher Institute",
         "summary": "Research and policy NGO aiming to improve sexual health and expand reproductive rights worldwide.",
         "link": "https://www.guttmacher.org/"
+    },
+    {
+        "name": "Center for Reproductive Rights",
+        "summary": "Using the power of law to advance reproductive rights as fundamental human rights around the world.",
+        "link": "https://reproductiverights.org/"
+    },
+    {
+        "name": "NARAL Pro-Choice America",
+        "summary": "Engaging in lobbying, political action, and advocacy efforts to oppose restrictions on abortion.",
+        "link": "https://www.prochoiceamerica.org/"
+    },
+    {
+        "name": "ACLU Reproductive Freedom Project",
+        "summary": "Seeking to uphold the rights of individuals to decide freely, without governmental hindrance or coercion, whether or not to bear a child.",
+        "link": "https://www.aclu.org/other/about-aclu-reproductive-freedom-project"
     }
 ]

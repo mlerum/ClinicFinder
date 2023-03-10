@@ -10,3 +10,28 @@ h2 {
     height: 100%;
 
 }
+
+.header {
+    position: relative;
+    text-align: center;
+    top: 18px;
+    left: 10px;
+}
+
+/* #services {
+    position: absolute;
+    text-align: left;
+    width: 100%
+}
+
+#guide {
+    position: absolute;
+    text-align: center;
+    width: 700px;
+}
+
+/* #state {
+    position: absolute;
+    text-align: center;
+    width: 700px;
+} */ 

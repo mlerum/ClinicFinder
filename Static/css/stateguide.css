@@ -12,3 +12,8 @@
     display: inline-block;
     position: relative;
 }
+
+.img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}

@@ -8,6 +8,7 @@
 {% endblock %}
 
 {% block body %}
+<div class="flex-container">
         <section class="resources">
             <div id="resource"></div>
         </section>
@@ -16,11 +17,12 @@
         {% for resource in resources %}
             <li>
                 <a href="/resources/{{ resource.resource_id }}">
-                    {{ resource.name }} | {{ resource.summary }}
+                    <a href={{ resource.link }}>{{ resource.name }} | {{ resource.summary }}</a>
                     <img src="static/images/rights.png">
                 </a>
             </li>
         {% endfor %}
     </ul>
     <script src="/static/js/resources.js"></script>
+</div>
 {% endblock %}

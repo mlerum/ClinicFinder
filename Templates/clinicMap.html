@@ -3,6 +3,16 @@
 {% block title %}Interactive Map{% endblock %}
 
 {% block head %}
+    <h1>Click on marker to view information about a specific clinic:</h1>
+    <div class="search">
+        <form>
+            <input type="text"
+                placeholder="Enter state">
+            <button>
+                <input type="submit">
+            </button>
+        </form>
+    </div>
     <link rel="stylesheet" href="/static/css/stylesheet.css">
     <link rel="stylesheet" href="/static/css/maps.css">
 {% endblock %}
@@ -11,16 +21,6 @@
         <section class="map">
             <div id="map"></div>
         </section>
-    <h1>Click on a marker to view information about a specific clinic.</h1>
-    <div class="search">
-        <form>
-            <input type="text"
-                placeholder="Enter zipcode">
-            <button>
-                <input type="submit">
-            </button>
-        </form>
-    </div>
     <script src="/static/js/maps.js"></script>
     <script
         async

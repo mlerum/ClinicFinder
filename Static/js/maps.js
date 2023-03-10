@@ -1,6 +1,11 @@
 // import data from '../../Data/clinics.json' assert { type: 'JSON' };
 
 // console.log(data)
+let map;
+let marker;
+let geocoder;
+let responseDiv;
+let response;
 
 function initMap() {
     const usCoords = {
@@ -37,6 +42,7 @@ function initMap() {
                         position: coords,
                         title: location.name,
                         phone: location.phone,
+                        address: location.address,
                         map: clinicMap,
                     }),
                 );
@@ -56,9 +62,10 @@ function initMap() {
                         <li><b>
                     <h1>${marker.title}</h1>
                     <p>
-                        Address: <code>${marker.position}</code>,
+                        Address: <code>${marker.address}</code>
                         <br>
-                        Phone: <code>${marker.phone}</code>,
+                        <br>
+                        Phone: <code>${marker.phone}</code>
                     </p></>
                 `;
 
@@ -75,4 +82,6 @@ function initMap() {
                 });
             }
         })
+        
 }
+

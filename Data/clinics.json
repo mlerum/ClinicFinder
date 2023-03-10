@@ -1714,6 +1714,15 @@
             }
         },
         {
+            "name": "Planned Parenthood - Bend Health Center",
+            "phone": "888-875-7820",
+            "address": "2330 NE Division St., Suite 7, Bend, OR",
+            "coords": {
+                "lat": 44.07319,
+                "lng": -121.30455
+            }
+        },
+        {
             "name": "Planned Parenthood - West Eugene Health Center",
             "phone": "541-463-9731",
             "address": "793 N. Danebo Avenue, Eugene, OR",
