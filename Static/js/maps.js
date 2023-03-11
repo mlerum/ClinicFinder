@@ -1,11 +1,3 @@
-// import data from '../../Data/clinics.json' assert { type: 'JSON' };
-
-// console.log(data)
-let map;
-let marker;
-let geocoder;
-let responseDiv;
-let response;
 
 function initMap() {
     const usCoords = {
@@ -82,6 +74,22 @@ function initMap() {
                 });
             }
         })
-        
+function stateZoom() {
+    const select = document.getElementById("state-select");
+    select.addEventListener("change", generateData);
+
+    function generateData(event) {
+        if (menu.value == 'AZ') {
+            clinicMap.center = {
+                lat: 46.7296,
+                lng: 94.6859,
+            }
+        }
+        else {
+            clinicMap.center == usCoords
+            }
+        };
+    }
 }
+
 

@@ -17,3 +17,17 @@
     overflow-clip-margin: content-box;
     overflow: clip;
 }
+
+#state-guide {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}

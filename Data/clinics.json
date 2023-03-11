@@ -60,7 +60,7 @@
             "address": "1331 North 7th Street, Suite 225, Phoenix, AZ",
             "coords": {
                 "lat": 33.46389,
-                "lng": -12.06317
+                "lng": -112.06317
             }
         },
         {
@@ -100,11 +100,786 @@
             }
         },
         {
+            "name": "FPA Women's Health - Fresno",
+            "phone": "559-233-8657",
+            "address": "165 North Clark Street, Fresno, CA",
+            "coords": {
+                "lat": 36.74521,
+                "lng": -119.78641
+            }
+        },
+        {
+            "name": "Planned Parenthood - Capitol Plaza Health Center",
+            "phone": "916-444-7966",
+            "address": "1125 10th Street, Sacramento, CA",
+            "coords": {
+                "lat": 48.57929,
+                "lng": -121.49158
+            }
+        },
+        {
+            "name": "Planned Parenthood - B Street Health Center",
+            "phone": "916-446-6921",
+            "address": "201 29th Street, Ste. B, Sacramento, CA",
+            "coords": {
+                "lat": 38.58239,
+                "lng": -121.46090
+            }
+        },
+        {
+            "name": "University of California, Davis Family Planning",
+            "phone": "916-734-6413",
+            "address": "4860 Y Street, Suite 2500, Sacramento, CA",
+            "coords": {
+                "lat": 38.55195,
+                "lng": -121.44838
+            }
+        },
+        {
+            "name": "Planned Parenthood - Fruitridge Health Center",
+            "phone": "916-452-7305",
+            "address": "5385 Franklin Boulevard, Suite A-D, Sacramento, CA",
+            "coords": {
+                "lat": 38.52709,
+                "lng": -121.47168
+            }
+        },
+        {
+            "name": "FPA Women's Health - Sacramento",
+            "phone": "916-483-2885",
+            "address": "2322 Butano Drive, Suite 205, Sacramento, CA",
+            "coords": {
+                "lat": 38.60711,
+                "lng": -121.37795
+            }
+        },
+        {
+            "name": "Planned Parenthood - Redding Health Center",
+            "phone": "530-351-7100",
+            "address": "2935 Bechelli Lane, Suite A & C, Redding, CA",
+            "coords": {
+                "lat": 40.56492,
+                "lng": -122.36084
+            }
+        },
+
+        {
+            "name": "Planned Parenthood - North Highlands Health Center",
+            "phone": "916-332-5713",
+            "address": "5700 Watt Ave., North Highlands, CA",
+            "coords": {
+                "lat": 38.67134,
+                "lng": -121.38063
+            }
+        },
+        {
+            "name": "Planned Parenthood - Roseville Health Center",
+            "phone": "916-781-3310",
+            "address": "729 Sunrise Ave, Suite 900, Roseville, CA",
+            "coords": {
+                "lat": 38.74305,
+                "lng": -121.26895
+            }
+        },
+        {
+            "name": "Planned Parenthood - Woodland Health Center",
+            "phone": "530-662-4646",
+            "address": "520 Cottonwood Street, Suite 10, Woodland, CA",
+            "coords": {
+                "lat": 38.73395,
+                "lng": -121.26919
+            }
+        },
+        {
+            "name": "Planned Parenthood - Fairfield Health Center",
+            "phone": "707-429-8855",
+            "address": "1325 Travis Boulevard, #C, Fairfield, CA",
+            "coords": {
+                "lat": 38.25809,
+                "lng": -122.04780
+            }
+        },
+        {
+            "name": "Planned Parenthood - Yuba City Health Center",
+            "phone": "530-674-2603",
+            "address": "430 Palora Ave., #g, Yuba City, CA",
+            "coords": {
+                "lat": 39.12906,
+                "lng": -121.63073
+            }
+        },
+        {
+            "name": "Planned Parenthood - Antioch Health Center",
+            "phone": "925-754-4550",
+            "address": "1104 Buchanan Road, Suite C10, Antioch, CA",
+            "coords": {
+                "lat": 37.99971,
+                "lng": -121.82303
+            }
+        },
+        {
+            "name": "Planned Parenthood - Napa Health Center",
+            "phone": "707-252-8050",
+            "address": "935 Trancas Street, Suite 4D, Napa, CA",
+            "coords": {
+                "lat": 38.32349,
+                "lng": -122.29221
+            }
+        },
+        {
+            "name": "Planned Parenthood - Concord Health Center",
+            "phone": "925-676-0300",
+            "address": "2185 Pacheco Street, Concord, CA",
+            "coords": {
+                "lat": 37.97966,
+                "lng": -122.03329
+            }
+        },
+        {
+            "name": "Citizens for Choice",
+            "phone": "800-714-8151",
+            "address": "984 Plaza Drive, Suite S, Grass Valley, CA",
+            "coords": {
+                "lat": 39.23396,
+                "lng": -121.03376
+            }
+        },
+        {
+            "name": "Planned Parenthood - Vallejo Health Center",
+            "phone": "707-643-4545",
+            "address": "303 Sacramento St, Vallejo, CA",
+            "coords": {
+                "lat": 38.09991,
+                "lng": -122.25772
+            }
+        },
+        {
+            "name": "Planned Parenthood - Walnut Creek Health Center",
+            "phone": "925-935-3010",
+            "address": "1357 Oakland Blvd., Walnut Creek, CA",
+            "coords": {
+                "lat": 37.89892,
+                "lng": -122.06872
+            }
+        },
+        {
+            "name": "Planned Parenthood - Hilltop-Richmond Health Center",
+            "phone": "510-222-5290",
+            "address": "2970 Hilltop Mall Road #307, Richmond, CA",
+            "coords": {
+                "lat": 37.97856,
+                "lng": -122.32712
+            }
+        },
+        {
+            "name": "Planned Parenthood - San Ramon Health Center",
+            "phone": "925-838-2108",
+            "address": "200 Porter Drive, Suite 200, San Ramon, CA",
+            "coords": {
+                "lat": 37.77432,
+                "lng": -121.98711
+            }
+        },
+        {
+            "name": "Planned Parenthood - El Cerrito Health Center",
+            "phone": "510-527-5806",
+            "address": "320 El Cerrito Plaza, El Cerrito, CA",
+            "coords": {
+                "lat": 37.90008,
+                "lng": -122.29606
+            }
+        },
+        {
+            "name": "Planned Parenthood - Santa Rosa Health Center",
+            "phone": "707-527-7656",
+            "address": "1140 Sonoma Avenue, Building 3, Santa Rosa, CA",
+            "coords": {
+                "lat": 38.44161,
+                "lng": -122.69847
+            }
+        },
+        {
+            "name": "Planned Parenthood - Clearlake Health Center",
+            "phone": "707-995-2261",
+            "address": "14671 Olympic Drive, Clearlake, CA",
+            "coords": {
+                "lat": 38.96246,
+                "lng": -122.63419
+            }
+        }, 
+        {
+            "name": "Alliance Women's Medical Group",
+            "phone": "213-353-4971",
+            "address": "1930 Wilshire Blvd, Suite 500, Wilshire, CA",
+            "coords": {
+                "lat": 34.05761,
+                "lng": -118.27170
+            }
+        },
+        {
+            "name": "Planned Parenthood - Bixby Health Center",
+            "phone": "800-576-5544",
+            "address": "1057 Kingston Street, Los Angeles, CA",
+            "coords": {
+                "lat": 34.05783,
+                "lng": -118.20643
+            }
+        },
+        {
+            "name": "Planned Parenthood - S. Mark Taper Foundation Center for Medical Training",
+            "phone": "800-576-5544",
+            "address": "400 West 30th Street, Los Angeles, CA",
+            "coords": {
+                "lat": 34.02432,
+                "lng": -118.27255
+            }
+        },
+        {
+            "name": "FPA Women's Health - Downtown LA",
+            "phone": "213-738-7283",
+            "address": "601 South Westmoreland Avenue, Los Angeles, CA",
+            "coords": {
+                "lat": 34.06426,
+                "lng": -118.28563
+            }
+        },
+        {
+            "name": "Planned Parenthood - Koreatown Health Center",
+            "phone": "800-576-5544",
+            "address": "3224 W. Olympic Boulevard, Suite 101, Koreatown, CA",
+            "coords": {
+                "lat": 34.05285,
+                "lng": -118.30530
+            }
+        },
+        {
+            "name": "Planned Parenthood - Hollywood Health Center",
+            "phone": "800-576-5544",
+            "address": "1014 1/2 N Vermont Ave, Los Angeles, CA",
+            "coords": {
+                "lat": 34.09096,
+                "lng": -118.28786
+            }
+        },
+        {
+            "name": "Arjang Naim, MD: North Vermont Avenue",
+            "phone": "323-813-3377",
+            "address": "1407 North Vermont Avenue, Suite A, Los Angeles, CA",
+            "coords": {
+                "lat": 34.09824,
+                "lng": -118.29144
+            }
+        },
+        {
+            "name": "Planned Parenthood - Huntington Park Health Center",
+            "phone": "800-576-5544",
+            "address": "2550 E. Slauson Avenue, Huntington Park, CA",
+            "coords": {
+                "lat": 33.98964,
+                "lng": -118.22398
+            }
+        },
+        {
+            "name": "Planned Parenthood - Highland Park Health Center",
+            "phone": "626-798-0706",
+            "address": "5903 North Figueroa Street, Los Angeles, CA",
+            "coords": {
+                "lat": 34.11193,
+                "lng": -118.18919
+            }
+        },
+        {
+            "name": "FPA Women's Health - East Los Angeles",
+            "phone": "323-201-9343",
+            "address": "4922 East Whittier Boulevard, East Los Angeles, CA",
+            "coords": {
+                "lat": 34.02214,
+                "lng": -118.16062
+            }
+        },
+        {
+            "name": "SEP Medical Clinic",
+            "phone": "323-588-3800",
+            "address": "2625 E Florence Avenue, Huntington Park, CA",
+            "coords": {
+                "lat": 33.97464,
+                "lng": -118.22092
+            }
+        },
+        {
+            "name": "Glendale and Simi Women Center",
+            "phone": "818-500-1163",
+            "address": "1222 South Glendale Ave, Suite 3, Glendale, CA",
+            "coords": {
+                "lat": 34.13245,
+                "lng": -118.24867
+            }
+        },
+        {
+            "name": "My Choice Medical Center, Inc.",
+            "phone": "866-397-3070",
+            "address": "4903 West Pico Boulevard, Suite 202, Los Angeles, CA",
+            "coords": {
+                "lat": 34.04908,
+                "lng": -118.34153
+            }
+        },
+        {
+            "name": "FPA Women's Health - Glendale",
+            "phone": "818-502-1341",
+            "address": "425 East Colorado, Suite 420, Glendale, CA",
+            "coords": {
+                "lat": 34.14407,
+                "lng": -118.24856
+            }
+        },
+        {
+            "name": "Planned Parenthood - Dorothy Hecht Health Center",
+            "phone": "800-576-5544",
+            "address": "8520 So. Broadway, Los Angeles, CA",
+            "coords": {
+                "lat": 33.96150,
+                "lng": -118.27537
+            }
+        },
+        {
+            "name": "Women Center L.A.",
+            "phone": "323-934-8877",
+            "address": "5901 W Olympic Blvd, Suite 503, Los Angeles, CA",
+            "coords": {
+                "lat": 34.05865,
+                "lng": -118.35643
+            }
+        },
+        {
+            "name": "Planned Parenthood - Alhambra Health Center",
+            "phone": "626-798-0706",
+            "address": "330 S. Garfield Ave., 3rd Fl. - Suite 300, Alhambra, CA",
+            "coords": {
+                "lat": 34.09245,
+                "lng": -118.12327
+            }
+        },
+        {
+            "name": "FPA Women's Health - Inglewood",
+            "phone": "323-987-8879",
+            "address": "301 North Prairie Avenue, Suite 611, Inglewood, CA",
+            "coords": {
+                "lat": 33.96631,
+                "lng": -118.34445
+            }
+        },
+        {
+            "name": "Planned Parenthood - West Hollywood",
+            "phone": "800-576-5544",
+            "address": "869 Westbourne Dr, West Hollywood, CA",
+            "coords": {
+                "lat": 34.08757,
+                "lng": -118.37761
+            }
+        },
+        {
+            "name": "Planned Parenthood - Inglewood Health Center",
+            "phone": "800-576-5544",
+            "address": "905 N. La Brea Avenue, Inglewood, CA",
+            "coords": {
+                "lat": 33.97499,
+                "lng": -118.35699
+            }
+        },
+        {
+            "name": "Planned Parenthood - Pasadena Health Center",
+            "phone": "626-798-0706",
+            "address": "1045 North Lake Avenue, Pasadena, CA",
+            "coords": {
+                "lat": 34.16468,
+                "lng": -118.13045
+            }
+        },
+        {
+            "name": "Planned Parenthood - Burbank Health Center",
+            "phone": "800-576-5544",
+            "address": "916 W Burbank Blvd. #M, Burbank, CA",
+            "coords": {
+                "lat": 34.18414,
+                "lng": -118.32119
+            }
+        },
+        {
+            "name": "FPA Women's Health - Long Beach",
+            "phone": "562-595-5653",
+            "address": "2777 Long Beach Blvd #200, Long Beach, CA",
+            "coords": {
+                "lat": 33.81761,
+                "lng": -118.19015
+            }
+        },
+        {
+            "name": "Planned Parenthood - First Avenue Specialty Services Michelle Wagner Center",
+            "phone": "888-743-7526",
+            "address": "2017 First Avenue, Suite 100, San Diego, A",
+            "coords": {
+                "lat": 32.72674,
+                "lng": -117.16266
+            }
+        },
+        {
+            "name": "Planned Parenthood - City Heights Center",
+            "phone": "888-743-7526",
+            "address": "4305 University Avenue, #350, Ste 350, San Diego, CA",
+            "coords": {
+                "lat": 32.74966,
+                "lng": -117.10121
+            }
+        },
+        {
+            "name": "Planned Parenthood - Euclid Avenue Francis Torbert Center",
+            "phone": "888-743-7526",
+            "address": "220 Euclid Avenue, Suite 30, San Diego, CA",
+            "coords": {
+                "lat": 32.70676,
+                "lng": -117.08296
+            }
+        },
+        {
+            "name": "Planned Parenthood - College Avenue Sarah Weddington Center",
+            "phone": "888-743-7526",
+            "address": "4575 College Avenue, San Diego, CA",
+            "coords": {
+                "lat": 32.76103,
+                "lng": -117.06602
+            }
+        },
+        {
+            "name": "Planned Parenthood - Mission Bay Mimi Brien Health Center",
+            "phone": "888-743-7526",
+            "address": "4501 Mission Bay Drive, #1C&D, San Diego, CA",
+            "coords": {
+                "lat": 32.80412,
+                "lng": -117.21591
+            }
+        },
+        {
+            "name": "Planned Parenthood - Kearny Mesa Joan & Irwin Jacobs Center",
+            "phone": "888-743-7526",
+            "address": "7526 Clairemont Mesa Boulevard, San Diego, CA",
+            "coords": {
+                "lat": 32.83517,
+                "lng": -117.16322
+            }
+        },
+        {
+            "name": "Planned Parenthood - Chula Vista Center",
+            "phone": "888-743-7526",
+            "address": "1295 Broadway #201, Chula Vista, CA",
+            "coords": {
+                "lat": 32.60486,
+                "lng": -117.07760
+            }
+        },
+        {
+            "name": "Jacobs Medical Center at UC San Diego Health",
+            "phone": "619-806-7108",
+            "address": "9300 Campus Point Drive, La Jolla, CA",
+            "coords": {
+                "lat": 32.87844,
+                "lng": -117.22434
+            }
+        },
+        {
+            "name": "Planned Parenthood - Mira Mesa Center",
+            "phone": "888-743-7526",
+            "address": "10717 Camino Ruiz, Suite 258, San Diego, CA",
+            "coords": {
+                "lat": 32.91441,
+                "lng": -117.14282
+            }
+        },
+        {
+            "name": "FPA Women's Health - El Cajon",
+            "phone": "858-547-7100",
+            "address": "1625 East Main Street, Suite 202, El Cajon, CA",
+            "coords": {
+                "lat": 32.81038,
+                "lng": -116.91986
+            }
+        },
+        {
+            "name": "Planned Parenthood - El Cajon Center",
+            "phone": "888-743-7526",
+            "address": "1685 East Main Street, Suite 301, El Cajon, CA",
+            "coords": {
+                "lat": 32.81199,
+                "lng": -116.91672
+            }
+        },
+        {
+            "name": "Planned Parenthood - Escondido Center",
+            "phone": "888-743-7526",
+            "address": "347 W. Mission Avenue, Escondido, CA",
+            "coords": {
+                "lat": 33.12892,
+                "lng": -117.08820
+            }
+        },
+        {
+            "name": "Planned Parenthood - Vista Isabella Health Center",
+            "phone": "888-743-7526",
+            "address": "1964 Via Centre, Vista, CA",
+            "coords": {
+                "lat": 33.18458,
+                "lng": -117.28235
+            }
+        },
+        {
+            "name": "FPA Women's Health - Temecula",
+            "phone": "951-296-0454",
+            "address": "41715 Winchester Road, Suite 204, Temecula, CA",
+            "coords": {
+                "lat": 33.51948,
+                "lng": -117.16564
+            }
+        },
+        {
+            "name": "Planned Parenthood - Mission Viejo",
+            "phone": "714-922-4100",
+            "address": "26137 La Paz Rd., #200, Mission Viejo, CA",
+            "coords": {
+                "lat": 33.60123,
+                "lng": -117.67288
+            }
+        },
+        {
+            "name": "Planned Parenthood - Hemet Health Center",
+            "phone": "888-743-7526",
+            "address": "1780 East Florida Avenue, Hemet, CA",
+            "coords": {
+                "lat": 33.74862,
+                "lng": -116.95177
+            }
+        },
+        {
+            "name": "Planned Parenthood - Costa Mesa",
+            "phone": "714-922-4100",
+            "address": "1520 Nutmeg Place, Suite 101, Costa Mesa, CA",
+            "coords": {
+                "lat": 33.68339,
+                "lng": -117.92033
+            }
+        },
+        {
+            "name": "Her Choice Medical Clinic",
+            "phone": "714-966-9094",
+            "address": "1155 West Central Avenue, Suite 214, Santa Ana, CA",
+            "coords": {
+                "lat": 33.71447,
+                "lng": -117.88442
+            }
+        },
+        {
+            "name": "Planned Parenthood Corona Health Center",
+            "phone": "888-743-7526",
+            "address": "2079 Compton Avenue, Suite 104, Corona, CA",
+            "coords": {
+                "lat": 33.84914,
+                "lng": -117.53310
+            }
+        },
+        {
+            "name": "The Women's Health Center",
+            "phone": "714-378-5606",
+            "address": "9940 Talbert Avenue, Suite 303, Fountain Valley, CA",
+            "coords": {
+                "lat": 33.70109,
+                "lng": -117.95462
+            }
+        },
+        {
+            "name": "FPA Women's Health - Santa Ana",
+            "phone": "657-859-5463",
+            "address": "1901 North Tustin Avenue, Santa Ana, CA",
+            "coords": {
+                "lat": 33.76261,
+                "lng": -117.83469
+            }
+        },
+        {
+            "name": "Planned Parenthood - Santa Ana Health Center",
+            "phone": "714-922-4100",
+            "address": "1421 E. 17th St., Santa Ana, CA",
+            "coords": {
+                "lat": 33.76090,
+                "lng": -117.84755
+            }
+        },
+        {
+            "name": "Planned Parenthood - Orange",
+            "phone": "714-922-4100",
+            "address": "700 S. Tustin St., Orange, CA",
+            "coords": {
+                "lat": 33.77786,
+                "lng": -117.83628
+            }
+        },
+        {
+            "name": "Planned Parenthood - Merced Health Center",
+            "phone": "209-723-7751",
+            "address": "3166 Collins Drive, Merced, CA",
+            "coords": {
+                "lat": 37.32102,
+                "lng": -120.47507
+            }
+        },
+        {
+            "name": "FPA Women's Health - Bakersfield",
+            "phone": "661-633-5266",
+            "address": "2500 H Street, Bakersfield, CA",
+            "coords": {
+                "lat": 35.38236,
+                "lng": -119.02080
+            }
+        },
+        {
+            "name": "FPA Women's Health - Modesto",
+            "phone": "209-578-0443",
+            "address": "2030 Coffee Road, Suite A1, Modesto, CA",
+            "coords": {
+                "lat": 37.67435,
+                "lng": -120.97527
+            }
+        },
+        {
+            "name": "Planned Parenthood - Modesto Health Center",
+            "phone": "209-579-2300",
+            "address": "1431 Mchenry Avenue, Suite 100, Modesto, CA",
+            "coords": {
+                "lat": 37.66569,
+                "lng": -120.99410
+            }
+        },
+        {
+            "name": "Planned Parenthood - Manteca Health Center",
+            "phone": "209-239-2528",
+            "address": "965 E. Yosemite Avenue, Suite 2, Manteca, CA",
+            "coords": {
+                "lat": 37.79827,
+                "lng": -121.20222
+            }
+        },
+        {
+            "name": "Planned Parenthood - Salinas Health Center",
+            "phone": "831-758-8261",
+            "address": "316 N. Main Street, Salinas, CA",
+            "coords": {
+                "lat": 36.68326,
+                "lng": -121.65295
+            }
+        },
+        {
+            "name": "Planned Parenthood - San Luis Obispo Center",
+            "phone": "888-898-3806",
+            "address": "743 Pismo Street, San Luis Obispo, CA",
+            "coords": {
+                "lat": 35.27733,
+                "lng": -120.65977
+            }
+        },
+        {
+            "name": "Planned Parenthood - Tracy Health Center",
+            "phone": "209-835-8910",
+            "address": "1441 N. Tracy Blvd., Tracy, CA",
+            "coords": {
+                "lat": 37.74529,
+                "lng": -121.43286
+            }
+        },
+        {
+            "name": "Planned Parenthood - Eastland Plaza Health Center",
+            "phone": "209-469-4160",
+            "address": "678 North Wilson Way, Suite G, Stockton, CA",
+            "coords": {
+                "lat": 37.96288,
+                "lng": -121.26949
+            }
+        },
+        {
+            "name": "Planned Parenthood - Watsonville Health Center",
+            "phone": "831-724-7525",
+            "address": "398 South Green Valley Road, Watsonville, CA",
+            "coords": {
+                "lat": 36.93111,
+                "lng": -121.77311
+            }
+        },
+        {
+            "name": "Planned Parenthood - North Stockton Health Center",
+            "phone": "209-477-4103",
+            "address": "4555 Precissi Lane, Stockton, CA",
+            "coords": {
+                "lat": 37.99009,
+                "lng": -121.31269
+            }
+        },
+        {
+            "name": "Planned Parenthood - Seaside Health Center",
+            "phone": "831-394-1691",
+            "address": "623 Hilby Ave., Seaside, CA",
+            "coords": {
+                "lat": 36.60280,
+                "lng": -121.84858
+            }
+        },
+        {
+            "name": "Planned Parenthood - Mar Monte Community Clinic",
+            "phone": "408-274-7100",
+            "address": "2470 Alvin Ave, Suite 60, San Jose, CA",
+            "coords": {
+                "lat": 37.32004,
+                "lng": -121.82439
+            }
+        },
+        {
+            "name": "Planned Parenthood - Santa Maria Center",
+            "phone": "888-898-3806",
+            "address": "415 E Chapel Street, Santa Maria, CA",
+            "coords": {
+                "lat": 34.95483,
+                "lng": -120.42949
+            }
+        },
+        {
+            "name": "Planned Parenthood - Blossom Hill Health Center",
+            "phone": "408-281-9777",
+            "address": "5440 Thornwood Drive, Suite G, San Jose, CA",
+            "coords": {
+                "lat": 37.25478,
+                "lng": -121.86013
+            }
+        },
+        {
+            "name": "Planned Parenthood - San Jose Health Center",
+            "phone": "408-287-7526",
+            "address": "1691 The Alameda, San Jose, CA",
+            "coords": {
+                "lat": 37.33789,
+                "lng": -121.91954
+            }
+        },
+        {
+            "name": "Planned Parenthood - Mountain View Health Center",
+            "phone": "650-948-0807",
+            "address": "2500 California Street, Mountain View, CA",
+            "coords": {
+                "lat": 37.40398,
+                "lng": -122.10634
+            }
+        },
+        {
             "name": "Women's Health Specialists - Redding Clinic",
             "phone": "530-221-0193",
             "address": "1901 Victor Avenue, Redding, CA",
             "coords": {
-                "lat": 40.58127,
+                "lat": 40.57891,
                 "lng": -122.32882
             }
         },
@@ -1334,6 +2109,33 @@
             }
         },
         {
+            "name": "Planned Parenthood - St. Paul Vandalia",
+            "phone": "651-698-2406",
+            "address": "671 Vandalia St., S. Paul, MN",
+            "coords": {
+                "lat": 44.96221,
+                "lng": -93.18640
+            }
+        },
+        {
+            "name": "Whole Woman's Health of Minnesota",
+            "phone": "612-376-7708",
+            "address": "8053 East Bloomington Freeway, Bloomington, MN",
+            "coords": {
+                "lat": 44.85782,
+                "lng": -93.29301
+            }
+        },
+        {
+            "name": "Planned Parenthood - Rochester Clinic",
+            "phone": "507-288-5186",
+            "address": "1212 7th St. NW, Rochester, MN",
+            "coords": {
+                "lat": 44.03152,
+                "lng": -92.47758
+            }
+        },
+        {
             "name": "Planned Parenthood of Helena",
             "phone": "405-443-7676",
             "address": "1500 Cannon St, Helena, MT",
@@ -2134,7 +2936,7 @@
             "address": "19505 76th Ave W. 200, Lynnwood, WA",
             "coords": {
                 "lat": 47.82270,
-                "lng": -1122.33532
+                "lng": -122.33532
             }
         },
         {
