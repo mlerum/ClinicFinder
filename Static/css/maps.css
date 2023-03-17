@@ -2,12 +2,26 @@ html, body {
     margin: 0;
     width: 100%;
     height: 100%;
+    background-color: #91bfff;
 }
 
 .map,
 #map {
     width: 100%;
-    height: 95%;
+    height: 100%;
+    min-height: 100%;
+}
+
+/* .container {
+    position: absolute;
+    /* top: 8px;
+    left: 16px; 
+} */
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: 'Franklin Gothic Medium';
 }
 
 div.window-content {
@@ -21,6 +35,7 @@ div.window-content {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: whitesmoke;
 }
 
 .clinic-thumbnail img {
@@ -34,6 +49,6 @@ div.window-content {
     margin: 1em 0 1em 1em;
 }
 
-img[src='/static/images/clinicSymbol.png'] {
+/* img[src='/static/images/clinicSymbol.png'] {
     filter: drop-shadow(0 0 3px pink);
-}
+} */

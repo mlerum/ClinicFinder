@@ -3,14 +3,8 @@
 {% block title %}Interactive Map{% endblock %}
 
 {% block head %}
-    <h1>Current remaining abortion clinics in the United States</h1>
-    <div class="donate">
-        <label for="donate-now"></label>
-            <a href="https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2?_gl=1*il9wq5*_ga*MTk3MDI0OTQzOC4xNjc3NTE3Njkx*_gid*MTQ3Nzg3OTk5OS4xNjc4MzIwODY5">Donate to Planned Parenthood!</a>
-    </div>
-    <div class="search">
+    <!-- <div class="search">
         <form>
-            <!-- <fieldset> -->
             <label for="state-select">Select a state from the dropdown menu:</label>
     
             <select name="state" id="state-select" onchange="changeMap(this.value)">
@@ -66,20 +60,24 @@
                 <option value="WI">Wisconsin</option>
                 <option value="WY">Wyoming</option>
             </select>
-            <!-- </fieldset> -->
         </form>
-    </div>
+    </div>  -->
     <link rel="stylesheet" href="/static/css/stylesheet.css">
     <link rel="stylesheet" href="/static/css/maps.css">
 {% endblock %}
 
 {% block body %}
-        <section class="map">
-            <div id="map"></div>
-        </section>
-    <script src="/static/js/maps.js"></script>
-    <script
-        async
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCNsF_2Swk4zN6INkJSc_D6EjoDRMOLlB4&callback=initMap">
-    </script>
+<h1>Current Remaining Abortion Clinics in the United States:</h1>
+<!-- <div class="container">
+        <label for="donate-now"></label>
+        <a href="https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2?_gl=1*il9wq5*_ga*MTk3MDI0OTQzOC4xNjc3NTE3Njkx*_gid*MTQ3Nzg3OTk5OS4xNjc4MzIwODY5">Donate to Planned Parenthood!</a>
+    </div> -->
+    <div id="map" class="container">
+        <script src="/static/js/maps.js"></script>
+        <script
+            async
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCNsF_2Swk4zN6INkJSc_D6EjoDRMOLlB4&callback=initMap">
+        </script>
+    </div>
+
 {% endblock %}

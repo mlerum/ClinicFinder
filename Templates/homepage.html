@@ -2,32 +2,41 @@
 
 {% block title %}ClinicFinder | All are welcome here.{% endblock %}
 
+{% block head %}
+    <script src=" https://cdn.jsdelivr.net/npm/chart.js@4.2.1/dist/chart.umd.min.js "></script>
+{% endblock %}
+
 {% block body %}
-        <link rel="stylesheet" href="/static/css/homepage.css">
 
-        <header>
-            <div class="header"></div>
-                <h3><a class="link" id="services" href='/clinicMap'>Find Abortion Services</a></h3>
-                <h3><a class="link" id="guide" href='/resources'>Resource Guide</a></h3>
-                <h3><a class="link" id="state" href='/statebystate'>State-by-State Guide</a></h3>
-        </header>
-        <img src="/static/images/Homepage Header.png" alt="Abortion is Healthcare" id="img"></src>
-        <h1>Your body, your choice.</h1>
+<link rel="stylesheet" href="/static/css/homepage.css">
+    <header>
+        <div class="header"></div>
+            <h3><a class="link" id="services" href='/clinicMap'>Find Abortion Services</a></h3>
+            <h3><a class="link" id="guide" href='/resources'>Resource Guide</a></h3>
+            <h3><a class="link" id="state" href='/statebystate'>State-by-State Guide</a></h3>
+            <h3><a class="link" id="statistics" href='/statistics'>Abortion Statistics</a></h3>
 
-        <h2>Log In</h2>
-        <form action="/login" method="POST">
-            Please enter your username and password:
-            <input type="text" name="user_name" placeholder="username">
-            <input type="text" name="user_password" placeholder="password">
-            <input type="submit" name="Log In" id="log-in">
-        </form>
-        <h2>Create an Account</h2>
-        <form action="/new_user" method="POST">
-            Please enter a username and password to create an account:
-            <input type="text" name="user_name" placeholder="username">
-            <input type="text" name="user_password" placeholder="password">
-            <input type="submit" name="Create Account" id="create-account">
-        </form>
-    </body>
+    </header>
+    <img src="/static/images/Homepage Header.png" alt="Abortion is Healthcare" id="img"></src> 
+     
+    <h1>Your body, your choice.</h1>
 
+    <h2>Log In</h2>
+    <form action="/login" method="POST">
+        Please enter your username and password:
+        <input type="text" name="user_name" placeholder="username">
+        <input type="text" name="user_password" placeholder="password">
+        <input type="submit" name="Log In" id="log-in">
+    </form>
+    <h2>Create an Account</h2>
+    <form action="/new_user" method="POST">
+        Please enter a username and password to create an account:
+        <input type="text" name="user_name" placeholder="username">
+        <input type="text" name="user_password" placeholder="password">
+        <input type="submit" name="Create Account" id="create-account">
+    </form>
+{% endblock %}
+
+{% block js %}
+  <script src="/static/js/charts.js"></script>
 {% endblock %}

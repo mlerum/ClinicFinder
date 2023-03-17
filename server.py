@@ -104,6 +104,12 @@ def view_state_guide():
 
     return render_template('stateguide.html')
 
+@app.route('/statistics')
+def view_abortion_statistics():
+    """View various charts showing information on abortion statistics in the US."""
+
+    return render_template('statistics.html')
+
 if __name__ == '__main__':
     connect_to_db(app)
     app.run(debug=True, host='0.0.0.0', port=5001)

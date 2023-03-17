@@ -12,17 +12,20 @@
         <section class="resources">
             <div id="resource"></div>
         </section>
+    <header>
+    <!-- <img src="/static/images/resources.jpeg" alt="Resources" id="img2"></src> -->
     <h1>Below is a list of reproductive healthcare resources.</h1>
+    </header>
     <ul>
         {% for resource in resources %}
             <li>
                 <a href="/resources/{{ resource.resource_id }}">
                     <a href={{ resource.link }}>{{ resource.name }} | {{ resource.summary }}</a>
-                    <img src="static/images/rights.png">
+                    <!-- <img src="static/images/resources/SIECUS.png"> -->
                 </a>
             </li>
         {% endfor %}
     </ul>
     <script src="/static/js/resources.js"></script>
-</div>
+</div> 
 {% endblock %}

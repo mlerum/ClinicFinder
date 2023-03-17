@@ -1,5 +1,10 @@
 [
     {
+        "name": "The 19th News | Abortion",
+        "summary": "Independent, nonprofit organization reporting on gender, politics, and policy.",
+        "link": "https://19thnews.org/topics/abortion/"
+    },
+    {
         "name": "The Sexuality Information and Education Council of the United States",
         "summary": "National, nonprofit organization dedicated to advancing sex education through advocacy, policy, and coalition building.",
         "link": "https://siecus.org/"
@@ -53,5 +58,20 @@
         "name": "ACLU Reproductive Freedom Project",
         "summary": "Seeking to uphold the rights of individuals to decide freely, without governmental hindrance or coercion, whether or not to bear a child.",
         "link": "https://www.aclu.org/other/about-aclu-reproductive-freedom-project"
+    },
+    {
+        "name": "Power to Decide",
+        "summary": "Advancing sexual and reproductive well-being for all by providing trusted information, expanding access to quality services, and catalyzing culture change.",
+        "link": "https://powertodecide.org/"
+    },
+    {
+        "name": "National Abortion Federation",
+        "summary": "Uniting, representing, serving, and supporting abortion providers in delivering patient-centered, evidence-based care.",
+        "link": "https://prochoice.org/"
+    },
+    {
+        "name": "Advancing New Standards in Reproductive Health",
+        "summary": "Leading research program informing the most pressing debates on abortion and reproductive health.",
+        "link": "https://www.ansirh.org/"
     }
 ]

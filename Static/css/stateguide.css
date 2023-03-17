@@ -18,16 +18,43 @@
     overflow: clip;
 }
 
-#state-guide {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
+body {
+    background-color: whitesmoke;
 }
 
-div {
-    background-color: lightgrey;
-    width: 300px;
+#state-guide {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#stateCard1 {
+    background-color: white;
+    width: 250px;
+    border: 15px solid darkred;
+    padding: 50px;
+    margin: 20px;
+    height: 165px;
+    text-align: center;
+}
+
+#stateCard2 {
+    background-color: white;
+    width: 250px;
     border: 15px solid green;
     padding: 50px;
     margin: 20px;
+    text-align: center;
+}
+
+#stateCard3 {
+    background-color: white;
+    width: 250px;
+    border: 15px solid darkgoldenrod;
+    padding: 50px;
+    margin: 20px;
+    height: 165px;
+    text-align: center;
 }
