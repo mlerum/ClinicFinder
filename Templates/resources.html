@@ -8,6 +8,42 @@
 {% endblock %}
 
 {% block body %}
+<ul class="main__menu">
+    <li class="list-item">
+      <a href="organizations" class="organizations">
+        <span>Organizations</span>
+        <i class="ion ion-ios-home-outline"></i>
+      </a>
+      <ul class="drop-menu menu-1">
+        <li class="drop-item"><a href="https://siecus.org/" class="item--1">Name</a></li>
+        <li class="drop-item"><a href="#" class="item--2">Name</a></li>
+        <li class="drop-item"><a href="#" class="item--3">Name</a></li>
+      </ul>
+    </li>
+    <li class="list-item">
+      <a href="education" class="education">
+        <span>Education</span>
+        <i class="ion ion-ios-contact-outline"></i>
+      </a>
+      <ul class="drop-menu menu-2">
+        <li class="drop-item"><a href="#" class="item--1">Name</a></li>
+        <li class="drop-item"><a href="#" class="item--2">Name</a></li>
+        <li class="drop-item"><a href="#" class="item--3">Name</a></li>
+      </ul>
+    </li>
+    <li class="list-item">
+      <a href="legal" class="legal">
+        <span>Legal</span>
+        <i class="ion ion-ios-partly-sunny-outline"></i>
+      </a>
+      <ul class="drop-menu menu-3">
+        <li class="drop-item"><a href="#" class="item--1">Name</a></li>
+        <li class="drop-item"><a href="#" class="item--2">Name</a></li>
+        <li class="drop-item"><a href="#" class="item--3">Name</a></li>
+      </ul>
+    </li>
+  </ul>
+
 <div class="flex-container">
         <section class="resources">
             <div id="resource"></div>
@@ -21,7 +57,6 @@
             <li>
                 <a href="/resources/{{ resource.resource_id }}">
                     <a href={{ resource.link }}>{{ resource.name }} | {{ resource.summary }}</a>
-                    <!-- <img src="static/images/resources/SIECUS.png"> -->
                 </a>
             </li>
         {% endfor %}

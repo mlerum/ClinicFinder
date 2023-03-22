@@ -30,7 +30,7 @@ def register_user():
         user = crud.register_user(user_name, user_password)
         db.session.add(user)
         db.session.commit()
-        flash("Your account was created successfully.")
+        flash("Hello, your account was created successfully.")
 
     return redirect('/')
 
@@ -46,7 +46,7 @@ def login():
         flash("Incorrect credentials. Please try again.")
     else:
         session['user_name'] = user.user_name
-        flash("You are now logged in!")
+        flash("Welcome, you are now logged in!")
 
     return redirect('/')
 
