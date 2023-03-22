@@ -1,5 +1,4 @@
 
-
 //retrieve all resource information with AJAX request
 fetch('/api/resources')
     .then((response) => response.json())
@@ -35,3 +34,4 @@ fetch('/api/resources')
             `;
         }
     })
+

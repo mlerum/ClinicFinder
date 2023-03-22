@@ -29,4 +29,19 @@ new Chart(document.querySelector('#abortion-stage'), {
             }
         ]
     }
+});
+
+new Chart(document.querySelector('#abortion-type'), {
+    type: 'line',
+    data: {
+        labels: ['2000', '2001', '2005', '2008', '2011', '2014', '2017', '2020'],
+        datasets: [
+            {
+                label: '% of Medication Abortions',
+                data: [0, 6, 14, 17, 24, 31, 39, 53],
+                borderColor: 'rgba(0,0,255,1.0',
+                backgroundColor: 'rbga(0,0,255,0.1)'
+            }
+        ]
+    }
 })

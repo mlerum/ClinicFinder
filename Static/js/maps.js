@@ -75,10 +75,10 @@ function initMap() {
                 });
             }
         })
-    //put input in form, only search when user presses enter
-    
+
+    //event listener for form submission on map page
     var userInput = document.getElementById('searchInput');
-    addEventListener('submit', () => {
+    userInput.addEventListener('submit', (evt) => {
         if (userInput == 'Alabama') {
             clinicMap.setCenter == {
                 lat: 32.3182,

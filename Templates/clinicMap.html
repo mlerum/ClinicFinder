@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 
-{% block title %}Interactive Map{% endblock %}
+{% block title %}US Abortion Clinics{% endblock %}
 
 {% block head %}
     <link rel="stylesheet" href="/static/css/stylesheet.css">
@@ -12,7 +12,7 @@
         <label for="donate-now"></label>
         <a href="https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2?_gl=1*il9wq5*_ga*MTk3MDI0OTQzOC4xNjc3NTE3Njkx*_gid*MTQ3Nzg3OTk5OS4xNjc4MzIwODY5">Donate to Planned Parenthood!</a>
     </div> -->
-    <form>
+    <form onsubmit="searchBar">
         <input id="searchInput" type="text" placeholder="Enter state here">
         <input type="submit" value="submit">
     </form>

@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 
-{% block title %}Abortion Statistics{% endblock %}
+{% block title %}Statistics{% endblock %}
 
 {% block head %}
 <script src=" https://cdn.jsdelivr.net/npm/chart.js@4.2.1/dist/chart.umd.min.js "></script>
@@ -16,6 +16,10 @@
     <h1>Before and After the Fall of Roe</h1>
     <h3>100 Days Post-Roe: At Least 66 Clinics Across 15 US States Have Stopped Offering Abortion Care</h3>
     <canvas id="abortion-chart"></canvas>  
+
+    <h1>Medication Abortions in the US</h1>
+    <h3>As of 2020, medication abortions account for the majority of all US abortions.</h3>
+    <canvas id="abortion-type"></canvas>  
 </div>
 {% endblock %}
 
