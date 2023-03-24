@@ -63,7 +63,7 @@ function initMap() {
                 `;
 
                 const infoWindow = new google.maps.InfoWindow({
-                    content: clinicInfo,
+                    // content: clinicInfo,
                     maxWidth: 400,
                 });
 
@@ -76,308 +76,620 @@ function initMap() {
             }
         })
 
-    //event listener for form submission on map page
-    var userInput = document.getElementById('searchInput');
-    userInput.addEventListener('submit', (evt) => {
+    //event listener for form submission on map page - state
+    var searchBar = document.getElementById('stateBar');
+    searchBar.addEventListener('submit', (evt) => {
+        evt.preventDefault();
+        const userInput = document.getElementById('stateInput').value;
+        clinicMap.setZoom(8);
         if (userInput == 'Alabama') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 32.3182,
-                lng: 86.9023
-            }
+                lng: -86.9023
+            }) 
         }
         else if (userInput == 'Alaska') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 64.2008,
-                lng: 149.4937
-            }
+                lng: -149.4937
+            }) 
         }
         else if (userInput == 'Arizona') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 34.0489,
-                lng: 111.0937
-            }
+                lng: -111.0937
+            })
         }
         else if (userInput == 'Arkansas') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 34.5574,
-                lng: 92.2863
-            }
+                lng: -92.2863
+            })
         }
         else if (userInput == 'California') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 36.7783,
-                lng: 119.4179
-            }
+                lng: -119.4179
+            })
         }
         else if (userInput == 'Colorado') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 39.5501,
-                lng: 105.7821
-            }
+                lng: -105.7821
+            })
         }
         else if (userInput == 'Connecticut') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 41.6032,
-                lng: 73.0877
-            }
+                lng: -73.0877
+            })
         }
         else if (userInput == 'Delaware') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 38.9108,
-                lng: 75.5277
-            }
+                lng: -75.5277
+            })
         }
         else if (userInput == 'Florida') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 27.6648,
-                lng: 81.5158
-            }
+                lng: -81.5158
+            })
         }
         else if (userInput == 'Georgia') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 32.1656,
-                lng: 82.9001
-            }
+                lng: -82.9001
+            })
         }
         else if (userInput == 'Hawaii') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 19.8968,
-                lng: 155.5828
-            }
+                lng: -155.5828
+            })
         }
         else if (userInput == 'Idaho') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 44.0682,
-                lng: 114.7420
-            }
+                lng: -114.7420
+            })
         }
         else if (userInput == 'Illinois') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 40.6331,
-                lng: 89.3985
-            }
+                lng: -89.3985
+            })
         }
         else if (userInput == 'Indiana') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 40.2672,
-                lng: 86.1349
-            }
+                lng: -86.1349
+            })
         }
         else if (userInput == 'Iowa') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 41.8780,
-                lng: 93.0977
-            }
+                lng: -93.0977
+            })
         }
         else if (userInput == 'Kansas') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 39.0119,
-                lng: 98.4842
-            }
+                lng: -98.4842
+            })
         }
         else if (userInput == 'Kentucky') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 37.8393,
-                lng: 84.2700
-            }
+                lng: -84.2700
+            })
         }
         else if (userInput == 'Louisiana') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 30.9843,
-                lng: 91.9623
-            }
+                lng: -91.9623
+            })
         }
         else if (userInput == 'Maine') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 45.2538,
-                lng: 69.4455
-            }
+                lng: -69.4455
+            })
         }
         else if (userInput == 'Maryland') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 39.0458,
-                lng: 76.6413
-            }
+                lng: -76.6413
+            })
         }
         else if (userInput == 'Massachusetts') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 42.4072,
-                lng: 71.3824
-            }
+                lng: -71.3824
+            })
         }
         else if (userInput == 'Michigan') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 44.3148,
-                lng: 85.6024
-            }
+                lng: -85.6024
+            })
         }
         else if (userInput == 'Minnesota') {
-            clinicMap.setCenter == {
-                lat: 46.7296,
-                lng: 94.6859
-            }
+            clinicMap.setCenter({
+                lat: 46.392410,
+                lng: -94.636230
+            })
         }
         else if (userInput == 'Mississippi') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 32.3547,
-                lng: 89.3985
-            }
+                lng: -89.3985
+            })
         }
         else if (userInput == 'Missouri') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 37.9643,
-                lng: 91.8318
-            }
+                lng: -91.8318
+            })
         }
         else if (userInput == 'Montana') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 46.8797,
-                lng: 110.3626
-            }
+                lng: -110.3626
+            })
         }
         else if (userInput == 'Nebraska') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 41.4925,
-                lng: 99.9018
-            }
+                lng: -99.9018
+            })
         }
         else if (userInput == 'Nevada') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 38.8026,
-                lng: 116.4194
-            }
+                lng: -116.4194
+            })
         }
         else if (userInput == 'New Hampshire') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 43.1939,
-                lng: 71.5724
-            }
+                lng: -71.5724
+            })
         }
         else if (userInput == 'New Jersey') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 40.0583,
-                lng: 74.4057
-            }
+                lng: -74.4057
+            })
         }
         else if (userInput == 'New Mexico') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 34.5199,
-                lng: 105.8701
-            }
+                lng: -105.8701
+            })
         }
         else if (userInput == 'New York') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 40.7128,
-                lng: 74.0060
-            }
+                lng: -74.0060
+            })
         }
         else if (userInput == 'North Carolina') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 35.7596,
-                lng: 79.0193
-            }
+                lng: -79.0193
+            })
         }
         else if (userInput == 'North Dakota') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 47.5515,
-                lng: 101.0020
-            }
+                lng: -101.0020
+            })
         }
         else if (userInput == 'Ohio') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 40.4173,
-                lng: 82.9071
-            }
+                lng: -82.9071
+            })
         }
         else if (userInput == 'Oklahoma') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 35.0078,
-                lng: 97.0929
-            }
+                lng: -97.0929
+            })
         }
         else if (userInput == 'Oregon') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 43.8041,
-                lng: 120.5542
-            }
+                lng: -120.5542
+            })
         }
         else if (userInput == 'Pennsylvania') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 41.2033,
-                lng: 77.1945
-            }
+                lng: -77.1945
+            })
         }
         else if (userInput == 'Rhode Island') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 41.5801,
-                lng: 71.4774
-            }
+                lng: -71.4774
+            })
         }
         else if (userInput == 'South Carolina') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 33.8361,
-                lng: 81.1637
-            }
+                lng: -81.1637
+            })
         }
         else if (userInput == 'South Dakota') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 43.9695,
-                lng: 99.9018
-            }
+                lng: -99.9018
+            })
         }
         else if (userInput == 'Tennessee') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 35.5175,
-                lng: 86.5804
-            }
+                lng: -86.5804
+            })
         }
         else if (userInput == 'Texas') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 31.9686,
-                lng: 99.9018
-            }
+                lng: -99.9018
+            })
         }
         else if (userInput == 'Utah') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 39.3210,
-                lng: 111.0937
-            }
+                lng: -111.0937
+            })
         }
         else if (userInput == 'Vermont') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 44.5588,
-                lng: 72.5778
-            }
+                lng: -72.5778
+            })
         }
         else if (userInput == 'Virginia') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 37.4316,
-                lng: 78.6569
-            }
+                lng: -78.6569
+            })
         }
         else if (userInput == 'Washington') {
-            clinicMap.setCenter == {
-                lat: 41.8780,//
-                lng: 93.0977//
-            }
+            clinicMap.setCenter({
+                lat: 47.7511,
+                lng: -120.7401
+            })
         }
         else if (userInput == 'West Virginia') {
-            clinicMap.setCenter == {
-                lat: 47.7511,
-                lng: 120.7401
-            }
+            clinicMap.setCenter({
+                lat: 38.5976,
+                lng: -80.4549
+            })
         }
         else if (userInput == 'Wisconsin') {
-            clinicMap.setCenter == {
+            clinicMap.setCenter({
                 lat: 43.7844,
-                lng: 88.7879
-            }
+                lng: -88.7879
+            })
         }
-        else (userInput == 'Wyoming'); {
-            clinicMap.setCenter == {
+        else {
+            clinicMap.setCenter({
                 lat: 43.0760,
-                lng: 107.2903
-            }
+                lng: -107.2903
+            })
+        };
+    });
+
+
+    //event listener for form submission on map page - zipcode
+    var searchBar = document.getElementById('zipcodeBar');
+    searchBar.addEventListener('submit', (evt) => {
+        evt.preventDefault();
+        const userInput = document.getElementById('zipcodeInput').value;
+        clinicMap.setZoom(7);
+        if (userInput == '35242', '36117') {
+            clinicMap.setCenter({
+                lat: 32.3182,
+                lng: -86.9023
+            }) 
         }
+        else if (userInput == '99524') {
+            clinicMap.setCenter({
+                lat: 64.2008,
+                lng: -149.4937
+            }) 
+        }
+        else if (userInput == '85001') {
+            clinicMap.setCenter({
+                lat: 34.0489,
+                lng: -111.0937
+            })
+        }
+        else if (userInput == '72764') {
+            clinicMap.setCenter({
+                lat: 34.5574,
+                lng: -92.2863
+            })
+        }
+        else if (userInput == '94016') {
+            clinicMap.setCenter({
+                lat: 36.7783,
+                lng: -119.4179
+            })
+        }
+        else if (userInput == '80014') {
+            clinicMap.setCenter({
+                lat: 39.5501,
+                lng: -105.7821
+            })
+        }
+        else if (userInput == '06106') {
+            clinicMap.setCenter({
+                lat: 41.6032,
+                lng: -73.0877
+            })
+        }
+        else if (userInput == '19720') {
+            clinicMap.setCenter({
+                lat: 38.9108,
+                lng: -75.5277
+            })
+        }
+        else if (userInput == '34787') {
+            clinicMap.setCenter({
+                lat: 27.6648,
+                lng: -81.5158
+            })
+        }
+        else if (userInput == '30044') {
+            clinicMap.setCenter({
+                lat: 32.1656,
+                lng: -82.9001
+            })
+        }
+        else if (userInput == '96720') {
+            clinicMap.setCenter({
+                lat: 19.8968,
+                lng: -155.5828
+            })
+        }
+        else if (userInput == '83701') {
+            clinicMap.setCenter({
+                lat: 44.0682,
+                lng: -114.7420
+            })
+        }
+        else if (userInput == '60629') {
+            clinicMap.setCenter({
+                lat: 40.6331,
+                lng: -89.3985
+            })
+        }
+        else if (userInput == '46077') {
+            clinicMap.setCenter({
+                lat: 40.2672,
+                lng: -86.1349
+            })
+        }
+        else if (userInput == '50613') {
+            clinicMap.setCenter({
+                lat: 41.8780,
+                lng: -93.0977
+            })
+        }
+        else if (userInput == '66110') {
+            clinicMap.setCenter({
+                lat: 39.0119,
+                lng: -98.4842
+            })
+        }
+        else if (userInput == '40475') {
+            clinicMap.setCenter({
+                lat: 37.8393,
+                lng: -84.2700
+            })
+        }
+        else if (userInput == '70726') {
+            clinicMap.setCenter({
+                lat: 30.9843,
+                lng: -91.9623
+            })
+        }
+        else if (userInput == '04401') {
+            clinicMap.setCenter({
+                lat: 45.2538,
+                lng: -69.4455
+            })
+        }
+        else if (userInput == '20906') {
+            clinicMap.setCenter({
+                lat: 39.0458,
+                lng: -76.6413
+            })
+        }
+        else if (userInput == '02301') {
+            clinicMap.setCenter({
+                lat: 42.4072,
+                lng: -71.3824
+            })
+        }
+        else if (userInput == '48197') {
+            clinicMap.setCenter({
+                lat: 44.3148,
+                lng: -85.6024
+            })
+        }
+        else if (userInput == '55401') {
+            clinicMap.setCenter({
+                lat: 46.392410,
+                lng: -94.636230
+            })
+        }
+        else if (userInput == '39503') {
+            clinicMap.setCenter({
+                lat: 32.3547,
+                lng: -89.3985
+            })
+        }
+        else if (userInput == '63376') {
+            clinicMap.setCenter({
+                lat: 37.9643,
+                lng: -91.8318
+            })
+        }
+        else if (userInput == '59801') {
+            clinicMap.setCenter({
+                lat: 46.8797,
+                lng: -110.3626
+            })
+        }
+        else if (userInput == '68516') {
+            clinicMap.setCenter({
+                lat: 41.4925,
+                lng: -99.9018
+            })
+        }
+        else if (userInput == '89433') {
+            clinicMap.setCenter({
+                lat: 38.8026,
+                lng: -116.4194
+            })
+        }
+        else if (userInput == '03103') {
+            clinicMap.setCenter({
+                lat: 43.1939,
+                lng: -71.5724
+            })
+        }
+        else if (userInput == '08701') {
+            clinicMap.setCenter({
+                lat: 40.0583,
+                lng: -74.4057
+            })
+        }
+        else if (userInput == '87121') {
+            clinicMap.setCenter({
+                lat: 34.5199,
+                lng: -105.8701
+            })
+        }
+        else if (userInput == '11368') {
+            clinicMap.setCenter({
+                lat: 40.7128,
+                lng: -74.0060
+            })
+        }
+        else if (userInput == '27610') {
+            clinicMap.setCenter({
+                lat: 35.7596,
+                lng: -79.0193
+            })
+        }
+        else if (userInput == '58103') {
+            clinicMap.setCenter({
+                lat: 47.5515,
+                lng: -101.0020
+            })
+        }
+        else if (userInput == '45011') {
+            clinicMap.setCenter({
+                lat: 40.4173,
+                lng: -82.9071
+            })
+        }
+        else if (userInput == '73099') {
+            clinicMap.setCenter({
+                lat: 35.0078,
+                lng: -97.0929
+            })
+        }
+        else if (userInput == '97229') {
+            clinicMap.setCenter({
+                lat: 43.8041,
+                lng: -120.5542
+            })
+        }
+        else if (userInput == '19120') {
+            clinicMap.setCenter({
+                lat: 41.2033,
+                lng: -77.1945
+            })
+        }
+        else if (userInput == '02860') {
+            clinicMap.setCenter({
+                lat: 41.5801,
+                lng: -71.4774
+            })
+        }
+        else if (userInput == '29681') {
+            clinicMap.setCenter({
+                lat: 33.8361,
+                lng: -81.1637
+            })
+        }
+        else if (userInput == '57106') {
+            clinicMap.setCenter({
+                lat: 43.9695,
+                lng: -99.9018
+            })
+        }
+        else if (userInput == '37013') {
+            clinicMap.setCenter({
+                lat: 35.5175,
+                lng: -86.5804
+            })
+        }
+        else if (userInput == '77494') {
+            clinicMap.setCenter({
+                lat: 31.9686,
+                lng: -99.9018
+            })
+        }
+        else if (userInput == '84043') {
+            clinicMap.setCenter({
+                lat: 39.3210,
+                lng: -111.0937
+            })
+        }
+        else if (userInput == '05401') {
+            clinicMap.setCenter({
+                lat: 44.5588,
+                lng: -72.5778
+            })
+        }
+        else if (userInput == '22193') {
+            clinicMap.setCenter({
+                lat: 37.4316,
+                lng: -78.6569
+            })
+        }
+        else if (userInput == '98103') {
+            clinicMap.setCenter({
+                lat: 47.7511,
+                lng: -120.7401
+            })
+        }
+        else if (userInput == '26554') {
+            clinicMap.setCenter({
+                lat: 38.5976,
+                lng: -80.4549
+            })
+        }
+        else if (userInput == '53215') {
+            clinicMap.setCenter({
+                lat: 43.7844,
+                lng: -88.7879
+            })
+        }
+        else {
+            clinicMap.setCenter({
+                lat: 43.0760,
+                lng: -107.2903
+            })
+        };
     });
 }
