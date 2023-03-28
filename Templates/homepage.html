@@ -7,34 +7,25 @@
 {% endblock %}
 
 {% block body %}
-
+<script src="/static/js/homepage.js"></script>
 <link rel="stylesheet" href="/static/css/homepage.css">
-<nav role="navigation" class="header-navigation">
+<div class="hero-image">
+    <div class="hero-text">
+        <h1>Your body, your choice.</h1>
+        <p>This website provides information on remaining abortion clinics in the US, abortion restrictions/bans by state, as well as reproductive healthcare resources.</p>
+        <button><a class="link" id="services" href="/clinicMap">Find a Clinic Near You</a></button>
+    </div>
+</div>
+<nav role="navigation" class="header-navigation" id="header">
     <ul>
-        <li><a class="link" id="services" href="/clinicMap">Find Abortion Services</a></li>
         <li><a class="link" id="guide" href='/resources'>Resource Guide</a></li>
-        <li><a class="link" id="statistics" href='/statistics'>Statistics</a></li>
+        <li><a class="link" id="statistics" href='/statistics'>Abortion Statistics</a></li>
         <li><a class="link" id="state" href='/statebystate'>State-By-State Guide</a></li>
+        <li><a class="link" id="login" href='/logIn'>Login</a></li>
+        <li><a class="link" id="createaccount" href='/createaccount'>Create Account</a></li>
     </ul>
-</nav>
-    <img src="/static/images/Homepage Header.png" alt="Abortion is Healthcare" id="img"></src> 
-     
-    <h1>Your body, your choice.</h1>
-
-    <h2>Log In</h2>
-    <form action="/login" method="POST">
-        Please enter your username and password:
-        <input type="text" name="user_name" placeholder="username">
-        <input type="text" name="user_password" placeholder="password">
-        <input type="submit" name="Log In" id="log-in">
-    </form>
-    <h2>Create an Account</h2>
-    <form action="/new_user" method="POST">
-        Please enter a username and password to create an account:
-        <input type="text" name="user_name" placeholder="username">
-        <input type="text" name="user_password" placeholder="password">
-        <input type="submit" name="Create Account" id="create-account">
-    </form>
+</nav>     
+</div>
 {% endblock %}
 
 <!-- {% block js %}

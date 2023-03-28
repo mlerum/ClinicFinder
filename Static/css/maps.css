@@ -54,3 +54,26 @@ img[src='/static/images/clinicSymbol.png'] {
     filter: drop-shadow(0 0 3px black);
 } */
 
+nav ul li {
+    list-style: none;
+    margin: 0 auto;
+    border-right: 2px solid black;
+    display: inline-block;
+    padding: 0 30px;
+    position: relative;
+    text-decoration: none;
+    text-align: center;
+    font-family: arvo;
+  }
+  
+  nav li a {
+    color: black;
+  }
+  
+  nav a {
+    text-decoration: none
+  }
+  nav a:hover {
+    color: darkblue;
+  } 
+

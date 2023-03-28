@@ -11,3 +11,4 @@ const button_CreateAccount = document.querySelector('#create-account');
 button_CreateAccount.addEventListener('click', () => {
     alert('Hello {user.name}, your account was created successfully.')
 });
+

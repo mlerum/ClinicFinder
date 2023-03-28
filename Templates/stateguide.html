@@ -15,9 +15,16 @@
     <h1>State-by-State Guide</h1>
     <p>Recently Updated | Current as of March 9, 2023</p>
     <script src="/static/js/stateguide.js"></script>
-    <form id="backtohomepage" method="GET" action="/">
-        <input type="submit" value="Back to Homepage" href="/homepage">
-    </form>
+    <nav role="navigation" class="header-navigation" id="header">
+        <ul>
+            <li><a class="link" id="guide" href='/resources'>Resource Guide</a></li>
+            <li><a class="link" id="statistics" href='/statistics'>Abortion Statistics</a></li>
+            <li><a class="link" id="login" href='/logIn'>Login</a></li>
+            <li><a class="link" id="map" href='/clinicMap'>Map</a></li>
+            <li><a class="link" id="homepage" href='/'>Homepage</a></li>
+        </ul>
+    </nav> 
+
     <!-- <p class="list" id="list"> -->
         <!-- <form>
             <label for="state-select">Select from the dropdown menu to get information on your states current laws surrounding abortion resources.</label>

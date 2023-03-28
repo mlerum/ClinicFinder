@@ -3,11 +3,19 @@
 {% block title %}Resource Guide{% endblock %}
 
 {% block head %}
-    <link rel="stylesheet" href="/static/css/stylesheet.css">
-    <link rel="stylesheet" href="/static/css/maps.css">
+    <link rel="stylesheet" href="/static/css/resources.css">
 {% endblock %}
 
 {% block body %}
+<nav role="navigation" class="header-navigation" id="header">
+  <ul>
+      <li><a class="link" id="statistics" href='/statistics'>Abortion Statistics</a></li>
+      <li><a class="link" id="statistics" href='/statebystate'>State-By-State Guide</a></li>
+      <li><a class="link" id="login" href='/logIn'>Login</a></li>
+      <li><a class="link" id="map" href='/clinicMap'>Map</a></li>
+      <li><a class="link" id="homepage" href='/'>Homepage</a></li>
+  </ul>
+</nav>
 <ul class="main__menu">
     <li class="list-item">
       <a href="organizations" class="organizations">
@@ -48,16 +56,12 @@
       </ul>
     </li>
   </ul>
-  <form id="backtohomepage" method="GET" action="/">
-    <input type="submit" value="Back to Homepage" href="/homepage">
-  </form>
 
-<div class="flex-container">
+<!-- <div class="flex-container">
         <section class="resources">
             <div id="resource"></div>
         </section>
     <header>
-    <!-- <img src="/static/images/resources.jpeg" alt="Resources" id="img2"></src> --> 
     <h1>Below is a list of reproductive healthcare resources.</h1>
     </header>
     <ul>
@@ -69,6 +73,6 @@
             </li>
         {% endfor %}
     </ul>
-    <script src="/static/js/resources.js"></script>
+    <script src="/static/js/resources.js"></script> -->
 </div>  
 {% endblock %}

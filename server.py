@@ -50,6 +50,18 @@ def login():
 
     return redirect('/')
 
+@app.route('/logIn')
+def view_login():
+    """Login with existing credentials."""
+
+    return render_template('login.html')
+
+@app.route('/createaccount')
+def create_account():
+    """Create account."""
+
+    return render_template('createaccount.html')
+
 @app.route('/clinicMap') 
 def view_map():
     """Show the interactive map of US clinics."""

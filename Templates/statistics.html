@@ -7,9 +7,15 @@
 {% endblock %}
 
 {% block body %}
-<form id="backtohomepage" method="GET" action="/">
-  <input type="submit" value="Back to Homepage" href="/homepage">
-</form>
+<nav role="navigation" class="header-navigation" id="header">
+  <ul>
+      <li><a class="link" id="guide" href='/resources'>Resource Guide</a></li>
+      <li><a class="link" id="statistics" href='/statebystate'>State-By-State Guide</a></li>
+      <li><a class="link" id="login" href='/logIn'>Login</a></li>
+      <li><a class="link" id="map" href='/clinicMap'>Map</a></li>
+      <li><a class="link" id="homepage" href='/'>Homepage</a></li>
+  </ul>
+</nav> 
 <link rel="stylesheet" href="/static/css/statistics.css">
 <div class="chart-container">
     <h1>Abortion Occurrence Based on Pregnancy Stage</h1>
