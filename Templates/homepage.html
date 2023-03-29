@@ -1,9 +1,8 @@
 {% extends 'base.html' %}
 
-{% block title %}ClinicFinder | All are welcome here.{% endblock %}
+{% block title %}ClinicFinder | All are welcome here{% endblock %}
 
 {% block head %}
-    <!-- <script src=" https://cdn.jsdelivr.net/npm/chart.js@4.2.1/dist/chart.umd.min.js "></script> -->
 {% endblock %}
 
 {% block body %}
@@ -11,8 +10,9 @@
 <link rel="stylesheet" href="/static/css/homepage.css">
 <div class="hero-image">
     <div class="hero-text">
-        <h1>Your body, your choice.</h1>
-        <p>This website provides information on remaining abortion clinics in the US, abortion restrictions/bans by state, as well as reproductive healthcare resources.</p>
+        <h1>Your body. 
+            <br>Your choice.</h1>
+        <!-- <p>This website provides information on remaining abortion clinics in the US, abortion restrictions/bans by state, as well as reproductive healthcare resources.</p> -->
         <button><a class="link" id="services" href="/clinicMap">Find a Clinic Near You</a></button>
     </div>
 </div>
@@ -23,8 +23,10 @@
         <li><a class="link" id="state" href='/statebystate'>State-By-State Guide</a></li>
         <li><a class="link" id="login" href='/logIn'>Login</a></li>
         <li><a class="link" id="createaccount" href='/createaccount'>Create Account</a></li>
+        <li><a class="link" href="https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2?_gl=1*il9wq5*_ga*MTk3MDI0OTQzOC4xNjc3NTE3Njkx*_gid*MTQ3Nzg3OTk5OS4xNjc4MzIwODY5">Donate to Planned Parenthood</a>
+        </li>
     </ul>
-</nav>     
+</nav>   
 </div>
 {% endblock %}
 

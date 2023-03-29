@@ -1,5 +1,6 @@
 body {
-  background-color: whitesmoke;
+  background: whitesmoke;
+  background-image: ;
   margin: 0;
 }
 
@@ -19,12 +20,51 @@ a {
   grid-template-columns: repeat(5, 1fr);
 }
 
+p {
+  text-align: justify;
+  width: [width of image];
+}
+
+.colA {
+  width: 500px;
+  height: 0;
+  margin: 50px;
+  margin-top: 200px;
+  margin-bottom: 0px;
+}
+
+.col-1 {
+  width: 500px;
+  height: 300px;
+  margin: 50px;
+  text-align: left;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.col-2 {
+  width: 500px;
+  height: 300px;
+  margin: 50px;
+  margin-top: 200px;
+  margin-bottom: 80px;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  margin: 0 auto;
+}
+
 nav ul li {
   list-style: none;
   margin: 0 auto;
   border-right: 2px solid black;
+  font-weight: bold;
   display: inline-block;
-  padding: 0 30px;
+  padding: 0 70px;
   position: relative;
   text-decoration: none;
   text-align: center;

@@ -3,20 +3,22 @@
 {% block title %}Resource Guide{% endblock %}
 
 {% block head %}
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/resources.css">
 {% endblock %}
 
 {% block body %}
 <nav role="navigation" class="header-navigation" id="header">
   <ul>
+      <li><a class="link" id="homepage" href='/'>Homepage</a></li>
       <li><a class="link" id="statistics" href='/statistics'>Abortion Statistics</a></li>
       <li><a class="link" id="statistics" href='/statebystate'>State-By-State Guide</a></li>
-      <li><a class="link" id="login" href='/logIn'>Login</a></li>
       <li><a class="link" id="map" href='/clinicMap'>Map</a></li>
-      <li><a class="link" id="homepage" href='/'>Homepage</a></li>
+      <li><a class="link" href="https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2?_gl=1*il9wq5*_ga*MTk3MDI0OTQzOC4xNjc3NTE3Njkx*_gid*MTQ3Nzg3OTk5OS4xNjc4MzIwODY5">Donate to Planned Parenthood</a>
+      <li><a class="link" id="login" href='/logIn'>Login</a></li>
   </ul>
 </nav>
-<ul class="main__menu">
+<!-- <ul class="main__menu">
     <li class="list-item">
       <a href="organizations" class="organizations">
         <span>Organizations</span>
@@ -55,13 +57,57 @@
         <li class="drop-item"><a href="https://www.aclu.org/other/about-aclu-reproductive-freedom-project" class="item--3">ACLU Reproductive Freedom Project</a></li>
       </ul>
     </li>
-  </ul>
+  </ul> -->
 
-<!-- <div class="flex-container">
-        <section class="resources">
-            <div id="resource"></div>
-        </section>
-    <header>
+<div class="container">
+    <div class="row">
+      <div class="colA"><a href="https://19thnews.org/topics/abortion/"><img src="/static/images/resources/19th.jpeg" class="image"></a>
+        <figcaption>Independent, nonprofit organization reporting on gender, politics, and policy.</figcaption>
+      </div>
+      <div class="col-1"><a href="https://www.prochoiceamerica.org/"><img src="/static/images/resources/NARAL.jpeg" class="image"></a>
+        <figcaption>Engaging in lobbying, political action, and advocacy efforts to oppose restrictions on abortion.</figcaption>
+      </div>
+      <div class="col-2"><a href="https://reproductiverights.org/"><img src="/static/images/resources/CRR.jpeg" class="image"></a>
+        <figcaption>Using the power of law to advance reproductive rights as fundamental human rights around the world.</figcaption>
+      </div>
+      <div class="col-1"><a href="https://siecus.org/"><img src="/static/images/resources/SIECUS.png" class="image"></a>
+        <figcaption>National, nonprofit organization dedicated to advancing sex education through advocacy, policy, and coalition building.</figcaption>
+      </div>
+      <div class="col-2"><a href="https://www.reproductiveaccess.org/resources/"><img src="/static/images/resources/RHAP.jpeg" class="image"></a>
+        <figcaption>Nonprofit organization that seeks to integrate abortion, contraception, and miscarriage care into mainstream medicine.</figcaption>
+      </div>
+      <div class="col-1"><a href="https://nationalcoalitionforsexualhealth.org/"><img src="/static/images/resources/NCSH.png" class="image"></a>
+        <figcaption>Coalition that envisions a nation where people feel comfortable talking about sexual health and have access to the information and services needed to support positive and healthy choices, without facing stigma or discrimination.</figcaption>
+      </div>
+      <div class="col-2"><a href="https://www.psi.org/resources/"><img src="/static/images/resources/PSI.jpeg" class="image"></a>
+        <figcaption>Nonprofit global health organization with a mission to make it easier for all people to lead healthier lives and plan the families they desire.</figcaption>
+      </div>
+      <div class="col-1"><a href="https://www.ibisreproductivehealth.org/"><img src="/static/images/resources/ibis.png" class="image"></a>
+        <figcaption>Driving change through bold, rigorous research and principles partnerships that advance sexual and reproductive autonomy, choices, and health worldwide.</figcaption>
+      </div>
+      <div class="col-2"><a href="https://nwhn.org/"><img src="/static/images/resources/NWHN.png" class="image"></a>
+        <figcaption>Improving health by strategically shaping policy, expanding access, and providing accurate, unbiased information.</figcaption>
+      </div>
+      <div class="col-1"><a href="https://www.plannedparenthood.org/"><img src="/static/images/resources/PP.png" class="image"></a>      
+        <figcaption>Providing reproductive and sexual healthcare and education in the US and globally.</figcaption>
+      </div>
+      <div class="col-2"><a href="https://www.guttmacher.org/"><img src="/static/images/resources/GI.svg" class="image"></a>
+        <figcaption>Research and policy NGO aiming to improve sexual health and expand reproductive rights worldwide.</figcaption>
+      </div>
+      <div class="col-1"><a href="https://www.aclu.org/other/about-aclu-reproductive-freedom-project"><img src="/static/images/resources/ACLU.png" class="image"></a>
+        <figcaption>Seeking to uphold the rights of individuals to decide freely, without governmental hindrance or coercion, whether or not to bear a child.</figcaption>
+      </div>
+      <div class="col-2"><a href="https://powertodecide.org/"><img src="/static/images/resources/PTD.png" class="image"></a>
+        <figcaption>Advancing sexual and reproductive well-being for all by providing trusted information, expanding access to quality services, and catalyzing culture change.</figcaption>
+      </div>
+      <div class="col-1"><a href="https://prochoice.org/"><img src="/static/images/resources/NAF.jpeg" class="image"></a>
+        <figcaption>Uniting, representing, serving, and supporting abortion providers in delivering patient-centered, evidence-based care.</figcaption>
+      </div>
+      <div class="col-1"><a href="https://www.ansirh.org/"><img src="/static/images/resources/ANSIRH.png" class="image"></a>
+        <figcaption>Leading research program informing the most pressing debates on abortion and reproductive health.</figcaption>
+      </div>
+    </div>
+    <!-- <header>
     <h1>Below is a list of reproductive healthcare resources.</h1>
     </header>
     <ul>
@@ -73,6 +119,6 @@
             </li>
         {% endfor %}
     </ul>
-    <script src="/static/js/resources.js"></script> -->
-</div>  
+    <script src="/static/js/resources.js"></script>
+</div> -->
 {% endblock %}

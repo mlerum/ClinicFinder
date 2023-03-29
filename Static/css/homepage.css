@@ -51,11 +51,16 @@ body, html {
     background-attachment: fixed;
 }
 .hero-text h1 {
-    /* text-align: center; */
-    margin-top: 0;
-    margin-bottom: 0.5em;
-    font-size: 5em;
+    text-align: initial;
+    margin-left: 2.5em;
+    text-indent: -2.5em;
+    line-height: 100%;
+    position: absolute;
+    top: 10px;
+    left: 16px;
+    font-size: 4em;
     color: white;
+    font-weight: 600;
 }
 
 .hero-text p {
@@ -64,16 +69,19 @@ body, html {
 }
 
 .hero-text button {
-    display: block;
-    width: 200px;
+    position: absolute;
+    top: 0;
+    right: 16px;
+    width: 250px;
     padding: 1em;
-    margin-top: 50px;
+    margin-top: 25px;
     margin-right: auto;
     margin-left: auto;
     background-color: white;
     font-size: 1em; 
     border: 3px solid black;
-    border-radius: 20px;
+    border-radius: 30px;
+    font-weight: bold;
 }
 
 .hero-text a {
@@ -104,8 +112,9 @@ nav ul li {
     list-style: none;
     margin: 0 auto;
     border-right: 2px solid black;
+    font-weight: bold;
     display: inline-block;
-    padding: 0 30px;
+    padding: 0 50px;
     position: relative;
     text-decoration: none;
     text-align: center;
@@ -115,7 +124,7 @@ nav ul li {
 nav li a {
     color: black;
 }
-  
+
 /* nav li a:hover {
     color: darkblue;
 } */
