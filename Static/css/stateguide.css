@@ -1,26 +1,43 @@
-.dropdown-options {
-    display: none;
-    position: absolute;
-    overflow: auto;
-}
-
-.dropdown:hover .dropdown-options {
-    display: block;
-}
-
-.dropdown {
-    display: inline-block;
-    position: relative;
-}
 
 .img {
     overflow-clip-margin: content-box;
     overflow: clip;
 }
 
+
 body {
-    background-color: whitesmoke;
+    background-color: #e6e7ef;
+    color: black;
 }
+
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+   */
+  /* li {
+    float: left;
+  } */
+  
+  /* li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 10px 70px;
+    text-decoration: none;
+  } */
+  
+  /* li a:hover, .dropdown:hover .dropbtn {
+    background-color: white;
+  } */
+
+.current-status {
+    text-decoration: none;
+    color: black;
+} 
 
 #state-guide {
     display: flex;
@@ -31,36 +48,57 @@ body {
 }
 
 #stateCard1 {
-    background-color: white;
-    width: 300px;
-    border: 15px solid darkred;
+    background-color: #e6e7ef;
+    width: 210px;
+    border: 15px solid #da1b2b;
     padding: 50px;
     margin: 20px;
-    height: 300px;
+    height: 200px;
     text-align: center;
+    font-size: large;
 }
 
 #stateCard2 {
-    background-color: white;
-    width: 300px;
-    border: 15px solid green;
+    background-color: #e6e7ef;
+    width: 210px;
+    border: 15px solid #15796e;
     padding: 50px;
     margin: 20px;
-    height: 300px;
+    height: 200px;
     text-align: center;
+    font-size: large;
 }
 
 #stateCard3 {
-    background-color: white;
-    width: 300px;
-    border: 15px solid darkgoldenrod;
+    background-color: #e6e7ef;
+    width: 210px;
+    border: 15px solid #f5f100;
     padding: 50px;
     margin: 20px;
-    height: 300px;
+    height: 200px;
     text-align: center;
+    font-size: large;
 }
 
-nav ul li {
+#button {
+    position: fixed;
+    top: 0;
+    right: 10px;
+    width: 100px;
+    padding: 1em;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: transparent;
+    font-size: small; 
+    border: 1px solid black;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+/*alternative nav bar design
+
+/* nav ul li {
     list-style: none;
     margin: 0 auto;
     border-right: 2px solid black;
@@ -82,4 +120,4 @@ nav a {
 }
 nav a:hover {
     color: darkblue;
-} 
+}  */

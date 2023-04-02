@@ -8,25 +8,17 @@
 {% endblock %}
 
 {% block body %}
-<nav role="navigation" class="header-navigation" id="header">
-    <ul>
-        <li><a class="link" id="login" href='/logIn'>Login</a></li>
-        <li><a class="link" id="statistics" href='/statistics'>Abortion Statistics</a></li>
-        <li><a class="link" id="stateguide" href='/statebystate'>State-By-State Guide</a></li>
-        <li><a class="link" id="guide" href='/resources'>Resource Guide</a></li>
-        <li><a class="link" id="homepage" href='/'>Homepage</a></li>
-    </ul>
-</nav> 
-    <form id="stateBar">
-        <input id="stateInput" type="text" placeholder="Enter state here">
-        <input type="submit" value="submit">
-    </form>
-    <!-- <form id="zipcodeBar">
-        <input id="zipcodeInput" type="text" placeholder="Enter zipcode here">
-        <input type="submit" value="submit">
-    </form> -->
+<div class="div">
+<!-- <h2>Current remaining abortion clinics in the US:</h2> -->
+<form action="/">
+    <button id="button">Homepage</button>
+  </form>
+<form id="stateBar">
+    <input id="stateInput" type="text" placeholder="Enter state here">
+    <input type="submit" value="submit">
+</form>
+</div>
     <div id="map" class="container">
-        <!-- <div class="text">Current Remaining Abortion Clinics in the US:</div> -->
         <script src="/static/js/maps.js"></script>
         <script
             async

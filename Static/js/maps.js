@@ -64,7 +64,8 @@ function initMap() {
 
                 const infoWindow = new google.maps.InfoWindow({
                     // content: clinicInfo,
-                    maxWidth: 400,
+                    maxWidth: 200,
+                    maxHeight: 200,
                 });
 
                 //adding event listener to only show 1 info window at a time

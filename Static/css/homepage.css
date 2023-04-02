@@ -7,10 +7,6 @@ h1 {
     font: white;
 }
 
-h2 {
-    font: purple;
-}
-
 body, html {
     height: 100%;
     margin: 0;
@@ -50,13 +46,14 @@ body, html {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
 .hero-text h1 {
     text-align: initial;
-    margin-left: 2.5em;
-    text-indent: -2.5em;
+    margin-left: 2em;
+    text-indent: -2em;
     line-height: 100%;
     position: absolute;
-    top: 10px;
+    top: -25px;
     left: 16px;
     font-size: 4em;
     color: white;
@@ -108,10 +105,16 @@ body, html {
     font-size: 16px;
 } */
 
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 nav ul li {
     list-style: none;
     margin: 0 auto;
-    border-right: 2px solid black;
+    border-right: 2px solid white;
     font-weight: bold;
     display: inline-block;
     padding: 0 50px;
@@ -122,8 +125,17 @@ nav ul li {
 }
   
 nav li a {
-    color: black;
+    color: white;
+    font-size: medium;
 }
+
+nav a {
+    text-decoration: none
+}
+
+nav a:hover {
+    color: white;
+} 
 
 /* nav li a:hover {
     color: darkblue;
@@ -167,10 +179,3 @@ nav ul li ul:hover {
     border-left: 2px solid darkblue;
     transition: all 0.3s ease;
 } */
-
-nav a {
-    text-decoration: none
-}
-nav a:hover {
-    color: darkblue;
-} 

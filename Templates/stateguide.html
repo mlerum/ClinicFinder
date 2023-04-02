@@ -8,7 +8,10 @@
 
 {% block body %}
 <script src="/static/js/stateguide.js"></script>
-<nav role="navigation" class="header-navigation" id="header">
+<form action="/">
+    <button id="button">Homepage</button>
+  </form>
+<!-- <nav role="navigation" class="header-navigation" id="header">
     <ul>
         <li><a class="link" id="homepage" href='/'>Homepage</a></li>
         <li><a class="link" id="guide" href='/resources'>Resource Guide</a></li>
@@ -17,13 +20,13 @@
         <li><a class="link" href="https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2?_gl=1*il9wq5*_ga*MTk3MDI0OTQzOC4xNjc3NTE3Njkx*_gid*MTQ3Nzg3OTk5OS4xNjc4MzIwODY5">Donate to Planned Parenthood</a>
         <li><a class="link" id="login" href='/logIn'>Login</a></li>
     </ul>
-</nav> 
+</nav>  -->
     <h1>State-by-State Guide</h1>
-    <p>Recently Updated | Current as of March 28, 2023</p>
+    <p>Recently Updated | Current as of April 1, 2023</p>
     <div class="StateGuide" id="state-guide">
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-alabama"></a>
-                <p class="current-status">Alabama is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-alabama">Alabama is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/AL.svg">
                     <h3>Abortion in Alabama</h3>
@@ -31,8 +34,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-alaska"></a>
-                <p class="current-status">Abortion services remain legal in Alaska.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-alaska">Abortion services remain legal in Alaska.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/AK.svg">
                     <h3>Abortion in Alaska</h3>
@@ -40,8 +43,8 @@
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-arizona"></a>
-                <p class="current-status">Arizona is enforcing a law that restricts abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-arizona">Arizona is enforcing a law that restricts abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/AZ.svg">
                     <h3>Abortion in Arizona</h3>
@@ -49,8 +52,8 @@
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-arkansas"></a>
-                <p class="current-status">Arkansas is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-arkansas">Arkansas is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/AR.svg">
                     <h3>Abortion in Arkansas</h3>
@@ -58,8 +61,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-california"></a>
-                <p class="current-status">Abortion services remain legal in California.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-california">Abortion services remain legal in California.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/CA.svg">
                     <h3>Abortion in California</h3>
@@ -67,8 +70,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-colorado"></a>
-                <p class="current-status">Abortion services remain legal in Colorado.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-colorado">Abortion services remain legal in Colorado.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/CO.svg">
                     <h3>Abortion in Colorado</h3>
@@ -76,8 +79,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-connecticut"></a>
-                <p class="current-status">Abortion services remain legal in Connecticut.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-connecticut">Abortion services remain legal in Connecticut.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/CT.svg">
                     <h3>Abortion in Connecticut</h3>
@@ -85,8 +88,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-delaware"></a>
-                <p class="current-status">Abortion services remain legal in Delaware.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-delaware">Abortion services remain legal in Delaware.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/DE.svg">
                     <h3>Abortion in Delaware</h3>
@@ -94,17 +97,17 @@
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-florida"></a>
-                <p class="current-status">Florida is enforcing a law that restricts abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-florida">Florida is enforcing a law that restricts abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/FL.svg">
-                    <h3>Abortion in Florida</h3>
+                    <h3>Abortion in<br>Florida</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-georgia"></a>
-                <p class="current-status">Georgia is enforcing a law that restricts abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-georgia">Georgia is enforcing a law that restricts abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/GA.svg">
                     <h3>Abortion in Georgia</h3>
@@ -112,35 +115,35 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-hawaii"></a>
-                <p class="current-status">Abortion services remain legal in Hawaii.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-hawaii">Abortion services remain legal in Hawaii.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/HI.svg">
-                    <h3>Abortion in Hawaii</h3>
+                    <h3>Abortion in<br>Hawaii</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-idaho"></a>
-                <p class="current-status">Idaho is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-idaho">Idaho is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/ID.svg">
-                    <h3>Abortion in Idaho</h3>
+                    <h3>Abortion in<br>Idaho</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-illinois"></a>
-                <p class="current-status">Abortion services remain legal in Illinois.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-illinois">Abortion services remain legal in Illinois.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/IL.svg">
-                    <h3>Abortion in Illinois</h3>
+                    <h3>Abortion in<br>Illinois</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard3">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-indiana"></a>
-                <p class="current-status">A new law that completely bans abortions in Indiana has been blocked. Abortion services remain legal.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-indiana">A new law that completely bans abortions in Indiana has been blocked. Abortion services remain legal.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/IN.svg">
                     <h3>Abortion in Indiana</h3>
@@ -148,17 +151,17 @@
             </a>
         </div>
         <div class="state" id="stateCard3">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-iowa"></a>
-                <p class="current-status">Due to a 2022 U.S. Supreme Court ruling, Iowa may begin enforcing one or more laws that restrict abortion access.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-iowa">Due to a 2022 U.S. Supreme Court ruling, Iowa may begin enforcing one or more laws that restrict abortion access.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/IA.svg">
-                    <h3>Abortion in Iowa</h3>
+                    <h3>Abortion in<br>Iowa</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-kansas"></a>
-                <p class="current-status">Abortion services remain legal in Kansas.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-kansas">Abortion services remain legal in Kansas.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/KS.svg">
                     <h3>Abortion in Kansas</h3>
@@ -166,8 +169,8 @@
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-kentucky"></a>
-                <p class="current-status">Kentucky is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-kentucky">Kentucky is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/KY.svg">
                     <h3>Abortion in Kentucky</h3>
@@ -175,8 +178,8 @@
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-louisiana"></a>
-                <p class="current-status">Louisiana is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-louisiana">Louisiana is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/LA.svg">
                     <h3>Abortion in Louisiana</h3>
@@ -184,17 +187,17 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-maine"></a>
-                <p class="current-status">Abortion services remain legal in Maine.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-maine">Abortion services remain legal in Maine.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/ME.svg">
-                    <h3>Abortion in Maine</h3>
+                    <h3>Abortion in<br>Maine</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-maryland"></a>
-                <p class="current-status">Abortion services remain legal in Maryland.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-maryland">Abortion services remain legal in Maryland.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/MD.svg">
                     <h3>Abortion in Maryland</h3>
@@ -202,8 +205,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-massachusetts"></a>
-                <p class="current-status">Abortion services remain legal in Massachusetts.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-massachusetts">Abortion services remain legal in Massachusetts.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/MA.svg">
                     <h3>Abortion in Massachusetts</h3>
@@ -211,8 +214,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-michigan"></a>
-                <p class="current-status">Abortion services remain legal in Michigan.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-michigan">Abortion services remain legal in Michigan.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/MI.svg">
                     <h3>Abortion in Michigan</h3>
@@ -220,8 +223,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-minnesota"></a>
-                <p class="current-status">Abortion services remain legal in Minnesota.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-minnesota">Abortion services remain legal in Minnesota.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/MN.svg">
                     <h3>Abortion in Minnesota</h3>
@@ -229,8 +232,8 @@
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-mississippi"></a>
-                <p class="current-status">Mississippi is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-mississippi">Mississippi is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/MS.svg">
                     <h3>Abortion in Mississippi</h3>
@@ -238,8 +241,8 @@
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-missouri"></a>
-                <p class="current-status">Missouri is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-missouri">Missouri is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/MO.svg">
                     <h3>Abortion in Missouri</h3>
@@ -247,8 +250,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-montana"></a>
-                <p class="current-status">Abortion services remain legal in Montana.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-montana">Abortion services remain legal in Montana.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/MT.svg">
                     <h3>Abortion in Montana</h3>
@@ -256,8 +259,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-nebraska"></a>
-                <p class="current-status">Abortion services remain legal in Nebraska.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-nebraska">Abortion services remain legal in Nebraska.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/NE.svg">
                     <h3>Abortion in Nebraska</h3>
@@ -265,8 +268,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-nevada"></a>
-                <p class="current-status">Abortion services remain legal in Nevada.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-nevada">Abortion services remain legal in Nevada.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/NV.svg">
                     <h3>Abortion in Nevada</h3>
@@ -274,53 +277,53 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-new-hampshire"></a>
-                <p class="current-status">Abortion services remain legal in New Hampshire.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-new-hampshire">Abortion services remain legal in New Hampshire.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/NH.svg">
-                    <h3>Abortion in New Hampshire</h3>
+                    <h3>Abortion in<br>New Hampshire</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-new-jersey"></a>
-                <p class="current-status">Abortion services remain legal in New Jersey.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-new-jersey">Abortion services remain legal in New Jersey.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/NJ.svg">
-                    <h3>Abortion in New Jersey</h3>
+                    <h3>Abortion in<br>New Jersey</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-new-mexico"></a>
-                <p class="current-status">Abortion services remain legal in New Mexico.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-new-mexico">Abortion services remain legal in New Mexico.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/NM.svg">
-                    <h3>Abortion in New Mexico</h3>
+                    <h3>Abortion in<br>New Mexico</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-new-york"></a>
-                <p class="current-status">Abortion services remain legal in New York.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-new-york">Abortion services remain legal in New York.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/NY.svg">
-                    <h3>Abortion in New York</h3>
+                    <h3>Abortion in<br>New York</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-north-carolina"></a>
-                <p class="current-status">North Carolina is enforcing a law that restricts abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-north-carolina">North Carolina is enforcing a law that restricts abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/NC.svg">
-                    <h3>Abortion in North Carolina</h3>
+                    <h3>Abortion in<br>North Carolina</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard3">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-north-dakota"></a>
-                <p class="current-status">A new law that completely bans abortions in North Dakota has been blocked. Abortion services remain legal.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-north-dakota">A new law that completely bans abortions in North Dakota has been blocked. Abortion services remain legal.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/ND.svg">
                     <h3>Abortion in North Dakota</h3>
@@ -328,17 +331,17 @@
             </a>
         </div>
         <div class="state" id="stateCard3">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-ohio"></a>
-                <p class="current-status">A new law that completely bans abortions in Ohio has been blocked. Abortion services remain legal.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-ohio">A new law that completely bans abortions in Ohio has been blocked. Abortion services remain legal.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/OH.svg">
-                    <h3>Abortion in Ohio</h3>
+                    <h3>Abortion in<br>Ohio</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-oklahoma"></a>
-                <p class="current-status">Oklahoma is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-oklahoma">Oklahoma is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/OK.svg">
                     <h3>Abortion in Oklahoma</h3>
@@ -346,8 +349,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-oregon"></a>
-                <p class="current-status">Abortion services remain legal in Oregon.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-oregon">Abortion services remain legal in Oregon.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/OR.svg">
                     <h3>Abortion in Oregon</h3>
@@ -355,8 +358,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-pennsylvania"></a>
-                <p class="current-status">Abortion services remain legal in Pennsylvania.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-pennsylvania">Abortion services remain legal in Pennsylvania.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/PA.svg">
                     <h3>Abortion in Pennsylvania</h3>
@@ -364,35 +367,35 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-rhode-island"></a>
-                <p class="current-status">Abortion services remain legal in Rhode Island.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-rhode-island">Abortion services remain legal in Rhode Island.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/RI.svg">
-                    <h3>Abortion in Rhode Island</h3>
+                    <h3>Abortion in<br>Rhode Island</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard3">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-south-carolina"></a>
-                <p class="current-status">A new law that completely bans abortions in South Carolina has been blocked. Abortion services remain legal.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-south-carolina">A new law that completely bans abortions in South Carolina has been blocked. Abortion services remain legal.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/SC.svg">
-                    <h3>Abortion in South Carolina</h3>
+                    <h3>Abortion in<br>South Carolina</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-south dakota"></a>
-                <p class="current-status">South Dakota is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-south dakota">South Dakota is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/SD.svg">
-                    <h3>Abortion in South Dakota</h3>
+                    <h3>Abortion in<br>South Dakota</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-tennessee"></a>
-                <p class="current-status">Tennessee is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-tennessee">Tennessee is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/TN.svg">
                     <h3>Abortion in Tennessee</h3>
@@ -400,26 +403,26 @@
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-texas"></a>
-                <p class="current-status">Texas is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-texas">Texas is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/TX.svg">
-                    <h3>Abortion in Texas</h3>
+                    <h3>Abortion in<br>Texas</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-utah"></a>
-                <p class="current-status">Utah is enforcing a law that restricts abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-utah">Utah is enforcing a law that restricts abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/UT.svg">
-                    <h3>Abortion in Utah</h3>
+                    <h3>Abortion in<br>Utah</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-vermont"></a>
-                <p class="current-status">Abortion services remain legal in Vermont.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-vermont">Abortion services remain legal in Vermont.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/VT.svg">
                     <h3>Abortion in Vermont</h3>
@@ -427,8 +430,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-virginia"></a>
-                <p class="current-status">Abortion services remain legal in Virginia.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-virginia">Abortion services remain legal in Virginia.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/VA.svg">
                     <h3>Abortion in Virginia</h3>
@@ -436,8 +439,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-washington"></a>
-                <p class="current-status">Abortion services remain legal in Washington.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-washington">Abortion services remain legal in Washington.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/WA.svg">
                     <h3>Abortion in Washington</h3>
@@ -445,8 +448,8 @@
             </a>
         </div>
         <div class="state" id="stateCard2">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-washington-dc"></a>
-                <p class="current-status">Abortion services remain legal in Washington, D.C..</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-washington-dc">Abortion services remain legal in Washington, D.C..</p>
                 <p class="flex-group">
                     <img src="/static/images/states/DC.svg">
                     <h3>Abortion in Washington, D.C.</h3>
@@ -454,17 +457,17 @@
             </a>
         </div>
         <div class="state" id="stateCard1">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-west-virginia"></a>
-                <p class="current-status">West Virginia is enforcing a total ban on abortion.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-west-virginia">West Virginia is enforcing a total ban on abortion.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/WV.svg">
-                    <h3>Abortion in West Virginia</h3>
+                    <h3>Abortion in<br>West Virginia</h3>
                 </p>
             </a>
         </div>
         <div class="state" id="stateCard3">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-wisconsin"></a>
-                <p class="current-status">Due to a 2022 U.S. Supreme Court ruling, Wisconsin may begin enforcing one or more laws that restrict abortion access.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-wisconsin">Due to a 2022 U.S. Supreme Court ruling, Wisconsin may begin enforcing one or more laws that restrict abortion access.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/WI.svg">
                     <h3>Abortion in Wisconsin</h3>
@@ -472,8 +475,8 @@
             </a>
         </div>
         <div class="state" id="stateCard3">
-            <a class="StateCard" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-wyoming"></a>
-                <p class="current-status">A new law that completely bans abortions in Wyoming has been blocked. Abortion services remain legal.</p>
+            <a class="StateCard"></a>
+                <a class="current-status" href="https://www.abortionfinder.org/abortion-guides-by-state/abortion-in-wyoming">A new law that completely bans abortions in Wyoming has been blocked. Abortion services remain legal.</p>
                 <p class="flex-group">
                     <img src="/static/images/states/WY.svg">
                     <h3>Abortion in Wyoming</h3>

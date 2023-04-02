@@ -1,32 +1,32 @@
-.chart-container {
-    width: 700px;
-    height: 500px;
-}
 
+h1 {
+    font-size: x-large;
+    text-align: center;
+}
+h3 {
+    font-size: large;
+    text-align: center;
+}
 body {
     background-color: whitesmoke;
 }
 
-nav ul li {
-    list-style: none;
-    margin: 0 auto;
-    border-right: 2px solid black;
-    font-weight: bold;
+.column {
     display: inline-block;
-    padding: 0 60px;
-    position: relative;
-    text-decoration: none;
-    text-align: center;
-    font-family: arvo;
-}
-  
-nav li a {
-    color: black;
 }
 
-nav a {
-    text-decoration: none
+#button {
+    position: absolute;
+    top: 0;
+    right: 10px;
+    width: 100px;
+    padding: 1em;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: whitesmoke;
+    font-size: small; 
+    border: 1px solid black;
+    border-radius: 30px;
+    font-weight: bold;
 }
-nav a:hover {
-    color: darkblue;
-} 
