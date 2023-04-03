@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Create Account{% endblock %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+<link rel="stylesheet" href="/static/css/login.css">
+    <form action="/new_user" method="POST">
+        <h2>Create an Account</h2>
+        Please enter a username and password to create an account:
+        <input type="text" name="user_name" placeholder="username">
+        <input type="text" name="user_password" placeholder="password">
+        <input type="submit" name="Create Account" id="create-account">
+    </form>
+</div>
+{% endblock %}
