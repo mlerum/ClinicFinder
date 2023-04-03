@@ -117,11 +117,12 @@ nav ul li {
     border-right: 2px solid white;
     font-weight: bold;
     display: inline-block;
-    padding: 0 50px;
+    padding: 0 60px;
     position: relative;
     text-decoration: none;
     text-align: center;
-    font-family: arvo;
+    font-family: 'Pathway Gothic One';
+    text-transform: uppercase;
 }
   
 nav li a {

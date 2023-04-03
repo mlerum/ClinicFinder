@@ -12,6 +12,10 @@ html, body {
     margin-top: 20px;
 }
 
+h1 {
+    text-align: center;
+}
+
 .text {
     position: absolute;
     bottom: 8px;
@@ -21,6 +25,7 @@ html, body {
 .div {
     margin-top: 5px;
 }
+
 h2 {
     text-align: center;
     color: black;
@@ -42,7 +47,8 @@ div.window-content {
 }
 
 .clinic-thumbnail img {
-    width: 100%;
+    width: 50%;
+    background-color: pink;
 }
 
 .window-content ul {
@@ -60,17 +66,17 @@ div.window-content {
     border-radius: 20px;
 }
 
-  #button {
-    position: fixed;
-    text-align: right;
-    top: 0;
-    right: 10px;
-    width: 100px;
-    height: 20px;
-    padding: 1em;
-    font-weight: bolder;
-    /* margin-left: auto; */
-    background-color: transparent;
-    font-size: small; 
-    border: transparent;
+#button {
+position: fixed;
+text-align: right;
+top: 0;
+right: 10px;
+width: 100px;
+height: 20px;
+padding: 1em;
+font-weight: bolder;
+/* margin-left: auto; */
+background-color: transparent;
+font-size: small; 
+border: transparent;
 }

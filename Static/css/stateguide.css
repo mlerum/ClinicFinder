@@ -4,35 +4,10 @@
     overflow: clip;
 }
 
-
 body {
-    background-color: #e6e7ef;
+    background-color: #f5f5f5;
     color: black;
 }
-
-/* ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
-   */
-  /* li {
-    float: left;
-  } */
-  
-  /* li a, .dropbtn {
-    display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 10px 70px;
-    text-decoration: none;
-  } */
-  
-  /* li a:hover, .dropdown:hover .dropbtn {
-    background-color: white;
-  } */
 
 .current-status {
     text-decoration: none;
@@ -48,9 +23,9 @@ body {
 }
 
 #stateCard1 {
-    background-color: #e6e7ef;
+    background-color: #f5f5f5;
     width: 210px;
-    border: 15px solid #da1b2b;
+    border: 15px solid #fa003f;
     padding: 50px;
     margin: 20px;
     height: 200px;
@@ -59,9 +34,9 @@ body {
 }
 
 #stateCard2 {
-    background-color: #e6e7ef;
+    background-color: #f5f5f5;
     width: 210px;
-    border: 15px solid #15796e;
+    border: 15px solid #00916e;
     padding: 50px;
     margin: 20px;
     height: 200px;
@@ -70,9 +45,9 @@ body {
 }
 
 #stateCard3 {
-    background-color: #e6e7ef;
+    background-color: #f5f5f5;
     width: 210px;
-    border: 15px solid #f5f100;
+    border: 15px solid #ffcf00;
     padding: 50px;
     margin: 20px;
     height: 200px;

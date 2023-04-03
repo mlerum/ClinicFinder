@@ -47,9 +47,8 @@ function initMap() {
                 <div class='window-content'>
                     <div class='clinic-thumbnail'>
                         <img
-                            src='/static/images/rights.png'
+                            src='/static/images/rights2.png'
                         />
-                    </div>
 
                     <ul class='clinic-info'>
                         <li><b>
@@ -60,6 +59,7 @@ function initMap() {
                         <br>
                         Phone: <code>${marker.phone}</code>
                     </p></>
+                    </div>
                 `;
 
                 const infoWindow = new google.maps.InfoWindow({
