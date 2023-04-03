@@ -29,7 +29,7 @@ h1 {
 h2 {
     text-align: center;
     color: black;
-    font-family: 'Franklin Gothic Medium';
+    /* font-family: 'Franklin Gothic Medium'; */
 }
 
 div.window-content {
@@ -56,27 +56,41 @@ div.window-content {
     list-style: none;
     padding: 0;
     margin: 1em 0 1em 1em;
+    font-family: 'Pathway Gothic One';
 }
 
 #stateBar {
     margin-left: 5px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: -15px;
     text-align: left;
+    font-family: 'Pathway Gothic One';
     border-radius: 20px;
 }
 
+#submit {
+    font-family: 'Pathway Gothic One';
+    font-size: 15px;
+}
+
+input[type="text"] {
+    font-family: 'Pathway Gothic One';
+    font-size: 15px;
+}
+
 #button {
-position: fixed;
-text-align: right;
-top: 0;
-right: 10px;
-width: 100px;
-height: 20px;
-padding: 1em;
-font-weight: bolder;
-/* margin-left: auto; */
-background-color: transparent;
-font-size: small; 
-border: transparent;
+    position: fixed;
+    text-align: right;
+    top: 0;
+    right: 10px;
+    margin-top: -12px;
+    width: 100px;
+    height: 20px;
+    padding: 1em;
+    font-weight: bolder;
+    background-color: transparent;
+    font-size: large; 
+    border: transparent;
+    font-family: 'Pathway Gothic One';
+    text-transform: uppercase;
 }

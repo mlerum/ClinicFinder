@@ -1,18 +1,35 @@
-
-.img {
-    overflow-clip-margin: content-box;
-    overflow: clip;
-}
-
 body {
     background-color: #f5f5f5;
     color: black;
+}
+
+#image {
+    margin-top: 20px;
+}
+
+#image1 {
+    margin-top: 5px;
+    margin-bottom: -20px;
 }
 
 .current-status {
     text-decoration: none;
     color: black;
 } 
+
+h1 {
+    font-family: 'Pathway Gothic One';
+    text-transform: uppercase;
+    font-size: 50px;
+    margin-top: 10px;
+}
+
+p {
+    font-family: 'Pathway Gothic One';
+    text-transform: capitalize;
+    font-size: 20px;
+    margin-top: -20px;
+}
 
 #state-guide {
     display: flex;
@@ -30,7 +47,8 @@ body {
     margin: 20px;
     height: 200px;
     text-align: center;
-    font-size: large;
+    font-family: 'Josefin Sans';
+    font-size: 20px;
 }
 
 #stateCard2 {
@@ -41,7 +59,8 @@ body {
     margin: 20px;
     height: 200px;
     text-align: center;
-    font-size: large;
+    font-family: 'Josefin Sans';
+    font-size: 20px;
 }
 
 #stateCard3 {
@@ -52,7 +71,8 @@ body {
     margin: 20px;
     height: 200px;
     text-align: center;
-    font-size: large;
+    font-family: 'Josefin Sans';
+    font-size: 20px;
 }
 
 #button {
@@ -65,34 +85,10 @@ body {
     margin-right: auto;
     margin-left: auto;
     background-color: transparent;
-    font-size: small; 
+    font-family: 'Pathway Gothic One';
+    text-transform: uppercase;
+    font-size: 15px; 
     border: 1px solid black;
     border-radius: 30px;
     font-weight: bold;
 }
-
-/*alternative nav bar design
-
-/* nav ul li {
-    list-style: none;
-    margin: 0 auto;
-    border-right: 2px solid black;
-    font-weight: bold;
-    display: inline-block;
-    padding: 0 60px;
-    position: relative;
-    text-decoration: none;
-    text-align: center;
-    font-family: arvo;
-}
-  
-nav li a {
-    color: black;
-}
-
-nav a {
-    text-decoration: none
-}
-nav a:hover {
-    color: darkblue;
-}  */

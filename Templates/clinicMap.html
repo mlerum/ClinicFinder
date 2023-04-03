@@ -3,18 +3,18 @@
 {% block title %}US Abortion Clinics{% endblock %}
 
 {% block head %}
-    <link rel="stylesheet" href="/static/css/stylesheet.css">
     <link rel="stylesheet" href="/static/css/maps.css">
 {% endblock %}
 
 {% block body %}
+<link href='https://fonts.googleapis.com/css?family=Pathway Gothic One' rel="stylesheet">
 <div class="div">
 <form action="/">
     <button id="button">Homepage</button>
   </form>
 <form id="stateBar">
-    <input id="stateInput" type="text" placeholder="Enter state here">
-    <input type="submit" value="submit">
+    <input id="stateInput" type="text" placeholder="Enter state here" id="text">
+    <input type="submit" value="submit" id="submit">
 </form>
 </div>
     <div id="map" class="container">
