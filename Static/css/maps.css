@@ -12,6 +12,11 @@ html, body {
     margin-top: 20px;
 }
 
+#icon {
+    width: 80%;
+    height: 50%;
+}
+
 h1 {
     text-align: center;
 }
