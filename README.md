@@ -5,18 +5,18 @@ ClinicFinder is a user-driven platform that allows users to search by state for 
 ClinicFinder was conceived, engineered, and designed by Maddie Lerum as a student project for Hackbright Academy's 12-week software engineering fellowship.
 
 #### Contents
-- [Flow] (#flow)
-- [Features] (#features)
-- [Stack] (#stack)
-- [Deployment] (deployment)
+- [Flow](#flow)
+- [Features](#features)
+- [Stack](#stack)
+- [Deployment](deployment)
 
 #### Flow
 Upon entering the URL, users are greeted with a splash page showing a button to bring them to the interactive clinic map.
 
-![homepage_screenshot](static/images/readme/homepage.png)
+![homepage_screenshot](static/images/readme/Homepage.png)
 
 They are also able to view abortion statistic data visualizations:
-![homepage_screenshot](static/images/readme/statistics/png)
+![homepage_screenshot](static/images/readme/Statistics.png)
 
 #### Features
 *Current*
