@@ -13,10 +13,10 @@ ClinicFinder was conceived, engineered, and designed by Maddie Lerum as a studen
 #### Flow
 Upon entering the URL, users are greeted with a splash page showing a button to bring them to the interactive clinic map.
 
-![homepage](static/readme/Homepage.png)
+![homepage](Static/readme/Homepage.png)
 
 They are also able to view abortion statistic data visualizations:
-![data](static/readme/Statistics.png)
+![data](Static/readme/Statistics.png)
 
 #### Features
 *Current*
