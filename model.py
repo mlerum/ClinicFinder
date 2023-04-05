@@ -16,8 +16,9 @@ class User(db.Model):
 
     def __repr__(self):
         """Show info about user."""
-        return f'<User name={self.user_name}>' #need to edit
+        return f'<User name={self.user_name}>'
     
+"""User_Resources class to be utilized in future work."""
 # class User_Resources(db.Model):
 #     """User resources."""
 

@@ -19,7 +19,7 @@ From the homepage, users can also view: a detailed resource guide including advo
 
 #### Features
 *Current*
-- [x] Create account with name and password
+- [x] Create an account with name and password
 - [x] Log in with name and password
 - [x] View marker with name, address, and phone number of each remaining abortion clinic in US
 - [x] Access advocacy, education, research, policy and legal resources
@@ -27,7 +27,7 @@ From the homepage, users can also view: a detailed resource guide including advo
 - [x] Data visualization of abortion statistics in the U.S. 
 
 *Future*
-- [] Save specific clinics to user's account
+- [ ] Save specific clinics to user's account
 
 #### Stack
 ClinicFinder current uses the following Languages, Libraries, and APIs:

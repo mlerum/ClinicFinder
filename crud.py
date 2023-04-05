@@ -19,8 +19,6 @@ def get_user_name(user_name):
 
      return User.query.filter(User.user_name == user_name).first()
 
-#do I want a function to return user_id???
-
 def create_clinic(name, phone, address, lat, lng):
     """Create and return a new clinic."""
 
@@ -50,6 +48,7 @@ def get_resources():
 
     return Resource.query.all()
 
+"""user_resource will be defined in future work."""
 # def user_resource(user_id, clinic_id):
 #     """Create and return user's resource."""
 
@@ -59,7 +58,6 @@ def get_resources():
 #     )
 
 #     return user_resource
-
 
 if __name__ == '__main__':
     from server import app

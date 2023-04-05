@@ -5,10 +5,8 @@ from os import environ
 import crud 
 
 app = Flask(__name__) 
-app.secret_key = '1234' #change to longer string
+app.secret_key = '1234' 
 #GOOGLE_KEY = app.config['GOOGLE_KEY'] 
-
-#Enter all app.route() below:
 
 @app.route('/')
 def homepage():
