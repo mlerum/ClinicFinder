@@ -15,10 +15,7 @@ Upon entering the URL, users are greeted with a splash page showing a button to 
 
 ![homepage](Static/readme/Homepage.png)
 
-From the homepage, users can also view: a detailed resource guide including advocacy, education, research, policy and legal organizations; a state-by-state guide for the current abortion restrictions for each state; log in or create an account; and donate to Planned Parenthood.
-
-They are also able to view abortion statistic data visualizations:
-![data](Static/readme/Statistics.png)
+From the homepage, users can also view: a detailed resource guide including advocacy, education, research, policy and legal organizations; a state-by-state guide for the current abortion restrictions for each state; data visualizations of abortion statistics; log in or create an account; and donate to Planned Parenthood.
 
 #### Features
 *Current*
