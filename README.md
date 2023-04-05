@@ -8,7 +8,7 @@ ClinicFinder was conceived, engineered, and designed by Maddie Lerum as a studen
 - [Flow](#flow)
 - [Features](#features)
 - [Stack](#stack)
-- [Deployment](deployment)
+- [Deployment](#deployment)
 
 #### Flow
 Upon entering the URL, users are greeted with a splash page showing a button to bring them to the interactive clinic map.
